@@ -78,7 +78,14 @@ class DistroTVScraper:
 
     def generate_m3u(self, channels: List[Dict[str, Any]]):
         now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        m3u = ["#EXTM3U", f"# Last Updated: {now} UTC"]
+        
+        url_tvg = "https://raw.githubusercontent.com/buhtigd1/DTV/main/epg.xml"
+
+    m3u = [
+            f'#EXTM3U url-tvg="{url_tvg}"',
+            f"# Last Updated: {now} UTC"
+        ]
+
         referrer = "https://www.distro.tv/"
         
         for ch in sorted(channels, key=lambda x: x['name'].lower()):
