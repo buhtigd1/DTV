@@ -75,13 +75,13 @@ class DistroTVScraper:
         except Exception as e:
             logger.error(f"Feed error: {e}")
             return []
-
+    
     def generate_m3u(self, channels: List[Dict[str, Any]]):
         now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        
+    
         url_tvg = "https://raw.githubusercontent.com/buhtigd1/DTV/main/epg.xml"
-
-    m3u = [
+    
+        m3u = [
             f'#EXTM3U url-tvg="{url_tvg}"',
             f"# Last Updated: {now} UTC"
         ]
