@@ -1220,8 +1220,4 @@
     <display-name>SPORT FISHING TV</display-name>
     <icon src="https://a.jsrdn.com/hls/23064/sport-fishing-tv/logo_20260317_204009_68.png"/>
   </channel>
-  <channel id="distrotv-americas-boating-channel">
-    <display-name>AMERICA'S BOATING CHANNEL</display-name>
-    <icon src="https://a.jsrdn.com/hls/23064/americas-boating-channel/logo_20260324_011816_68.png"/>
-  </channel>
 </tv>
