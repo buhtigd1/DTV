@@ -1220,4 +1220,20 @@
     <display-name>SPORT FISHING TV</display-name>
     <icon src="https://a.jsrdn.com/hls/23064/sport-fishing-tv/logo_20260317_204009_68.png"/>
   </channel>
+  <channel id="distrotv-chrono-tv">
+    <display-name>CHRONO TV</display-name>
+    <icon src="https://a.jsrdn.com/hls/23064/chrono-tv/logo_20260324_012150_68.png"/>
+  </channel>
+  <channel id="distrotv-drive-plus-speed">
+    <display-name>DRIVE + SPEED</display-name>
+    <icon src="https://a.jsrdn.com/hls/22626/drive-plus-speed/logo_20260324_012751_68.jpg"/>
+  </channel>
+  <channel id="distrotv-fight-tv">
+    <display-name>FIGHT TV</display-name>
+    <icon src="https://a.jsrdn.com/hls/23064/fight-tv/logo_20260324_013251_68.png"/>
+  </channel>
+  <channel id="distrotv-horror-tv">
+    <display-name>HORROR TV</display-name>
+    <icon src="https://a.jsrdn.com/hls/23064/horror-tv/logo_20260324_013632_68.png"/>
+  </channel>
 </tv>

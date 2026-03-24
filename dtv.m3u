@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/buhtigd1/DTV/main/epg.xml"
-# Last Updated: 2026-03-24 20:47:19 UTC
+# Last Updated: 2026-03-24 21:41:35 UTC
 #EXTINF:-1 tvg-id="distrotv-24-hour-free-movies" tvg-logo="https://a.jsrdn.com/hls/22907/24-hour-free-movies/logo_20231219_183702_63.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",24 Hour Free Movies
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -330,6 +330,11 @@ https://api-ott.chicasguapas.tv/loggingmediaurlpassthrough/a.m3u8
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="distrotv-chrono-tv" tvg-logo="https://a.jsrdn.com/hls/23064/chrono-tv/logo_20260324_012150_68.png" group-title="Sports" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",CHRONO TV
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/chrono-tv/manifest.m3u8
 #EXTINF:-1 tvg-id="distrotv-cigar-tv" tvg-logo="https://a.jsrdn.com/hls/23212/cigar-tv/logo_20250318_223344_70.png" group-title="Lifestyle" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Cigar TV
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -475,6 +480,11 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/PB75VYPS2NI9IEB7I7T1/hls3/now
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dove/playlist.m3u8
+#EXTINF:-1 tvg-id="distrotv-drive-plus-speed" tvg-logo="https://a.jsrdn.com/hls/22626/drive-plus-speed/logo_20260324_012751_68.jpg" group-title="Sports" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",DRIVE + SPEED
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/drive-plus-speed/manifest.m3u8
 #EXTINF:-1 tvg-id="distrotv-dronetv" tvg-logo="https://a.jsrdn.com/hls/23176/dronetv/logo_20240521_191242_68.png" group-title="Travel" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",DroneTV
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -535,6 +545,11 @@ https://d21x3vavxu7p2x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8
+#EXTINF:-1 tvg-id="distrotv-fight-tv" tvg-logo="https://a.jsrdn.com/hls/23064/fight-tv/logo_20260324_013251_68.png" group-title="Sports" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",FIGHT TV
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fight-tv/manifest.m3u8
 #EXTINF:-1 tvg-id="distrotv-fite-247" tvg-logo="https://a.jsrdn.com/hls/23007/fite-247/logo_20231219_225031_42.png" group-title="Sports" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",FITE 24/7
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -680,6 +695,11 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/91CAL7N2DJN9J22UJVE1/hls3/now
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
+#EXTINF:-1 tvg-id="distrotv-horror-tv" tvg-logo="https://a.jsrdn.com/hls/23064/horror-tv/logo_20260324_013632_68.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",HORROR TV
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horror-tv/master.m3u8
 #EXTINF:-1 tvg-id="distrotv-hunt-fish-tv" tvg-logo="https://a.jsrdn.com/hls/23064/hunt-fish-tv/logo_20260317_202531_68.png" group-title="Sports" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",HUNT FISH TV
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/

@@ -2743,5 +2743,41 @@
         "logo": "https://a.jsrdn.com/hls/23064/sport-fishing-tv/logo_20260317_204009_68.png",
         "group": "Sports",
         "description": "When fishing isn\u2019t just a sport but a way of life. Follow Dan Hernandez to catch more fish around the world."
+    },
+    {
+        "id": "distrotv-chrono-tv",
+        "raw_id": "chrono-tv",
+        "name": "CHRONO TV",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/chrono-tv/manifest.m3u8",
+        "logo": "https://a.jsrdn.com/hls/23064/chrono-tv/logo_20260324_012150_68.png",
+        "group": "Sports",
+        "description": "CHORNO TV brings you the great moments of motorsport, in the intimacy of the F1 drivers and the teams."
+    },
+    {
+        "id": "distrotv-drive-plus-speed",
+        "raw_id": "drive-plus-speed",
+        "name": "DRIVE + SPEED",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/drive-plus-speed/manifest.m3u8",
+        "logo": "https://a.jsrdn.com/hls/22626/drive-plus-speed/logo_20260324_012751_68.jpg",
+        "group": "Sports",
+        "description": "DRIVE + SPEED is your go-to destination for the epitome of Formula 1 excitement"
+    },
+    {
+        "id": "distrotv-fight-tv",
+        "raw_id": "fight-tv",
+        "name": "FIGHT TV",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fight-tv/manifest.m3u8",
+        "logo": "https://a.jsrdn.com/hls/23064/fight-tv/logo_20260324_013251_68.png",
+        "group": "Sports",
+        "description": "FIGHT TV is the channel devoted to broadcasting combat sports, including Wrestling, Boxing, Mixed Martial Arts, K1, MuayTha\u00ef, Kung-Fu, and training tips."
+    },
+    {
+        "id": "distrotv-horror-tv",
+        "raw_id": "horror-tv",
+        "name": "HORROR TV",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horror-tv/master.m3u8",
+        "logo": "https://a.jsrdn.com/hls/23064/horror-tv/logo_20260324_013632_68.png",
+        "group": "Entertainment",
+        "description": "HORROR TV is a premium movie channel dedicated to the best of horror cinema, featuring a wide selection of chilling films from cult classics to modern thrillers. A must-watch destination for fans of dark and intense storytelling."
     }
 ]
