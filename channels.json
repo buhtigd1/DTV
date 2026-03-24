@@ -2743,5 +2743,14 @@
         "logo": "https://a.jsrdn.com/hls/23064/sport-fishing-tv/logo_20260317_204009_68.png",
         "group": "Sports",
         "description": "When fishing isn\u2019t just a sport but a way of life. Follow Dan Hernandez to catch more fish around the world."
+    },
+    {
+        "id": "distrotv-americas-boating-channel",
+        "raw_id": "americas-boating-channel",
+        "name": "AMERICA'S BOATING CHANNEL",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/americas-boating-channel/manifest.m3u8",
+        "logo": "https://a.jsrdn.com/hls/23064/americas-boating-channel/logo_20260324_011816_68.png",
+        "group": "Lifestyle",
+        "description": "AMERICA\u2019S BOATING CHANNEL\u2122 is a family-friendly marine entertainment channel featuring boating education, Coast Guard training, naval series, boat races and sea-themed movies. A unique destination to explore life on the water through adventure, learning and fun."
     }
 ]
