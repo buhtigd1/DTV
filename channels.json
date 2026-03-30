@@ -1386,24 +1386,6 @@
         "description": "\u00a1Toon Goggles tiene todos tus programas infantiles preferidos! Incluyendo tus favoritos como Angry Birds, Om Nom, Gummy Bears, Sonic, Smurfs y muchos m\u00e1s! \u00a1Ven a ver y descubrir ahora!"
     },
     {
-        "id": "distrotv-fork-and-flight",
-        "raw_id": "fork-and-flight",
-        "name": "Fork & Flight",
-        "stream_url": "https://amg00346-vizioono-amg00346c1-distrotv-us-1397.playouts.now.amagi.tv/playlist/amg00346-vizioincfast-forkandflight-distrotvus/playlist.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23147/fork-and-flight/logo_20240411_213817_68.png",
-        "group": "Lifestyle",
-        "description": "Fork & Flight takes you on a journey across food, beverage, and culture with big personalities as they travel the world."
-    },
-    {
-        "id": "distrotv-investigation",
-        "raw_id": "investigation",
-        "name": "Investigation",
-        "stream_url": "https://amg00346-vizioono-amg00346c2-distrotv-us-1396.playouts.now.amagi.tv/playlist/amg00346-vizioincfast-investigation-distrotvus/playlist.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23147/investigation/logo_20240411_214914_68.png",
-        "group": "Documentary",
-        "description": "Unlock the door to crime and mystery with a behind-the-scenes look at some of the most notorious crimes and shocking investigations."
-    },
-    {
         "id": "distrotv-dronetv",
         "raw_id": "dronetv",
         "name": "DroneTV",
@@ -1470,7 +1452,7 @@
         "id": "distrotv-news-nation",
         "raw_id": "news-nation",
         "name": "News Nation",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-nation/index.m3u8",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-nation/master_nnna_distrotv.m3u8",
         "logo": "https://a.jsrdn.com/hls/23184/news-nation/logo_20240807_231558_70.png",
         "group": "News",
         "description": "India\u2019s most trusted Hindi\u00a0News channel."
@@ -1951,6 +1933,15 @@
         "logo": "https://a.jsrdn.com/hls/23212/cigar-tv/logo_20250318_223344_70.png",
         "group": "Lifestyle",
         "description": "Cigar TV holds the unique distinction of being the world's first 24/7 global streaming channel, broadcasted from our Ybor / Cigar City USA Studio available to millions of smart devices, featuring in-depth content about the cigar lifestyle, celebrity interviews, industry related news, product launches, events coverage, documentaries, and profiles of influential cigar aficionados worldwide."
+    },
+    {
+        "id": "distrotv-playing-for-change",
+        "raw_id": "playing-for-change",
+        "name": "Playing For Change",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/playing-for-change/index.m3u8",
+        "logo": "https://a.jsrdn.com/hls/23212/playing-for-change/logo_20250318_223933_70.png",
+        "group": "Music",
+        "description": "Playing For Change is created to inspire and connect the world through music, born from the shared belief that music has the power to break down boundaries and overcome distances between people."
     },
     {
         "id": "distrotv-aaj-ki-khabar",
@@ -2745,6 +2736,24 @@
         "description": "When fishing isn\u2019t just a sport but a way of life. Follow Dan Hernandez to catch more fish around the world."
     },
     {
+        "id": "distrotv-absinthe-tv",
+        "raw_id": "absinthe-tv",
+        "name": "Absinthe TV",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/absinthe-tv/manifest.m3u8",
+        "logo": "https://a.jsrdn.com/hls/23064/absinthe-tv/logo_20260324_011120_68.png",
+        "group": "Sports",
+        "description": "Absinthe TV: The Adventure Sports Channel. The best in SURF, SKATE, SNOW, ART, MUSIC and ADVENTURE!"
+    },
+    {
+        "id": "distrotv-americas-boating-channel",
+        "raw_id": "americas-boating-channel",
+        "name": "AMERICA'S BOATING CHANNEL",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/americas-boating-channel/manifest.m3u8",
+        "logo": "https://a.jsrdn.com/hls/23064/americas-boating-channel/logo_20260324_011816_68.png",
+        "group": "Lifestyle",
+        "description": "AMERICA\u2019S BOATING CHANNEL\u2122 is a family-friendly marine entertainment channel featuring boating education, Coast Guard training, naval series, boat races and sea-themed movies. A unique destination to explore life on the water through adventure, learning and fun."
+    },
+    {
         "id": "distrotv-chrono-tv",
         "raw_id": "chrono-tv",
         "name": "CHRONO TV",
@@ -2779,5 +2788,50 @@
         "logo": "https://a.jsrdn.com/hls/23064/horror-tv/logo_20260324_013632_68.png",
         "group": "Entertainment",
         "description": "HORROR TV is a premium movie channel dedicated to the best of horror cinema, featuring a wide selection of chilling films from cult classics to modern thrillers. A must-watch destination for fans of dark and intense storytelling."
+    },
+    {
+        "id": "distrotv-test-my-ride",
+        "raw_id": "test-my-ride",
+        "name": "TEST MY RIDE",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/test-my-ride/master.m3u8",
+        "logo": "https://a.jsrdn.com/hls/23064/test-my-ride/logo_20260324_014622_68.png",
+        "group": "Sports",
+        "description": "Challenge a Formula 1 driver with your own car! Test My Ride gives drivers the opportunity to go head to head against the ex-Formula 1 driver Mika Salo."
+    },
+    {
+        "id": "distrotv-thalaa-tv",
+        "raw_id": "thalaa-tv",
+        "name": "THALAA TV",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/thalaa-tv/manifest.m3u8",
+        "logo": "https://a.jsrdn.com/hls/23064/thalaa-tv/logo_20260324_015038_68.png",
+        "group": "Entertainment",
+        "description": "THALAA TV showcases iconic Tamil films from the 1970s to the late 1990s, featuring legendary South Indian stars such as Rajinikanth, Kamal Haasan, Gemini Ganesan, Jayalalithaa, Vijay and Sridevi. A tribute to the golden era of Tamil cinema."
+    },
+    {
+        "id": "distrotv-tolly-tv",
+        "raw_id": "tolly-tv",
+        "name": "TOLLY TV",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tolly-tv/manifest.m3u8",
+        "logo": "https://a.jsrdn.com/hls/23064/tolly-tv/logo_20260324_015537_68.png",
+        "group": "Entertainment",
+        "description": "TOLLY TV is dedicated to classic Telugu cinema, showcasing iconic films from the golden era of South Indian movies. Featuring legendary stars and unforgettable stories, it offers a unique journey into the rich heritage of Telugu filmmaking."
+    },
+    {
+        "id": "distrotv-the-ring-tv",
+        "raw_id": "the-ring-tv",
+        "name": "THE RING TV",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-ring-tv/manifest.m3u8",
+        "logo": "https://a.jsrdn.com/hls/23064/the-ring-tv/logo_20260324_015855_68.png",
+        "group": "Sports",
+        "description": "THE RING TV is a combat sports channel featuring events across wrestling, boxing and MMA. From explosive matches to behind-the-scenes content and interviews, it delivers an immersive experience for fight fans worldwide."
+    },
+    {
+        "id": "distrotv-tyc-sports-fan",
+        "raw_id": "tyc-sports-fan",
+        "name": "TyC Sports FAN",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tyc-sports-fan/manifest.m3u8",
+        "logo": "https://a.jsrdn.com/hls/23064/tyc-sports-fan/logo_20260324_020328_68.png",
+        "group": "Sports",
+        "description": "A premium football channel dedicated to Argentine soccer, featuring matches, highlights and exclusive programming. From legendary clubs to rising stars, TyC Sports FAN delivers an authentic and high-energy football experience that connects fans worldwide to the passion of Argentine football."
     }
 ]

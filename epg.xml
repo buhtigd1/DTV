@@ -616,14 +616,6 @@
     <display-name>Toon Goggles en Español</display-name>
     <icon src="https://a.jsrdn.com/hls/22882/toon-goggles-en-espanol/logo_20240322_201153_68.png"/>
   </channel>
-  <channel id="distrotv-fork-and-flight">
-    <display-name>Fork &amp; Flight</display-name>
-    <icon src="https://a.jsrdn.com/hls/23147/fork-and-flight/logo_20240411_213817_68.png"/>
-  </channel>
-  <channel id="distrotv-investigation">
-    <display-name>Investigation</display-name>
-    <icon src="https://a.jsrdn.com/hls/23147/investigation/logo_20240411_214914_68.png"/>
-  </channel>
   <channel id="distrotv-dronetv">
     <display-name>DroneTV</display-name>
     <icon src="https://a.jsrdn.com/hls/23176/dronetv/logo_20240521_191242_68.png"/>
@@ -867,6 +859,10 @@
   <channel id="distrotv-cigar-tv">
     <display-name>Cigar TV</display-name>
     <icon src="https://a.jsrdn.com/hls/23212/cigar-tv/logo_20250318_223344_70.png"/>
+  </channel>
+  <channel id="distrotv-playing-for-change">
+    <display-name>Playing For Change</display-name>
+    <icon src="https://a.jsrdn.com/hls/23212/playing-for-change/logo_20250318_223933_70.png"/>
   </channel>
   <channel id="distrotv-aaj-ki-khabar">
     <display-name>Aaj Ki Khabar</display-name>
@@ -1220,6 +1216,14 @@
     <display-name>SPORT FISHING TV</display-name>
     <icon src="https://a.jsrdn.com/hls/23064/sport-fishing-tv/logo_20260317_204009_68.png"/>
   </channel>
+  <channel id="distrotv-absinthe-tv">
+    <display-name>Absinthe TV</display-name>
+    <icon src="https://a.jsrdn.com/hls/23064/absinthe-tv/logo_20260324_011120_68.png"/>
+  </channel>
+  <channel id="distrotv-americas-boating-channel">
+    <display-name>AMERICA'S BOATING CHANNEL</display-name>
+    <icon src="https://a.jsrdn.com/hls/23064/americas-boating-channel/logo_20260324_011816_68.png"/>
+  </channel>
   <channel id="distrotv-chrono-tv">
     <display-name>CHRONO TV</display-name>
     <icon src="https://a.jsrdn.com/hls/23064/chrono-tv/logo_20260324_012150_68.png"/>
@@ -1235,5 +1239,25 @@
   <channel id="distrotv-horror-tv">
     <display-name>HORROR TV</display-name>
     <icon src="https://a.jsrdn.com/hls/23064/horror-tv/logo_20260324_013632_68.png"/>
+  </channel>
+  <channel id="distrotv-test-my-ride">
+    <display-name>TEST MY RIDE</display-name>
+    <icon src="https://a.jsrdn.com/hls/23064/test-my-ride/logo_20260324_014622_68.png"/>
+  </channel>
+  <channel id="distrotv-thalaa-tv">
+    <display-name>THALAA TV</display-name>
+    <icon src="https://a.jsrdn.com/hls/23064/thalaa-tv/logo_20260324_015038_68.png"/>
+  </channel>
+  <channel id="distrotv-tolly-tv">
+    <display-name>TOLLY TV</display-name>
+    <icon src="https://a.jsrdn.com/hls/23064/tolly-tv/logo_20260324_015537_68.png"/>
+  </channel>
+  <channel id="distrotv-the-ring-tv">
+    <display-name>THE RING TV</display-name>
+    <icon src="https://a.jsrdn.com/hls/23064/the-ring-tv/logo_20260324_015855_68.png"/>
+  </channel>
+  <channel id="distrotv-tyc-sports-fan">
+    <display-name>TyC Sports FAN</display-name>
+    <icon src="https://a.jsrdn.com/hls/23064/tyc-sports-fan/logo_20260324_020328_68.png"/>
   </channel>
 </tv>
