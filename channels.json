@@ -468,15 +468,6 @@
         "description": "Bloomberg Originals is streaming news for a global view and an informed take. Watch live news on the stories changing your business and your world, powered by 2700 journalists in 120 countries."
     },
     {
-        "id": "distrotv-zoomer",
-        "raw_id": "zoomer",
-        "name": "Zoomer TV",
-        "stream_url": "https://dq126dsoud56d.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Zoomer-DistroTV/316.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22923/zoomer/logo_20231219_224547_70.png",
-        "group": "Entertainment",
-        "description": "A Boomer's guide to living well. News, movies, music, plus talks and tips from the world's most influential people on health and wellness, money, technology, travel, and sex and relationships."
-    },
-    {
         "id": "distrotv-xfc-tv",
         "raw_id": "xfc-tv",
         "name": "XFC TV",
@@ -1933,15 +1924,6 @@
         "logo": "https://a.jsrdn.com/hls/23212/cigar-tv/logo_20250318_223344_70.png",
         "group": "Lifestyle",
         "description": "Cigar TV holds the unique distinction of being the world's first 24/7 global streaming channel, broadcasted from our Ybor / Cigar City USA Studio available to millions of smart devices, featuring in-depth content about the cigar lifestyle, celebrity interviews, industry related news, product launches, events coverage, documentaries, and profiles of influential cigar aficionados worldwide."
-    },
-    {
-        "id": "distrotv-playing-for-change",
-        "raw_id": "playing-for-change",
-        "name": "Playing For Change",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/playing-for-change/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23212/playing-for-change/logo_20250318_223933_70.png",
-        "group": "Music",
-        "description": "Playing For Change is created to inspire and connect the world through music, born from the shared belief that music has the power to break down boundaries and overcome distances between people."
     },
     {
         "id": "distrotv-aaj-ki-khabar",

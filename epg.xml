@@ -208,10 +208,6 @@
     <display-name>Bloomberg Originals</display-name>
     <icon src="https://a.jsrdn.com/hls/22938/bloomberg-originals/logo_20231219_184737_67.png"/>
   </channel>
-  <channel id="distrotv-zoomer">
-    <display-name>Zoomer TV</display-name>
-    <icon src="https://a.jsrdn.com/hls/22923/zoomer/logo_20231219_224547_70.png"/>
-  </channel>
   <channel id="distrotv-xfc-tv">
     <display-name>XFC TV</display-name>
     <icon src="https://a.jsrdn.com/hls/22915/xfc-tv/logo_20231219_224405_58.png"/>
@@ -859,10 +855,6 @@
   <channel id="distrotv-cigar-tv">
     <display-name>Cigar TV</display-name>
     <icon src="https://a.jsrdn.com/hls/23212/cigar-tv/logo_20250318_223344_70.png"/>
-  </channel>
-  <channel id="distrotv-playing-for-change">
-    <display-name>Playing For Change</display-name>
-    <icon src="https://a.jsrdn.com/hls/23212/playing-for-change/logo_20250318_223933_70.png"/>
   </channel>
   <channel id="distrotv-aaj-ki-khabar">
     <display-name>Aaj Ki Khabar</display-name>
