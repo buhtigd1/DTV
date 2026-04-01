@@ -952,10 +952,6 @@
     <display-name>Prameya News7</display-name>
     <icon src="https://a.jsrdn.com/hls/23215/prameya-news7/logo_20250614_211231_70.png"/>
   </channel>
-  <channel id="distrotv-amplified-voices-tv">
-    <display-name>Amplified Voices TV</display-name>
-    <icon src="https://a.jsrdn.com/hls/23195/amplified-voices-tv/logo_20250617_211401_70.png"/>
-  </channel>
   <channel id="distrotv-unchainedtv">
     <display-name>UnchainedTV</display-name>
     <icon src="https://a.jsrdn.com/hls/23064/unchainedtv/logo_20250617_212400_70.png"/>

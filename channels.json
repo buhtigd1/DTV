@@ -2142,15 +2142,6 @@
         "description": "Prameya News7, is a leading Odia News Channel of Odisha, India. The platform is proudly promoted by Summa Real Media Private Limited, an esteemed media company with a strong presence in the region."
     },
     {
-        "id": "distrotv-amplified-voices-tv",
-        "raw_id": "amplified-voices-tv",
-        "name": "Amplified Voices TV",
-        "stream_url": "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/0NEDHNB14204IE5V6CIX/hls3/now,-1m/m.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23195/amplified-voices-tv/logo_20250617_211401_70.png",
-        "group": "Entertainment",
-        "description": "The mission of Amplified Voices TV is to develop curated video content for and about Black culture through authentic, complex, and entertaining storytelling. Both networks were successfully launched during Black History Month 2025, as a testament to staying ever-evolving in the narrative as a community. The network brings audience features on news, social justice, the culture, entertainment, and breaking down stories directly affecting our communities. AVTV consistently assembles impactful content from a variety of active online video-sharing platforms, networks, and partnerships."
-    },
-    {
         "id": "distrotv-unchainedtv",
         "raw_id": "unchainedtv",
         "name": "UnchainedTV",
