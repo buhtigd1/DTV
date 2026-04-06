@@ -444,10 +444,6 @@
     <display-name>Bleav Football</display-name>
     <icon src="https://a.jsrdn.com/hls/23091/bleav-football/logo_20231219_184637_64.png"/>
   </channel>
-  <channel id="distrotv-western-bound">
-    <display-name>Western Bound</display-name>
-    <icon src="https://a.jsrdn.com/hls/23092/western-bound/logo_20240903_072116_70.png"/>
-  </channel>
   <channel id="distrotv-cctv-4">
     <display-name>CCTV-4</display-name>
     <icon src="https://a.jsrdn.com/hls/23094/cctv-4/logo_20231219_185256_63.png"/>
