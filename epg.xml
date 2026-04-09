@@ -1,9 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="DistroTV-Scraper-V5">
-  <channel id="distrotv-ftf-sports">
-    <display-name>FTF Sports</display-name>
-    <icon src="https://a.jsrdn.com/hls/22729/ftf-sports/logo_20231219_202018_46.png"/>
-  </channel>
   <channel id="distrotv-horizon-sports">
     <display-name>Horizon Sports</display-name>
     <icon src="https://a.jsrdn.com/hls/22705/horizon-sports/logo_20231219_213910_70.png"/>
@@ -15,18 +11,6 @@
   <channel id="distrotv-outside-tv">
     <display-name>Outside</display-name>
     <icon src="https://a.jsrdn.com/hls/22765/outside-tv/logo_20231219_220634_59.png"/>
-  </channel>
-  <channel id="distrotv-dove">
-    <display-name>Dove</display-name>
-    <icon src="https://a.jsrdn.com/hls/22787/dove/logo_20250204_185615_68.png"/>
-  </channel>
-  <channel id="distrotv-the-first">
-    <display-name>The First</display-name>
-    <icon src="https://a.jsrdn.com/hls/22803/the-first/logo_20231219_223053_36.png"/>
-  </channel>
-  <channel id="distrotv-newsmax-tv">
-    <display-name>Newsmax TV</display-name>
-    <icon src="https://a.jsrdn.com/hls/22819/newsmax-tv/logo_20231219_220350_38.png"/>
   </channel>
   <channel id="distrotv-lone-star">
     <display-name>Lone Star</display-name>
@@ -52,66 +36,6 @@
     <display-name>AWE Plus</display-name>
     <icon src="https://a.jsrdn.com/hls/22866/awe-encore/logo_20231219_184403_70.png"/>
   </channel>
-  <channel id="distrotv-stingray-qello">
-    <display-name>Qello Concerts</display-name>
-    <icon src="https://a.jsrdn.com/hls/22865/stingray-qello/logo_20231219_221133_51.png"/>
-  </channel>
-  <channel id="distrotv-stingray-karaoke">
-    <display-name>Stingray Karaoke</display-name>
-    <icon src="https://a.jsrdn.com/hls/22865/stingray-karaoke/logo_20231219_222517_68.png"/>
-  </channel>
-  <channel id="distrotv-stingray-naturescape">
-    <display-name>Stingray Naturescape</display-name>
-    <icon src="https://a.jsrdn.com/hls/22865/stingray-naturescape/logo_20231219_222535_48.png"/>
-  </channel>
-  <channel id="distrotv-stingray-classica">
-    <display-name>Stingray Classica</display-name>
-    <icon src="https://a.jsrdn.com/hls/22865/stingray-classica/logo_20231219_222229_59.png"/>
-  </channel>
-  <channel id="distrotv-stingray-djazz">
-    <display-name>Stingray DJAZZ</display-name>
-    <icon src="https://a.jsrdn.com/hls/22865/stingray-djazz/logo_20231219_222248_70.png"/>
-  </channel>
-  <channel id="distrotv-stingray-hit-list">
-    <display-name>Stingray Hit List</display-name>
-    <icon src="https://a.jsrdn.com/hls/22865/stingray-hit-list/logo_20231219_222438_68.png"/>
-  </channel>
-  <channel id="distrotv-stingray-hot-country">
-    <display-name>Stingray Hot Country</display-name>
-    <icon src="https://a.jsrdn.com/hls/22865/stingray-hot-country/logo_20231219_222458_68.png"/>
-  </channel>
-  <channel id="distrotv-stingray-rock-alternative">
-    <display-name>Stingray Rock Alternative</display-name>
-    <icon src="https://a.jsrdn.com/hls/22865/stingray-rock-alternative/logo_20231219_222631_68.png"/>
-  </channel>
-  <channel id="distrotv-stingray-pop-adult">
-    <display-name>Stingray Pop Adult</display-name>
-    <icon src="https://a.jsrdn.com/hls/22865/stingray-pop-adult/logo_20231219_222554_68.png"/>
-  </channel>
-  <channel id="distrotv-stingray-classic-rock">
-    <display-name>Stingray Classic Rock</display-name>
-    <icon src="https://a.jsrdn.com/hls/22865/stingray-classic-rock/logo_20231219_222210_68.png"/>
-  </channel>
-  <channel id="distrotv-stringray-remember-the-80s">
-    <display-name>Stingray Remember the 80s</display-name>
-    <icon src="https://a.jsrdn.com/hls/22865/stringray-remember-the-80s/logo_20231219_222612_68.png"/>
-  </channel>
-  <channel id="distrotv-stingray-todays-latin-pop">
-    <display-name>Stingray Éxitos del Momento</display-name>
-    <icon src="https://a.jsrdn.com/hls/22865/stingray-todays-latin-pop/logo_20231219_222310_55.png"/>
-  </channel>
-  <channel id="distrotv-stingray-greatest-hits">
-    <display-name>Stingray Greatest Hits</display-name>
-    <icon src="https://a.jsrdn.com/hls/22865/stingray-greatest-hits/logo_20231219_222354_68.png"/>
-  </channel>
-  <channel id="distrotv-stingray-hiphop-and-rnb">
-    <display-name>Stingray HipHop and RnB</display-name>
-    <icon src="https://a.jsrdn.com/hls/22865/stingray-hiphop-and-rnb/logo_20231219_222417_68.png"/>
-  </channel>
-  <channel id="distrotv-stingray-flashback-70s">
-    <display-name>Stingray Flashback 70s</display-name>
-    <icon src="https://a.jsrdn.com/hls/22865/stingray-flashback-70s/logo_20231219_222333_68.png"/>
-  </channel>
   <channel id="distrotv-schwab-network">
     <display-name>Schwab Network</display-name>
     <icon src="https://a.jsrdn.com/hls/22849/schwab-network/logo_20231219_221750_68.png"/>
@@ -123,14 +47,6 @@
   <channel id="distrotv-world-poker-tour">
     <display-name>World Poker Tour</display-name>
     <icon src="https://a.jsrdn.com/hls/22893/world-poker-tour/logo_20231219_224338_70.png"/>
-  </channel>
-  <channel id="distrotv-law-crime">
-    <display-name>Law &amp; Crime</display-name>
-    <icon src="https://a.jsrdn.com/hls/22884/law-crime/logo_20240131_212533_70.png"/>
-  </channel>
-  <channel id="distrotv-24-hour-free-movies">
-    <display-name>24 Hour Free Movies</display-name>
-    <icon src="https://a.jsrdn.com/hls/22907/24-hour-free-movies/logo_20231219_183702_63.png"/>
   </channel>
   <channel id="distrotv-sqad">
     <display-name>SKWAD</display-name>
@@ -196,33 +112,9 @@
     <display-name>Euronews Español</display-name>
     <icon src="https://a.jsrdn.com/hls/22886/euronews-spa/logo_20231218_175505_70.png"/>
   </channel>
-  <channel id="distrotv-bloomberg-television">
-    <display-name>Bloomberg Television</display-name>
-    <icon src="https://a.jsrdn.com/hls/22938/bloomberg-television/logo_20231219_184756_59.png"/>
-  </channel>
-  <channel id="distrotv-cinelife">
-    <display-name>CineLife</display-name>
-    <icon src="https://a.jsrdn.com/hls/22933/cinelife/logo_20231219_192316_68.png"/>
-  </channel>
-  <channel id="distrotv-bloomberg-originals">
-    <display-name>Bloomberg Originals</display-name>
-    <icon src="https://a.jsrdn.com/hls/22938/bloomberg-originals/logo_20231219_184737_67.png"/>
-  </channel>
   <channel id="distrotv-xfc-tv">
     <display-name>XFC TV</display-name>
     <icon src="https://a.jsrdn.com/hls/22915/xfc-tv/logo_20231219_224405_58.png"/>
-  </channel>
-  <channel id="distrotv-nost-the-nostalgia-network">
-    <display-name>NOST - The Nostalgia Network</display-name>
-    <icon src="https://a.jsrdn.com/hls/22956/nost-the-nostalgia-network/logo_20231219_220428_70.png"/>
-  </channel>
-  <channel id="distrotv-shoplc">
-    <display-name>ShopLC</display-name>
-    <icon src="https://a.jsrdn.com/hls/22957/shoplc/logo_20231219_221828_30.png"/>
-  </channel>
-  <channel id="distrotv-journy">
-    <display-name>Journy</display-name>
-    <icon src="https://a.jsrdn.com/hls/22944/journy/logo_20231219_214422_44.png"/>
   </channel>
   <channel id="distrotv-motorracing">
     <display-name>MotorRacing</display-name>
@@ -231,6 +123,10 @@
   <channel id="distrotv-wion-world-is-one-news">
     <display-name>WION World is One News</display-name>
     <icon src="https://a.jsrdn.com/hls/22975/wion-world-is-one-news/logo_20231219_224158_68.png"/>
+  </channel>
+  <channel id="distrotv-times-now-news">
+    <display-name>Times Now News</display-name>
+    <icon src="https://a.jsrdn.com/hls/22979/times-now-news/logo_20231219_223209_62.png"/>
   </channel>
   <channel id="distrotv-billiard-tv">
     <display-name>Billiard TV</display-name>
@@ -248,13 +144,9 @@
     <display-name>Times Now Navbharat</display-name>
     <icon src="https://a.jsrdn.com/hls/22979/times-now-navbharat/logo_20231219_223143_59.png"/>
   </channel>
-  <channel id="distrotv-ace-tv">
-    <display-name>ACE TV</display-name>
-    <icon src="https://a.jsrdn.com/hls/22990/ace-tv/logo_20231219_183914_68.png"/>
-  </channel>
-  <channel id="distrotv-real-americas-voice">
-    <display-name>Real America's Voice</display-name>
-    <icon src="https://a.jsrdn.com/hls/22995/real-americas-voice/logo_20231219_221226_64.png"/>
+  <channel id="distrotv-zoom-tv">
+    <display-name>Zoom</display-name>
+    <icon src="https://a.jsrdn.com/hls/22979/zoom-tv/logo_20231219_224525_56.png"/>
   </channel>
   <channel id="distrotv-powersports-world">
     <display-name>Powersports World</display-name>
@@ -272,10 +164,6 @@
     <display-name>True History</display-name>
     <icon src="https://a.jsrdn.com/hls/23001/true-history/logo_20231219_223655_68.png"/>
   </channel>
-  <channel id="distrotv-afrolandtv">
-    <display-name>AfroLandTV</display-name>
-    <icon src="https://a.jsrdn.com/hls/23000/afrolandtv/logo_20231219_184044_45.png"/>
-  </channel>
   <channel id="distrotv-acl-cornhole-tv">
     <display-name>ACL Cornhole TV</display-name>
     <icon src="https://a.jsrdn.com/hls/22964/acl-cornhole-tv/logo_20231219_183932_68.png"/>
@@ -287,10 +175,6 @@
   <channel id="distrotv-tv-punjab">
     <display-name>TV Punjab</display-name>
     <icon src="https://a.jsrdn.com/hls/23015/tv-punjab/logo_20231219_223846_50.png"/>
-  </channel>
-  <channel id="distrotv-swerve-combat">
-    <display-name>Swerve Combat</display-name>
-    <icon src="https://a.jsrdn.com/hls/23018/swerve-combat/logo_20231219_222813_26.png"/>
   </channel>
   <channel id="distrotv-abp-news">
     <display-name>ABP News</display-name>
@@ -340,25 +224,9 @@
     <display-name>FITE 24/7</display-name>
     <icon src="https://a.jsrdn.com/hls/23007/fite-247/logo_20231219_225031_42.png"/>
   </channel>
-  <channel id="distrotv-tna-wrestling-channel">
-    <display-name>TNA Wrestling Channel</display-name>
-    <icon src="https://a.jsrdn.com/hls/23045/tna-wrestling-channel/logo_20241121_200825_68.png"/>
-  </channel>
-  <channel id="distrotv-fight-network">
-    <display-name>Fight Network</display-name>
-    <icon src="https://a.jsrdn.com/hls/23046/fight-network/logo_20231219_201512_66.png"/>
-  </channel>
   <channel id="distrotv-africanews">
     <display-name>Africanews</display-name>
     <icon src="https://a.jsrdn.com/hls/22886/africanews/logo_20231218_175639_70.png"/>
-  </channel>
-  <channel id="distrotv-bein-sports-xtra">
-    <display-name>beIN SPORTS Xtra</display-name>
-    <icon src="https://a.jsrdn.com/hls/23038/bein-sports-xtra/logo_20231219_184505_68.png"/>
-  </channel>
-  <channel id="distrotv-bein-sports-xtra-en-espanol">
-    <display-name>beIN SPORTS Xtra en Español</display-name>
-    <icon src="https://a.jsrdn.com/hls/23038/bein-sports-xtra-en-espanol/logo_20231219_184521_68.png"/>
   </channel>
   <channel id="distrotv-pitaara-tv">
     <display-name>Pitaara TV</display-name>
@@ -368,13 +236,9 @@
     <display-name>Watchit Kid!</display-name>
     <icon src="https://a.jsrdn.com/hls/22915/watchit-kid/logo_20231219_224059_68.png"/>
   </channel>
-  <channel id="distrotv-fuel-tv">
+  <channel id="distrotv-fuel-tv-ww">
     <display-name>FUEL TV</display-name>
-    <icon src="https://a.jsrdn.com/hls/23055/fuel-tv/logo_20231219_202037_68.png"/>
-  </channel>
-  <channel id="distrotv-nolly-africa-hd">
-    <display-name>Nolly Africa HD</display-name>
-    <icon src="https://a.jsrdn.com/hls/23057/nolly-africa-hd/logo_20231219_220408_68.png"/>
+    <icon src="https://a.jsrdn.com/hls/23055/fuel-tv-ww/logo_20231219_202054_68.png"/>
   </channel>
   <channel id="distrotv-gusto-tv">
     <display-name>Gusto TV</display-name>
@@ -391,18 +255,6 @@
   <channel id="distrotv-kozoom-tv">
     <display-name>KOZOOM TV</display-name>
     <icon src="https://a.jsrdn.com/hls/23064/kozoom-tv/logo_20231219_214836_63.png"/>
-  </channel>
-  <channel id="distrotv-estrella-tv">
-    <display-name>EstrellaTV</display-name>
-    <icon src="https://a.jsrdn.com/hls/23065/estrella-tv/logo_20231219_201258_66.png"/>
-  </channel>
-  <channel id="distrotv-estrella-news">
-    <display-name>Estrella News</display-name>
-    <icon src="https://a.jsrdn.com/hls/23065/estrella-news/logo_20231219_201240_62.png"/>
-  </channel>
-  <channel id="distrotv-estrella-games">
-    <display-name>Estrella Games</display-name>
-    <icon src="https://a.jsrdn.com/hls/23065/estrella-games/logo_20231219_201220_62.png"/>
   </channel>
   <channel id="distrotv-balle-balle">
     <display-name>Balle Balle</display-name>
@@ -439,10 +291,6 @@
   <channel id="distrotv-motorvision-tv-espanol">
     <display-name>Motorvision TV Español</display-name>
     <icon src="https://a.jsrdn.com/hls/22886/motorvision-tv-espanol/logo_20231219_220007_67.png"/>
-  </channel>
-  <channel id="distrotv-bleav-football">
-    <display-name>Bleav Football</display-name>
-    <icon src="https://a.jsrdn.com/hls/23091/bleav-football/logo_20231219_184637_64.png"/>
   </channel>
   <channel id="distrotv-cctv-4">
     <display-name>CCTV-4</display-name>
@@ -488,10 +336,6 @@
     <display-name>BritAsiaTV</display-name>
     <icon src="https://a.jsrdn.com/hls/22693/britasiatv/logo_20231219_185045_64.png"/>
   </channel>
-  <channel id="distrotv-jewish-life-television-jltv">
-    <display-name>Jewish Life Television JLTV</display-name>
-    <icon src="https://a.jsrdn.com/hls/23114/jewish-life-television-jltv/logo_20231219_214334_56.png"/>
-  </channel>
   <channel id="distrotv-news9live">
     <display-name>News9Live</display-name>
     <icon src="https://a.jsrdn.com/hls/23129/news9live/logo_20250813_011629_68.jpg"/>
@@ -516,13 +360,13 @@
     <display-name>TV9 Marathi</display-name>
     <icon src="https://a.jsrdn.com/hls/23129/tv9-marathi/logo_20231219_225337_68.png"/>
   </channel>
+  <channel id="distrotv-tv9-telugu">
+    <display-name>TV9 Telugu</display-name>
+    <icon src="https://a.jsrdn.com/hls/23129/tv9-telugu/logo_20231219_225400_68.png"/>
+  </channel>
   <channel id="distrotv-floracing-247">
     <display-name>FloRacing 24/7</display-name>
     <icon src="https://a.jsrdn.com/hls/22883/floracing-247/logo_20231219_225054_24.png"/>
-  </channel>
-  <channel id="distrotv-tv9-telugu-usa">
-    <display-name>TV9 Telugu USA</display-name>
-    <icon src="https://a.jsrdn.com/hls/23129/tv9-telugu-usa/logo_20231219_225420_68.png"/>
   </channel>
   <channel id="distrotv-crematv">
     <display-name>crema.tv</display-name>
@@ -552,14 +396,6 @@
     <display-name>Kalyan TV</display-name>
     <icon src="https://a.jsrdn.com/hls/22994/kalyan-tv/logo_20231219_214614_65.png"/>
   </channel>
-  <channel id="distrotv-romance-channel">
-    <display-name>Romance Channel</display-name>
-    <icon src="https://a.jsrdn.com/hls/23077/romance-channel/logo_20231219_221635_53.png"/>
-  </channel>
-  <channel id="distrotv-ntd-news">
-    <display-name>NTD News</display-name>
-    <icon src="https://a.jsrdn.com/hls/23136/ntd-news/logo_20240104_172901_68.png"/>
-  </channel>
   <channel id="distrotv-al-arabiya">
     <display-name>Al Arabiya</display-name>
     <icon src="https://a.jsrdn.com/hls/23137/al-arabiya/logo_20240610_195041_59.png"/>
@@ -588,6 +424,14 @@
     <display-name>Mediacorp Entertainment – Tamil</display-name>
     <icon src="https://a.jsrdn.com/hls/23077/mediacorp-entertainment-tamil/logo_20240102_190222_70.png"/>
   </channel>
+  <channel id="distrotv-shemaroo-bollywood">
+    <display-name>Shemaroo Bollywood</display-name>
+    <icon src="https://a.jsrdn.com/hls/23141/shemaroo-bollywood/logo_20240206_185308_68.png"/>
+  </channel>
+  <channel id="distrotv-shemaroo-filmigaane">
+    <display-name>Shemaroo Filmigaane</display-name>
+    <icon src="https://a.jsrdn.com/hls/23141/shemaroo-filmigaane/logo_20240206_190035_68.png"/>
+  </channel>
   <channel id="distrotv-bollywood-masala">
     <display-name>Bollywood Masala</display-name>
     <icon src="https://a.jsrdn.com/hls/23142/bollywood-masala/logo_20240213_192946_70.png"/>
@@ -600,9 +444,9 @@
     <display-name>Saga Music</display-name>
     <icon src="https://a.jsrdn.com/hls/23146/saga-music/logo_20240322_183949_68.png"/>
   </channel>
-  <channel id="distrotv-pitufo-tv">
-    <display-name>Pitufo TV</display-name>
-    <icon src="https://a.jsrdn.com/hls/22882/pitufo-tv/logo_20240322_195115_70.png"/>
+  <channel id="distrotv-smurf-tv">
+    <display-name>Smurf TV</display-name>
+    <icon src="https://a.jsrdn.com/hls/22882/smurf-tv/logo_20240322_194411_70.png"/>
   </channel>
   <channel id="distrotv-toon-goggles-en-espanol">
     <display-name>Toon Goggles en Español</display-name>
@@ -612,13 +456,9 @@
     <display-name>DroneTV</display-name>
     <icon src="https://a.jsrdn.com/hls/23176/dronetv/logo_20240521_191242_68.png"/>
   </channel>
-  <channel id="distrotv-global-punjab-tv">
-    <display-name>Global Punjab TV</display-name>
-    <icon src="https://a.jsrdn.com/hls/22994/global-punjab-tv/logo_20240604_233922_70.png"/>
-  </channel>
-  <channel id="distrotv-pll-network">
+  <channel id="distrotv-pll-network-ww">
     <display-name>PLL Network</display-name>
-    <icon src="https://a.jsrdn.com/hls/22964/pll-network/logo_20240626_231937_70.png"/>
+    <icon src="https://a.jsrdn.com/hls/22964/pll-network-ww/logo_20240626_232614_70.png"/>
   </channel>
   <channel id="distrotv-trace-uk">
     <display-name>TRACE UK</display-name>
@@ -640,10 +480,6 @@
     <display-name>News Nation</display-name>
     <icon src="https://a.jsrdn.com/hls/23184/news-nation/logo_20240807_231558_70.png"/>
   </channel>
-  <channel id="distrotv-willow-sports">
-    <display-name>Willow Sports</display-name>
-    <icon src="https://a.jsrdn.com/hls/23197/willow-sports/logo_20241003_234953_68.png"/>
-  </channel>
   <channel id="distrotv-punjabi-hits">
     <display-name>Punjabi Hits</display-name>
     <icon src="https://a.jsrdn.com/hls/23196/punjabi-hits/logo_20241010_204324_70.png"/>
@@ -655,6 +491,10 @@
   <channel id="distrotv-ghost-dimension">
     <display-name>Ghost Dimension</display-name>
     <icon src="https://a.jsrdn.com/hls/23195/ghost-dimension/logo_20241023_002738_68.png"/>
+  </channel>
+  <channel id="distrotv-nolly-africa-hd-gb">
+    <display-name>Nolly Africa HD</display-name>
+    <icon src="https://a.jsrdn.com/hls/23201/nolly-africa-hd-gb/logo_20241024_173516_68.png"/>
   </channel>
   <channel id="distrotv-tabbar-hits">
     <display-name>Tabbar Hits</display-name>
@@ -776,10 +616,6 @@
     <display-name>Box Gamers</display-name>
     <icon src="https://a.jsrdn.com/hls/23195/box-gamers/logo_20250102_230327_70.png"/>
   </channel>
-  <channel id="distrotv-digo-tv">
-    <display-name>Digo TV</display-name>
-    <icon src="https://a.jsrdn.com/hls/23195/digo-tv/logo_20250102_231934_70.png"/>
-  </channel>
   <channel id="distrotv-hits-mexicanos">
     <display-name>HITS MEXICANOS</display-name>
     <icon src="https://a.jsrdn.com/hls/23195/hits-mexicanos/logo_20250109_231027_70.png"/>
@@ -791,18 +627,6 @@
   <channel id="distrotv-nigbati-tv">
     <display-name>Nigbati TV</display-name>
     <icon src="https://a.jsrdn.com/hls/23195/nigbati-tv/logo_20250109_233418_70.png"/>
-  </channel>
-  <channel id="distrotv-hi-drama">
-    <display-name>hi Drama!</display-name>
-    <icon src="https://a.jsrdn.com/hls/23205/hi-drama/logo_20250127_184605_68.png"/>
-  </channel>
-  <channel id="distrotv-hi-life">
-    <display-name>hi Life!</display-name>
-    <icon src="https://a.jsrdn.com/hls/23205/hi-life/logo_20250127_190513_68.png"/>
-  </channel>
-  <channel id="distrotv-hi-vida">
-    <display-name>hi Vida!</display-name>
-    <icon src="https://a.jsrdn.com/hls/23205/hi-vida/logo_20250127_192050_68.png"/>
   </channel>
   <channel id="distrotv-living-india-news">
     <display-name>Living India News</display-name>
@@ -828,17 +652,9 @@
     <display-name>OurVinyl</display-name>
     <icon src="https://a.jsrdn.com/hls/23208/ourvinyl/logo_20250211_203651_70.png"/>
   </channel>
-  <channel id="distrotv-my-money">
-    <display-name>My Money</display-name>
-    <icon src="https://a.jsrdn.com/hls/23208/my-money/logo_20250211_204246_70.png"/>
-  </channel>
   <channel id="distrotv-sports-first-tv">
     <display-name>Sports First TV</display-name>
     <icon src="https://a.jsrdn.com/hls/23208/sports-first-tv/logo_20250211_205731_70.png"/>
-  </channel>
-  <channel id="distrotv-cirque-du-soleil">
-    <display-name>Cirque du Soleil</display-name>
-    <icon src="https://a.jsrdn.com/hls/23207/cirque-du-soleil/logo_20260109_175622_70.png"/>
   </channel>
   <channel id="distrotv-aci-on-the-go">
     <display-name>ACI On The Go</display-name>
@@ -956,14 +772,6 @@
     <display-name>POWERtube TV</display-name>
     <icon src="https://a.jsrdn.com/hls/23064/powertube-tv/logo_20250617_213124_70.png"/>
   </channel>
-  <channel id="distrotv-screams-tv-by-trinian">
-    <display-name>Screams TV by Trinian</display-name>
-    <icon src="https://a.jsrdn.com/hls/23064/screams-tv-by-trinian/logo_20250617_213711_70.png"/>
-  </channel>
-  <channel id="distrotv-gritos-tv-by-trinian">
-    <display-name>Gritos TV by Trinian</display-name>
-    <icon src="https://a.jsrdn.com/hls/23064/gritos-tv-by-trinian/logo_20250617_214111_70.png"/>
-  </channel>
   <channel id="distrotv-mi-raza-canal">
     <display-name>Mi Raza Canal</display-name>
     <icon src="https://a.jsrdn.com/hls/23064/mi-raza-canal/logo_20250617_214629_70.png"/>
@@ -1031,6 +839,14 @@
   <channel id="distrotv-abn-andhra-jyothy">
     <display-name>ABN Andhra Jyothy</display-name>
     <icon src="https://a.jsrdn.com/hls/23215/abn-andhra-jyothy/logo_20250911_180032_70.png"/>
+  </channel>
+  <channel id="distrotv-outdoor-channel">
+    <display-name>Outdoor Channel</display-name>
+    <icon src="https://a.jsrdn.com/hls/23208/outdoor-channel/logo_20250911_181607_70.png"/>
+  </channel>
+  <channel id="distrotv-wfn-world-fishing-network">
+    <display-name>WFN: World Fishing Network</display-name>
+    <icon src="https://a.jsrdn.com/hls/23208/wfn-world-fishing-network/logo_20250911_182344_70.png"/>
   </channel>
   <channel id="distrotv-sana-tv">
     <display-name>Sana Tv</display-name>
@@ -1115,10 +931,6 @@
   <channel id="distrotv-pickleball-now">
     <display-name>Pickleball Now</display-name>
     <icon src="https://a.jsrdn.com/hls/22979/pickleball-now/logo_20260106_185156_70.png"/>
-  </channel>
-  <channel id="distrotv-ptc-punjabi-canada">
-    <display-name>PTC Punjabi Canada</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/ptc-punjabi-canada/logo_20260113_224655_70.png"/>
   </channel>
   <channel id="distrotv-amar-ujala">
     <display-name>Amar Ujala</display-name>
@@ -1239,9 +1051,5 @@
   <channel id="distrotv-the-ring-tv">
     <display-name>THE RING TV</display-name>
     <icon src="https://a.jsrdn.com/hls/23064/the-ring-tv/logo_20260324_015855_68.png"/>
-  </channel>
-  <channel id="distrotv-tyc-sports-fan">
-    <display-name>TyC Sports FAN</display-name>
-    <icon src="https://a.jsrdn.com/hls/23064/tyc-sports-fan/logo_20260324_020328_68.png"/>
   </channel>
 </tv>
