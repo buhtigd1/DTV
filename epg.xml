@@ -600,10 +600,6 @@
     <display-name>Pitufo TV</display-name>
     <icon src="https://a.jsrdn.com/hls/22882/pitufo-tv/logo_20240322_195115_70.png"/>
   </channel>
-  <channel id="distrotv-toon-goggles-en-espanol">
-    <display-name>Toon Goggles en Español</display-name>
-    <icon src="https://a.jsrdn.com/hls/22882/toon-goggles-en-espanol/logo_20240322_201153_68.png"/>
-  </channel>
   <channel id="distrotv-dronetv">
     <display-name>DroneTV</display-name>
     <icon src="https://a.jsrdn.com/hls/23176/dronetv/logo_20240521_191242_68.png"/>

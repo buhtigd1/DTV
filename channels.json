@@ -1350,15 +1350,6 @@
         "description": "Te damos la bienvenida a \u00abPITUFO TV\u00bb, el primer y \u00fanico canal dedicado a los Pitufos. Aqu\u00ed puedes ver o redescubrir tus episodios favoritos de tus peque\u00f1os y famosos amigos azules."
     },
     {
-        "id": "distrotv-toon-goggles-en-espanol",
-        "raw_id": "toon-goggles-en-espanol",
-        "name": "Toon Goggles en Espa\u00f1ol",
-        "stream_url": "https://api.toongoggles.com/loggingmediaurlpassthrough/a.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22882/toon-goggles-en-espanol/logo_20240322_201153_68.png",
-        "group": "Entertainment",
-        "description": "\u00a1Toon Goggles tiene todos tus programas infantiles preferidos! Incluyendo tus favoritos como Angry Birds, Om Nom, Gummy Bears, Sonic, Smurfs y muchos m\u00e1s! \u00a1Ven a ver y descubrir ahora!"
-    },
-    {
         "id": "distrotv-dronetv",
         "raw_id": "dronetv",
         "name": "DroneTV",
