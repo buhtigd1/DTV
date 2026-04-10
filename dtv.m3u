@@ -1,5 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/buhtigd1/DTV/main/epg.xml"
-# Last Updated: 2026-04-10 10:59:25 UTC
+# Last Updated: 2026-04-10 11:56:10 UTC
+#EXTINF:-1 tvg-id="distrotv-24-hour-free-movies" tvg-logo="https://a.jsrdn.com/hls/22907/24-hour-free-movies/logo_20231219_183702_63.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",24 Hour Free Movies
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8
 #EXTINF:-1 tvg-id="distrotv-35mm" tvg-logo="https://a.jsrdn.com/hls/23215/35mm/logo_20251028_215600_70.png" group-title="Lifestyle" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",35MM
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -90,6 +95,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/absinthe-tv/manifest.m3u8
+#EXTINF:-1 tvg-id="distrotv-ace-tv" tvg-logo="https://a.jsrdn.com/hls/22990/ace-tv/logo_20231219_183914_68.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",ACE TV
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ace-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="distrotv-aci-on-the-go" tvg-logo="https://a.jsrdn.com/hls/23195/aci-on-the-go/logo_20250220_231008_70.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",ACI On The Go
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -110,6 +120,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://streamdot.broadpeak.io/cff02a74da64d145c102a2d012758398/afxpstr/AfriwoodBlockbuster/index.m3u8
+#EXTINF:-1 tvg-id="distrotv-afrolandtv" tvg-logo="https://a.jsrdn.com/hls/23000/afrolandtv/logo_20231219_184044_45.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",AfroLandTV
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://api-ott.afrolandtv.com/loggingmediaurlpassthrough/a.m3u8
 #EXTINF:-1 tvg-id="distrotv-al-arabiya" tvg-logo="https://a.jsrdn.com/hls/23137/al-arabiya/logo_20240610_195041_59.png" group-title="News" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Al Arabiya
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -165,6 +180,16 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/barktv/barkt.m3u8
+#EXTINF:-1 tvg-id="distrotv-bein-sports-xtra" tvg-logo="https://a.jsrdn.com/hls/23038/bein-sports-xtra/logo_20231219_184505_68.png" group-title="Sports" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",beIN SPORTS Xtra
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra/playlist.m3u8
+#EXTINF:-1 tvg-id="distrotv-bein-sports-xtra-en-espanol" tvg-logo="https://a.jsrdn.com/hls/23038/bein-sports-xtra-en-espanol/logo_20231219_184521_68.png" group-title="Sports" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",beIN SPORTS Xtra en Español
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1 tvg-id="distrotv-bharat-24" tvg-logo="https://a.jsrdn.com/hls/23215/bharat-24/logo_20250611_203139_70.png" group-title="News" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Bharat 24
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -190,6 +215,16 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bless-tv/master.m3u8
+#EXTINF:-1 tvg-id="distrotv-bloomberg-originals" tvg-logo="https://a.jsrdn.com/hls/22938/bloomberg-originals/logo_20231219_184737_67.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Bloomberg Originals
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bloomberg-quicktake/bloombergqt.m3u8
+#EXTINF:-1 tvg-id="distrotv-bloomberg-television" tvg-logo="https://a.jsrdn.com/hls/22938/bloomberg-television/logo_20231219_184756_59.png" group-title="Finance" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Bloomberg Television
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bloomberg-television/bloombergtv.m3u8
 #EXTINF:-1 tvg-id="distrotv-bollywood-4u" tvg-logo="https://a.jsrdn.com/hls/23064/bollywood-4u/logo_20260310_212919_68.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",BOLLYWOOD 4U
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -305,6 +340,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cigar-tv/amgplt0081.m3u8
+#EXTINF:-1 tvg-id="distrotv-cinelife" tvg-logo="https://a.jsrdn.com/hls/22933/cinelife/logo_20231219_192316_68.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",CineLife
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinelife/playlist.m3u8
 #EXTINF:-1 tvg-id="distrotv-cinema-hausa" tvg-logo="https://a.jsrdn.com/hls/23181/cinema-hausa/logo_20231219_192336_67.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Cinema Hausa
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -325,6 +365,11 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/JW6DDHFNN2OK5AXRIPYE/hls3/now
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://stream-us-east-1.getpublica.com/playlist.m3u8
+#EXTINF:-1 tvg-id="distrotv-cirque-du-soleil" tvg-logo="https://a.jsrdn.com/hls/23207/cirque-du-soleil/logo_20260109_175622_70.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Cirque du Soleil
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://amg01439-amg01439c1-amgplt0081.playout.now3.amagi.tv/playlist/amg01439-amg01439c1-amgplt0081/playlist.m3u8
 #EXTINF:-1 tvg-id="distrotv-cjc-television-network" tvg-logo="https://a.jsrdn.com/hls/22886/cjc-television-network/logo_20231219_192447_56.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",CJC Television Network
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -415,6 +460,11 @@ https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/defiance-media/playlist.m3u8
+#EXTINF:-1 tvg-id="distrotv-digo-tv" tvg-logo="https://a.jsrdn.com/hls/23195/digo-tv/logo_20250102_231934_70.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Digo TV
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/59BQXEM0GJPLUZFVD8HQ/hls3/now,-1m/m.m3u8
 #EXTINF:-1 tvg-id="distrotv-discovering-china" tvg-logo="https://a.jsrdn.com/hls/23232/discovering-china/logo_20251105_005016_68.png" group-title="Documentary" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Discovering China
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -425,6 +475,11 @@ https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/PB75VYPS2NI9IEB7I7T1/hls3/now,-1m/m.m3u8
+#EXTINF:-1 tvg-id="distrotv-dove" tvg-logo="https://a.jsrdn.com/hls/22787/dove/logo_20250204_185615_68.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Dove
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dove/playlist.m3u8
 #EXTINF:-1 tvg-id="distrotv-drive-plus-speed" tvg-logo="https://a.jsrdn.com/hls/22626/drive-plus-speed/logo_20260324_012751_68.jpg" group-title="Sports" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",DRIVE + SPEED
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -450,6 +505,21 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/encore/master.m3u8
+#EXTINF:-1 tvg-id="distrotv-estrella-games" tvg-logo="https://a.jsrdn.com/hls/23065/estrella-games/logo_20231219_201220_62.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Estrella Games
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-distrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="distrotv-estrella-news" tvg-logo="https://a.jsrdn.com/hls/23065/estrella-news/logo_20231219_201240_62.png" group-title="News" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Estrella News
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://amg00567-estrellamedia-estrellanews-distrotv-ddste.amagi.tv/playlist/amg00567-estrellamedia-estrellanews-distrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="distrotv-estrella-tv" tvg-logo="https://a.jsrdn.com/hls/23065/estrella-tv/logo_20231219_201258_66.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",EstrellaTV
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-distrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="distrotv-euronews" tvg-logo="https://a.jsrdn.com/hls/22886/euronews/logo_20231218_175557_70.png" group-title="News" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Euronews
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -470,6 +540,11 @@ https://dmecgxuzr2ywk.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d21x3vavxu7p2x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVATV/416.m3u8
+#EXTINF:-1 tvg-id="distrotv-fight-network" tvg-logo="https://a.jsrdn.com/hls/23046/fight-network/logo_20231219_201512_66.png" group-title="Sports" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Fight Network
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8
 #EXTINF:-1 tvg-id="distrotv-fight-tv" tvg-logo="https://a.jsrdn.com/hls/23064/fight-tv/logo_20260324_013251_68.png" group-title="Sports" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",FIGHT TV
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -500,11 +575,16 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://stream-us-east-1.getpublica.com/playlist.m3u8
-#EXTINF:-1 tvg-id="distrotv-fuel-tv-ww" tvg-logo="https://a.jsrdn.com/hls/23055/fuel-tv-ww/logo_20231219_202054_68.png" group-title="Sports" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",FUEL TV
+#EXTINF:-1 tvg-id="distrotv-ftf-sports" tvg-logo="https://a.jsrdn.com/hls/22729/ftf-sports/logo_20231219_202018_46.png" group-title="Sports" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",FTF Sports
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv-ww/playlist.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ftf/FTF_SCTE_B.m3u8
+#EXTINF:-1 tvg-id="distrotv-fuel-tv" tvg-logo="https://a.jsrdn.com/hls/23055/fuel-tv/logo_20231219_202037_68.png" group-title="Sports" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",FUEL TV
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="distrotv-galxy-tv" tvg-logo="https://a.jsrdn.com/hls/22915/galxy-tv/logo_20231219_202129_68.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Galxy TV
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -520,6 +600,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/Q7VW3TCBWCN12JGUJGUY/hls3/now,-1m/m.m3u8
+#EXTINF:-1 tvg-id="distrotv-global-punjab-tv" tvg-logo="https://a.jsrdn.com/hls/22994/global-punjab-tv/logo_20240604_233922_70.png" group-title="News" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Global Punjab TV
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/global-punjab-tv/index.m3u8
 #EXTINF:-1 tvg-id="distrotv-golf-network" tvg-logo="https://a.jsrdn.com/hls/23064/golf-network/logo_20260203_224133_68.png" group-title="Sports" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Golf Network
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -530,6 +615,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/green-chillies-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="distrotv-gritos-tv-by-trinian" tvg-logo="https://a.jsrdn.com/hls/23064/gritos-tv-by-trinian/logo_20250617_214111_70.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Gritos TV by Trinian
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gritos-tv-by-trinian/manifest.m3u8
 #EXTINF:-1 tvg-id="distrotv-gtc-punjabi" tvg-logo="https://a.jsrdn.com/hls/23215/gtc-punjabi/logo_20260122_221155_70.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",GTC Punjabi
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -560,6 +650,21 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/haryana-beat/index.m3u8
+#EXTINF:-1 tvg-id="distrotv-hi-drama" tvg-logo="https://a.jsrdn.com/hls/23205/hi-drama/logo_20250127_184605_68.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",hi Drama!
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hi-drama/distro-cgtn-hidrama.m3u8
+#EXTINF:-1 tvg-id="distrotv-hi-life" tvg-logo="https://a.jsrdn.com/hls/23205/hi-life/logo_20250127_190513_68.png" group-title="Documentary" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",hi Life!
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hi-life/distro-cgtn-hilife.m3u8
+#EXTINF:-1 tvg-id="distrotv-hi-vida" tvg-logo="https://a.jsrdn.com/hls/23205/hi-vida/logo_20250127_192050_68.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",hi Vida!
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hi-vida/distro-cgtn-hivida.m3u8
 #EXTINF:-1 tvg-id="distrotv-hip-hop-tv" tvg-logo="https://a.jsrdn.com/hls/23195/hip-hop-tv/logo_20241211_000952_70.png" group-title="Music" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",HIP HOP TV
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -620,6 +725,16 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/Z96BJ80GR1PEGK44E0SS/hls3/now
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/janataa-tv-kannada/index.m3u8
+#EXTINF:-1 tvg-id="distrotv-jewish-life-television-jltv" tvg-logo="https://a.jsrdn.com/hls/23114/jewish-life-television-jltv/logo_20231219_214334_56.png" group-title="Lifestyle" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Jewish Life Television JLTV
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/jewish-life-television-jltv/jltv.m3u8
+#EXTINF:-1 tvg-id="distrotv-journy" tvg-logo="https://a.jsrdn.com/hls/22944/journy/logo_20231219_214422_44.png" group-title="Travel" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Journy
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/journy/playlist.m3u8
 #EXTINF:-1 tvg-id="distrotv-kaloopy" tvg-logo="https://a.jsrdn.com/hls/22868/kaloopy/logo_20231219_214555_68.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Kaloopy
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -660,6 +775,11 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/FS63B7JS4WE77IAF6J1J/hls3/now
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lakshya-tv/index.m3u8
+#EXTINF:-1 tvg-id="distrotv-law-crime" tvg-logo="https://a.jsrdn.com/hls/22884/law-crime/logo_20240131_212533_70.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Law & Crime
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/law-crime/playlist_scte.m3u8
 #EXTINF:-1 tvg-id="distrotv-living-india-news" tvg-logo="https://a.jsrdn.com/hls/23196/living-india-news/logo_20250205_001641_70.png" group-title="News" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Living India News
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -760,6 +880,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/p
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/munsif-tv/index.m3u8
+#EXTINF:-1 tvg-id="distrotv-my-money" tvg-logo="https://a.jsrdn.com/hls/23208/my-money/logo_20250211_204246_70.png" group-title="Finance" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",My Money
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://dqaj8xog66lli.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-MyMoney/468.m3u8
 #EXTINF:-1 tvg-id="distrotv-nakshatra-digital-tv" tvg-logo="https://a.jsrdn.com/hls/22994/nakshatra-digital-tv/logo_20241127_213756_70.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Nakshatra Digital Tv
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -800,26 +925,41 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news9live/main.m3u8
+#EXTINF:-1 tvg-id="distrotv-newsmax-tv" tvg-logo="https://a.jsrdn.com/hls/22819/newsmax-tv/logo_20231219_220350_38.png" group-title="News" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Newsmax TV
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/newsmax-tv/index.m3u8
 #EXTINF:-1 tvg-id="distrotv-nigbati-tv" tvg-logo="https://a.jsrdn.com/hls/23195/nigbati-tv/logo_20250109_233418_70.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Nigbati TV
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/ELXULYQ68MHDUFJXLJCP/hls3/now,-1m/m.m3u8
-#EXTINF:-1 tvg-id="distrotv-nolly-africa-hd-gb" tvg-logo="https://a.jsrdn.com/hls/23201/nolly-africa-hd-gb/logo_20241024_173516_68.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Nolly Africa HD
+#EXTINF:-1 tvg-id="distrotv-nolly-africa-hd" tvg-logo="https://a.jsrdn.com/hls/23057/nolly-africa-hd/logo_20231219_220408_68.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Nolly Africa HD
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
-https://amg02784-amg02784c1-distrotv-us-3394.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvus/playlist.m3u8
+https://amg02784-amg02784c1-distrotv-latam-5650.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvlatam/playlist.m3u8
 #EXTINF:-1 tvg-id="distrotv-nomadslow-tv" tvg-logo="https://a.jsrdn.com/hls/23195/nomadslow-tv/logo_20250225_225158_70.png" group-title="Lifestyle" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",NOMADslow tv
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QB4B9Z7EPNS0GAY8VTBZ/hls3/now,-1m/m.m3u8
+#EXTINF:-1 tvg-id="distrotv-nost-the-nostalgia-network" tvg-logo="https://a.jsrdn.com/hls/22956/nost-the-nostalgia-network/logo_20231219_220428_70.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",NOST - The Nostalgia Network
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/nost-the-nostalgia-network/nost1.m3u8
 #EXTINF:-1 tvg-id="distrotv-novo-comedy" tvg-logo="https://a.jsrdn.com/hls/23181/novo-comedy/logo_20250818_195239_70.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Novo Comedy
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/novo-comedy/video.m3u8
+#EXTINF:-1 tvg-id="distrotv-ntd-news" tvg-logo="https://a.jsrdn.com/hls/23136/ntd-news/logo_20240104_172901_68.png" group-title="News" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",NTD News
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ntd-news/ntd.m3u8
 #EXTINF:-1 tvg-id="distrotv-oan-encore" tvg-logo="https://a.jsrdn.com/hls/22866/oan-encore/logo_20231219_220536_57.png" group-title="News" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",OAN Plus
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -840,11 +980,6 @@ https://cdn13.crtvnoc.com/ONTV4U-on-DistroTV/index.m3u8
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d2bs6p84qq6krv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OurVinyl/459.m3u8
-#EXTINF:-1 tvg-id="distrotv-outdoor-channel" tvg-logo="https://a.jsrdn.com/hls/23208/outdoor-channel/logo_20250911_181607_70.png" group-title="Lifestyle" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Outdoor Channel
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTVLCOPT:http-origin=https://www.distro.tv/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
-https://d3ehdya3kqqd52.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OutdoorChannelV2/455.m3u8
 #EXTINF:-1 tvg-id="distrotv-outside-tv" tvg-logo="https://a.jsrdn.com/hls/22765/outside-tv/logo_20231219_220634_59.png" group-title="Sports" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Outside
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -865,11 +1000,16 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="distrotv-pll-network-ww" tvg-logo="https://a.jsrdn.com/hls/22964/pll-network-ww/logo_20240626_232614_70.png" group-title="Sports" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",PLL Network
+#EXTINF:-1 tvg-id="distrotv-pitufo-tv" tvg-logo="https://a.jsrdn.com/hls/22882/pitufo-tv/logo_20240322_195115_70.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Pitufo TV
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pll-network-ww/pll.m3u8
+https://api-ott-imps-imps.ottera.tv/loggingmediaurlpassthrough/a.m3u8
+#EXTINF:-1 tvg-id="distrotv-pll-network" tvg-logo="https://a.jsrdn.com/hls/22964/pll-network/logo_20240626_231937_70.png" group-title="Sports" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",PLL Network
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pll-network/pllne.m3u8
 #EXTINF:-1 tvg-id="distrotv-pnc-drama" tvg-logo="https://a.jsrdn.com/hls/23137/pnc-drama/logo_20240610_192157_60.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",PNC Drama
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -900,6 +1040,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/prime-asia-tv/index.m3u8
+#EXTINF:-1 tvg-id="distrotv-ptc-punjabi-canada" tvg-logo="https://a.jsrdn.com/hls/23215/ptc-punjabi-canada/logo_20260113_224655_70.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",PTC Punjabi Canada
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ptc-punjabi-canada/index.m3u8
 #EXTINF:-1 tvg-id="distrotv-punjabi-hits" tvg-logo="https://a.jsrdn.com/hls/23196/punjabi-hits/logo_20241010_204324_70.png" group-title="Music" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Punjabi Hits
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -910,6 +1055,16 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-shorts/index.m3u8
+#EXTINF:-1 tvg-id="distrotv-stingray-qello" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-qello/logo_20231219_221133_51.png" group-title="Music" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Qello Concerts
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/qello-qello001-montreal/distrotv/master.m3u8
+#EXTINF:-1 tvg-id="distrotv-real-americas-voice" tvg-logo="https://a.jsrdn.com/hls/22995/real-americas-voice/logo_20231219_221226_64.png" group-title="News" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Real America's Voice
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/real-americas-voice/RAVDistroTV.m3u8
 #EXTINF:-1 tvg-id="distrotv-revry" tvg-logo="https://a.jsrdn.com/hls/22919/revry/logo_20231219_221503_68.png" group-title="Lifestyle" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Revry
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -935,6 +1090,11 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/0HQB0C0B3JRT3U7C103F/hls3/now
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZA0P8T1MGX/hls3/now,-1m/m.m3u8
+#EXTINF:-1 tvg-id="distrotv-romance-channel" tvg-logo="https://a.jsrdn.com/hls/23077/romance-channel/logo_20231219_221635_53.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Romance Channel
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
 #EXTINF:-1 tvg-id="distrotv-rongeen-tv" tvg-logo="https://a.jsrdn.com/hls/23215/rongeen-tv/logo_20250611_210748_68.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Rongeen Tv
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -980,21 +1140,21 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tdameritrade/playlist.m3u8
+#EXTINF:-1 tvg-id="distrotv-screams-tv-by-trinian" tvg-logo="https://a.jsrdn.com/hls/23064/screams-tv-by-trinian/logo_20250617_213711_70.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Screams TV by Trinian
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/screams-tv-by-trinian/manifest.m3u8
 #EXTINF:-1 tvg-id="distrotv-screendreams-by-invincible" tvg-logo="https://a.jsrdn.com/hls/22915/screendreams-by-invincible/logo_20231219_221808_45.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Screendreams by Invincible
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://stream-us-east-1.getpublica.com/playlist.m3u8
-#EXTINF:-1 tvg-id="distrotv-shemaroo-bollywood" tvg-logo="https://a.jsrdn.com/hls/23141/shemaroo-bollywood/logo_20240206_185308_68.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Shemaroo Bollywood
+#EXTINF:-1 tvg-id="distrotv-shoplc" tvg-logo="https://a.jsrdn.com/hls/22957/shoplc/logo_20231219_221828_30.png" group-title="Lifestyle" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",ShopLC
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/playlist.m3u8
-#EXTINF:-1 tvg-id="distrotv-shemaroo-filmigaane" tvg-logo="https://a.jsrdn.com/hls/23141/shemaroo-filmigaane/logo_20240206_190035_68.png" group-title="Music" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Shemaroo Filmigaane
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTVLCOPT:http-origin=https://www.distro.tv/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/playlist.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shoplc/master.m3u8
 #EXTINF:-1 tvg-id="distrotv-skull-bound-tv" tvg-logo="https://a.jsrdn.com/hls/23195/skull-bound-tv/logo_20250102_202956_70.png" group-title="Sports" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Skull Bound TV
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -1010,11 +1170,6 @@ https://api-ott.skwadplay.com/loggingmediaurlpassthrough/a.m3u8
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://stream-us-east-1.getpublica.com/playlist.m3u8
-#EXTINF:-1 tvg-id="distrotv-smurf-tv" tvg-logo="https://a.jsrdn.com/hls/22882/smurf-tv/logo_20240322_194411_70.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Smurf TV
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTVLCOPT:http-origin=https://www.distro.tv/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
-https://api-ott-imps-imps.ottera.tv/loggingmediaurlpassthrough/a.m3u8
 #EXTINF:-1 tvg-id="distrotv-sport-fishing-tv" tvg-logo="https://a.jsrdn.com/hls/23064/sport-fishing-tv/logo_20260317_204009_68.png" group-title="Sports" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",SPORT FISHING TV
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -1045,6 +1200,76 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/2M5V61S6YGPGM4TXJIXL/hls3/now,-1m/m.m3u8
+#EXTINF:-1 tvg-id="distrotv-stingray-classic-rock" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-classic-rock/logo_20231219_222210_68.png" group-title="Music" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Stingray Classic Rock
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-classic-rock/master.m3u8
+#EXTINF:-1 tvg-id="distrotv-stingray-classica" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-classica/logo_20231219_222229_59.png" group-title="Music" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Stingray Classica
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/classica-cla008-montreal/distrotv/master.m3u8
+#EXTINF:-1 tvg-id="distrotv-stingray-djazz" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-djazz/logo_20231219_222248_70.png" group-title="Music" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Stingray DJAZZ
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/djazz-djaads-montreal/distrotv/master.m3u8
+#EXTINF:-1 tvg-id="distrotv-stingray-flashback-70s" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-flashback-70s/logo_20231219_222333_68.png" group-title="Music" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Stingray Flashback 70s
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-flashback-70s/master.m3u8
+#EXTINF:-1 tvg-id="distrotv-stingray-greatest-hits" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-greatest-hits/logo_20231219_222354_68.png" group-title="Music" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Stingray Greatest Hits
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-greatest-hits/master.m3u8
+#EXTINF:-1 tvg-id="distrotv-stingray-hiphop-and-rnb" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-hiphop-and-rnb/logo_20231219_222417_68.png" group-title="Music" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Stingray HipHop and RnB
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-hiphop-and-rnb/master.m3u8
+#EXTINF:-1 tvg-id="distrotv-stingray-hit-list" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-hit-list/logo_20231219_222438_68.png" group-title="Music" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Stingray Hit List
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-hit-list/master.m3u8
+#EXTINF:-1 tvg-id="distrotv-stingray-hot-country" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-hot-country/logo_20231219_222458_68.png" group-title="Music" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Stingray Hot Country
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-hot-country/master.m3u8
+#EXTINF:-1 tvg-id="distrotv-stingray-karaoke" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-karaoke/logo_20231219_222517_68.png" group-title="Music" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Stingray Karaoke
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/karaoke-kar000-montreal/distrotv/master.m3u8
+#EXTINF:-1 tvg-id="distrotv-stingray-naturescape" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-naturescape/logo_20231219_222535_48.png" group-title="Travel" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Stingray Naturescape
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/naturescape-a003-montreal/distrotv/master.m3u8
+#EXTINF:-1 tvg-id="distrotv-stingray-pop-adult" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-pop-adult/logo_20231219_222554_68.png" group-title="Music" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Stingray Pop Adult
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-pop-adult/master.m3u8
+#EXTINF:-1 tvg-id="distrotv-stringray-remember-the-80s" tvg-logo="https://a.jsrdn.com/hls/22865/stringray-remember-the-80s/logo_20231219_222612_68.png" group-title="Music" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Stingray Remember the 80s
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-remember-the-80s/master.m3u8
+#EXTINF:-1 tvg-id="distrotv-stingray-rock-alternative" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-rock-alternative/logo_20231219_222631_68.png" group-title="Music" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Stingray Rock Alternative
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-rock-alternative/master.m3u8
+#EXTINF:-1 tvg-id="distrotv-stingray-todays-latin-pop" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-todays-latin-pop/logo_20231219_222310_55.png" group-title="Music" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Stingray Éxitos del Momento
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-xitos-del-momento/master.m3u8
 #EXTINF:-1 tvg-id="distrotv-sudarshan-news" tvg-logo="https://a.jsrdn.com/hls/22994/sudarshan-news/logo_20241127_215403_70.png" group-title="News" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Sudarshan News
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -1060,6 +1285,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/swar-shree/index.m3u8
+#EXTINF:-1 tvg-id="distrotv-swerve-combat" tvg-logo="https://a.jsrdn.com/hls/23018/swerve-combat/logo_20231219_222813_26.png" group-title="Sports" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Swerve Combat
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/swerve-combat/playlist.m3u8
 #EXTINF:-1 tvg-id="distrotv-tabbar-hits" tvg-logo="https://a.jsrdn.com/hls/23196/tabbar-hits/logo_20241119_184505_70.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Tabbar Hits
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -1090,6 +1320,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/94N3POFVM3G76E3IZ2WY/hls3/now,-1m/m.m3u8
+#EXTINF:-1 tvg-id="distrotv-the-first" tvg-logo="https://a.jsrdn.com/hls/22803/the-first/logo_20231219_223053_36.png" group-title="News" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",The First
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-first/playlist.m3u8
 #EXTINF:-1 tvg-id="distrotv-the-holiday-tv-channel" tvg-logo="https://a.jsrdn.com/hls/23195/the-holiday-tv-channel/logo_20241127_204328_70.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",The Holiday TV Channel
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -1130,11 +1365,11 @@ https://api-ott.tidpix.com/loggingmediaurlpassthrough/a.m3u8
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/times-now-navbharat/master.m3u8
-#EXTINF:-1 tvg-id="distrotv-times-now-news" tvg-logo="https://a.jsrdn.com/hls/22979/times-now-news/logo_20231219_223209_62.png" group-title="News" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Times Now News
+#EXTINF:-1 tvg-id="distrotv-tna-wrestling-channel" tvg-logo="https://a.jsrdn.com/hls/23045/tna-wrestling-channel/logo_20241121_200825_68.png" group-title="Sports" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",TNA Wrestling Channel
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/times-now-news/master.m3u8
+https://amg00966-amg00966c1-distrotv-us-7706.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="distrotv-tolly-tv" tvg-logo="https://a.jsrdn.com/hls/23064/tolly-tv/logo_20260324_015537_68.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",TOLLY TV
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -1215,11 +1450,16 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-marathi/main.m3u8
-#EXTINF:-1 tvg-id="distrotv-tv9-telugu" tvg-logo="https://a.jsrdn.com/hls/23129/tv9-telugu/logo_20231219_225400_68.png" group-title="News" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",TV9 Telugu
+#EXTINF:-1 tvg-id="distrotv-tv9-telugu-usa" tvg-logo="https://a.jsrdn.com/hls/23129/tv9-telugu-usa/logo_20231219_225420_68.png" group-title="News" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",TV9 Telugu USA
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-telugu/main.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-telugu-usa/main.m3u8
+#EXTINF:-1 tvg-id="distrotv-tyc-sports-fan" tvg-logo="https://a.jsrdn.com/hls/23064/tyc-sports-fan/logo_20260324_020328_68.png" group-title="Sports" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",TyC Sports FAN
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tyc-sports-fan/manifest.m3u8
 #EXTINF:-1 tvg-id="distrotv-unchainedtv" tvg-logo="https://a.jsrdn.com/hls/23064/unchainedtv/logo_20250617_212400_70.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",UnchainedTV
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -1260,11 +1500,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://stream-us-east-1.getpublica.com/playlist.m3u8
-#EXTINF:-1 tvg-id="distrotv-wfn-world-fishing-network" tvg-logo="https://a.jsrdn.com/hls/23208/wfn-world-fishing-network/logo_20250911_182344_70.png" group-title="Sports" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",WFN: World Fishing Network
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTVLCOPT:http-origin=https://www.distro.tv/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
-https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8
 #EXTINF:-1 tvg-id="distrotv-wild-nature" tvg-logo="https://a.jsrdn.com/hls/23208/wild-nature/logo_20250401_214215_70.png" group-title="Travel" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Wild Nature
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -1275,6 +1510,11 @@ https://d3vqzhzmvqrbon.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d3p2bckoqrp179.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV2-MuxIP-WildTV/476.m3u8
+#EXTINF:-1 tvg-id="distrotv-willow-sports" tvg-logo="https://a.jsrdn.com/hls/23197/willow-sports/logo_20241003_234953_68.png" group-title="Sports" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Willow Sports
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
+https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="distrotv-wine-watches-whiskey" tvg-logo="https://a.jsrdn.com/hls/23241/wine-watches-whiskey/logo_20251217_201432_68.png" group-title="Lifestyle" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Wine, Watches & Whiskey
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv/
@@ -1305,8 +1545,3 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8
 #EXTVLCOPT:http-origin=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
-#EXTINF:-1 tvg-id="distrotv-zoom-tv" tvg-logo="https://a.jsrdn.com/hls/22979/zoom-tv/logo_20231219_224525_56.png" group-title="Entertainment" http-referrer="https://www.distro.tv/" http-origin="https://www.distro.tv/" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9",Zoom
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTVLCOPT:http-origin=https://www.distro.tv/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTT Build/STT9.221129.002) GTV/AFTT DistroTV/2.0.9
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
