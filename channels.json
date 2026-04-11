@@ -1,14 +1,5 @@
 [
     {
-        "id": "distrotv-ftf-sports",
-        "raw_id": "ftf-sports",
-        "name": "FTF Sports",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ftf/FTF_SCTE_B.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22729/ftf-sports/logo_20231219_202018_46.png",
-        "group": "Sports",
-        "description": "FTF Sports is an emerging worldwide network offering engaging video content established to serve the passionate fan's appreciation for competition, sportsmanship, and performance. FTF Sports features a 24/7 broadcast, including live games & events, interviews, predictions, analysis, and a variety of dynamic, original programming."
-    },
-    {
         "id": "distrotv-horizon-sports",
         "raw_id": "horizon-sports",
         "name": "Horizon Sports",
@@ -34,33 +25,6 @@
         "logo": "https://a.jsrdn.com/hls/22765/outside-tv/logo_20231219_220634_59.png",
         "group": "Sports",
         "description": "The ultimate channel of adventure sports and outdoor lifestyle videos, proving high-quality, compelling storylines focused on a wide variety of sports including skiing & snowboarding, surfing, climbing, mountain biking, kayaking and more."
-    },
-    {
-        "id": "distrotv-dove",
-        "raw_id": "dove",
-        "name": "Dove",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dove/playlist.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22787/dove/logo_20250204_185615_68.png",
-        "group": "Entertainment",
-        "description": "Escape to romance and excitement with Dove, where heartwarming stories, light-hearted romances, inspiring dramas, and holiday escapes await. Your home away from home. Live. Laugh. Dove."
-    },
-    {
-        "id": "distrotv-the-first",
-        "raw_id": "the-first",
-        "name": "The First",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-first/playlist.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22803/the-first/logo_20231219_223053_36.png",
-        "group": "News",
-        "description": "The First is the new network for free speech and big ideas, and the new TV home of Bill O'Reilly. The First is designed for Americans who love freedom and bold opinions. Hosts include Dana Loesch, Buck Sexton, Jesse Kelly, Mike Slater, and top contributors."
-    },
-    {
-        "id": "distrotv-newsmax-tv",
-        "raw_id": "newsmax-tv",
-        "name": "Newsmax TV",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/newsmax-tv/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22819/newsmax-tv/logo_20231219_220350_38.png",
-        "group": "News",
-        "description": "Newsmax covers the latest developments in politics, national and world news, health, faith, personal finance, and technology with a unique American perspective and topics that the major media often ignore."
     },
     {
         "id": "distrotv-lone-star",
@@ -117,141 +81,6 @@
         "description": "AWE Plus is your vicarious living channel. Enjoy awe-inspiring travel destinations, outrageous cars, amazing homes and much more."
     },
     {
-        "id": "distrotv-stingray-qello",
-        "raw_id": "stingray-qello",
-        "name": "Qello Concerts",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/qello-qello001-montreal/distrotv/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22865/stingray-qello/logo_20231219_221133_51.png",
-        "group": "Music",
-        "description": "Stingray Qello presents your front-row seat to concerts by your favorite artists, bands, and musicians! Experience the encore with thrilling concert-films and get up close and personal with award-winning documentaries."
-    },
-    {
-        "id": "distrotv-stingray-karaoke",
-        "raw_id": "stingray-karaoke",
-        "name": "Stingray Karaoke",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/karaoke-kar000-montreal/distrotv/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22865/stingray-karaoke/logo_20231219_222517_68.png",
-        "group": "Music",
-        "description": "Gather with friends to sing your heart out to your favorite tracks with Stingray Karaoke. From yesterday\u2019s golden oldies to today\u2019s hits, we got you!"
-    },
-    {
-        "id": "distrotv-stingray-naturescape",
-        "raw_id": "stingray-naturescape",
-        "name": "Stingray Naturescape",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/naturescape-a003-montreal/distrotv/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22865/stingray-naturescape/logo_20231219_222535_48.png",
-        "group": "Travel",
-        "description": "Stingray Naturescape offers you an escape to a world of stunning nature scenes, all set to peaceful soundtracks. Relax to a crackling fireplace, soar over a tropical paradise, or get inspired by a sparkling night sky, all from the comfort of home."
-    },
-    {
-        "id": "distrotv-stingray-classica",
-        "raw_id": "stingray-classica",
-        "name": "Stingray Classica",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/classica-cla008-montreal/distrotv/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22865/stingray-classica/logo_20231219_222229_59.png",
-        "group": "Music",
-        "description": "Stingray Classica presents the most beloved masterpieces, breathtaking ballets, opulent operas, and enchanting chamber music! Start your classical music journey now to enjoy spectacular performances, recorded in the world\u2019s grandest venues, featuring world-class conductors, singers, and soloists."
-    },
-    {
-        "id": "distrotv-stingray-djazz",
-        "raw_id": "stingray-djazz",
-        "name": "Stingray DJAZZ",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/djazz-djaads-montreal/distrotv/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22865/stingray-djazz/logo_20231219_222248_70.png",
-        "group": "Music",
-        "description": "Whether you love acid jazz, big band, ragtime, mainstream jazz, or anything in between, experience the most diverse and in-depth concert, performance, and documentary programming on Stingray DJAZZ."
-    },
-    {
-        "id": "distrotv-stingray-hit-list",
-        "raw_id": "stingray-hit-list",
-        "name": "Stingray Hit List",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-hit-list/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22865/stingray-hit-list/logo_20231219_222438_68.png",
-        "group": "Music",
-        "description": "Tune in for a dose of today\u2019s hits and a preview of tomorrow\u2019s sensations. You\u2019ll discover the next chart-toppers before everyone else!"
-    },
-    {
-        "id": "distrotv-stingray-hot-country",
-        "raw_id": "stingray-hot-country",
-        "name": "Stingray Hot Country",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-hot-country/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22865/stingray-hot-country/logo_20231219_222458_68.png",
-        "group": "Music",
-        "description": "Hot Country rounds up brand new country hits and favorites from the past decade."
-    },
-    {
-        "id": "distrotv-stingray-rock-alternative",
-        "raw_id": "stingray-rock-alternative",
-        "name": "Stingray Rock Alternative",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-rock-alternative/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22865/stingray-rock-alternative/logo_20231219_222631_68.png",
-        "group": "Music",
-        "description": "Experience the intensity of the best alternative rock sound. Features hard-hitting acts like Arcade Fire, Billy Talent, The Black Keys, etc."
-    },
-    {
-        "id": "distrotv-stingray-pop-adult",
-        "raw_id": "stingray-pop-adult",
-        "name": "Stingray Pop Adult",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-pop-adult/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22865/stingray-pop-adult/logo_20231219_222554_68.png",
-        "group": "Music",
-        "description": "A romantic mix of pop adult classics. Features current hit makers like Adele and Maroon 5, and timeless favorites such as U2 and Madonna."
-    },
-    {
-        "id": "distrotv-stingray-classic-rock",
-        "raw_id": "stingray-classic-rock",
-        "name": "Stingray Classic Rock",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-classic-rock/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22865/stingray-classic-rock/logo_20231219_222210_68.png",
-        "group": "Music",
-        "description": "Return to the classic rock revolution of the \u201960, \u201870s, and \u201980 with legends like Janis Joplin, Peter Frampton, and The Rolling Stones."
-    },
-    {
-        "id": "distrotv-stringray-remember-the-80s",
-        "raw_id": "stringray-remember-the-80s",
-        "name": "Stingray Remember the 80s",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-remember-the-80s/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22865/stringray-remember-the-80s/logo_20231219_222612_68.png",
-        "group": "Music",
-        "description": "Relive your neon-bright \u201880s memories with the synth-pop sound of stars such as Michael Jackson, George Michael, and Whitney Houston."
-    },
-    {
-        "id": "distrotv-stingray-todays-latin-pop",
-        "raw_id": "stingray-todays-latin-pop",
-        "name": "Stingray \u00c9xitos del Momento",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-xitos-del-momento/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22865/stingray-todays-latin-pop/logo_20231219_222310_55.png",
-        "group": "Music",
-        "description": "Dance along to today's hottest Latin music in genres such as salsa, samba, merengue, flamenco, tango, reggaeton, and reggae."
-    },
-    {
-        "id": "distrotv-stingray-greatest-hits",
-        "raw_id": "stingray-greatest-hits",
-        "name": "Stingray Greatest Hits",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-greatest-hits/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22865/stingray-greatest-hits/logo_20231219_222354_68.png",
-        "group": "Music",
-        "description": "A channel filled with the greatest hits by the most popular bands and artists of all time. A guaranteed crowd-pleaser for every occasion."
-    },
-    {
-        "id": "distrotv-stingray-hiphop-and-rnb",
-        "raw_id": "stingray-hiphop-and-rnb",
-        "name": "Stingray HipHop and RnB",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-hiphop-and-rnb/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22865/stingray-hiphop-and-rnb/logo_20231219_222417_68.png",
-        "group": "Music",
-        "description": "Turn up the volume on the grittiest sounds of today's hip hop scene, featuring hits by Beyonc\u00e9, T-Pain, Rick Ross, Nicki Minaj, etc."
-    },
-    {
-        "id": "distrotv-stingray-flashback-70s",
-        "raw_id": "stingray-flashback-70s",
-        "name": "Stingray Flashback 70s",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-flashback-70s/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22865/stingray-flashback-70s/logo_20231219_222333_68.png",
-        "group": "Music",
-        "description": "Travel back to an explosive decade in music when Abba, Jackson 5, Kool and the Gang, the Bee Gees, and Carole King reigned on the charts."
-    },
-    {
         "id": "distrotv-schwab-network",
         "raw_id": "schwab-network",
         "name": "Schwab Network",
@@ -277,24 +106,6 @@
         "logo": "https://a.jsrdn.com/hls/22893/world-poker-tour/logo_20231219_224338_70.png",
         "group": "Sports",
         "description": "World Poker Tour ignited the global poker boom with a unique television show based on a series of high-stakes tournaments. WPT events turned Gus Hansen into the Great Dane and Daniel Negreanu into Kid Poker, and created dozens of poker-made millionaires."
-    },
-    {
-        "id": "distrotv-law-crime",
-        "raw_id": "law-crime",
-        "name": "Law & Crime",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/law-crime/playlist_scte.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22884/law-crime/logo_20240131_212533_70.png",
-        "group": "Entertainment",
-        "description": "Law&Crime is the leading destination for true crime and law enforcement programming. Founded by acclaimed legal analyst and attorney Dan Abrams, Law&Crime offers an inside look at the compelling world of law enforcement, featuring in-depth bodycam footage and more. Our daily lineup includes binge-worthy law enforcement series plus original primetime programming."
-    },
-    {
-        "id": "distrotv-24-hour-free-movies",
-        "raw_id": "24-hour-free-movies",
-        "name": "24 Hour Free Movies",
-        "stream_url": "https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22907/24-hour-free-movies/logo_20231219_183702_63.png",
-        "group": "Entertainment",
-        "description": "24 Hour Free Movies brings you a growing collection of popular movies and TV shows from around the world. Always Free . . . Always Fun."
     },
     {
         "id": "distrotv-sqad",
@@ -441,33 +252,6 @@
         "description": "El \u00fanico canal de noticias internacional con una perspectiva europea. Su misi\u00f3n es permitir que cada uno se forme su propia opini\u00f3n. Euronews se define por su imparcialidad e independencia."
     },
     {
-        "id": "distrotv-bloomberg-television",
-        "raw_id": "bloomberg-television",
-        "name": "Bloomberg Television",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bloomberg-television/bloombergtv.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22938/bloomberg-television/logo_20231219_184756_59.png",
-        "group": "Finance",
-        "description": "Bloomberg Television delivers business and markets news, data, analysis, and video to the world, featuring stories from Businessweek and Bloomberg News."
-    },
-    {
-        "id": "distrotv-cinelife",
-        "raw_id": "cinelife",
-        "name": "CineLife",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinelife/playlist.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22933/cinelife/logo_20231219_192316_68.png",
-        "group": "Entertainment",
-        "description": "CineLife, the destination for top-rated independent films and award-winning documentaries."
-    },
-    {
-        "id": "distrotv-bloomberg-originals",
-        "raw_id": "bloomberg-originals",
-        "name": "Bloomberg Originals",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bloomberg-quicktake/bloombergqt.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22938/bloomberg-originals/logo_20231219_184737_67.png",
-        "group": "Entertainment",
-        "description": "Bloomberg Originals is streaming news for a global view and an informed take. Watch live news on the stories changing your business and your world, powered by 2700 journalists in 120 countries."
-    },
-    {
         "id": "distrotv-xfc-tv",
         "raw_id": "xfc-tv",
         "name": "XFC TV",
@@ -475,33 +259,6 @@
         "logo": "https://a.jsrdn.com/hls/22915/xfc-tv/logo_20231219_224405_58.png",
         "group": "Sports",
         "description": "Welcome to XFC TV! Home of the XFC FightWorld Network."
-    },
-    {
-        "id": "distrotv-nost-the-nostalgia-network",
-        "raw_id": "nost-the-nostalgia-network",
-        "name": "NOST - The Nostalgia Network",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/nost-the-nostalgia-network/nost1.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22956/nost-the-nostalgia-network/logo_20231219_220428_70.png",
-        "group": "Entertainment",
-        "description": "Classic movies and legendary stars from the Golden age of Hollywood."
-    },
-    {
-        "id": "distrotv-shoplc",
-        "raw_id": "shoplc",
-        "name": "ShopLC",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shoplc/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22957/shoplc/logo_20231219_221828_30.png",
-        "group": "Lifestyle",
-        "description": "Shop LC, the fastest growing video shopping network in America, offers you the lowest prices and greatest value guaranteed\u2026From designer jewelry, watches, beauty products, fashionable apparel and handbags, great gift items and accessories\u2026 and so much more!! Shop LC, Delivering Joy 24/7/365!"
-    },
-    {
-        "id": "distrotv-journy",
-        "raw_id": "journy",
-        "name": "Journy",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/journy/playlist.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22944/journy/logo_20231219_214422_44.png",
-        "group": "Travel",
-        "description": "JOURNY is the only channel at the intersection of travel, art, and culture! Watch curated content focused on immersive experiences and unique storytelling."
     },
     {
         "id": "distrotv-motorracing",
@@ -520,6 +277,15 @@
         "logo": "https://a.jsrdn.com/hls/22975/wion-world-is-one-news/logo_20231219_224158_68.png",
         "group": "News",
         "description": "WION (World is One News) is one of the fastest growing News channels in the world. WION a multinational English news channel examines global issues with in-depth analysis. It is a 24x7 News Network with presence is 80 countries and growing. WION is headquartered in New Delhi, India."
+    },
+    {
+        "id": "distrotv-times-now-news",
+        "raw_id": "times-now-news",
+        "name": "Times Now News",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/times-now-news/master.m3u8",
+        "logo": "https://a.jsrdn.com/hls/22979/times-now-news/logo_20231219_223209_62.png",
+        "group": "News",
+        "description": "Times Now with its credo Now or Nothing takes the centre stage of influencing the influencer, by delivering the most compelling and irreplaceable content to the viewers. Times Now is India\u2019s no. 1 and most viewed English current affairs news channel for over 15 years, in over 100+ countries."
     },
     {
         "id": "distrotv-billiard-tv",
@@ -558,22 +324,13 @@
         "description": "TIMES NETWORK\u2019s first venture in the Hindi News category for HD audience, Times Now Navbharat has ground-breaking innovation and creates a new genre of content. It is an expert curator of segmented and differentiated content across news and entertainment genre."
     },
     {
-        "id": "distrotv-ace-tv",
-        "raw_id": "ace-tv",
-        "name": "ACE TV",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ace-tv/playlist.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22990/ace-tv/logo_20231219_183914_68.png",
+        "id": "distrotv-zoom-tv",
+        "raw_id": "zoom-tv",
+        "name": "Zoom",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8",
+        "logo": "https://a.jsrdn.com/hls/22979/zoom-tv/logo_20231219_224525_56.png",
         "group": "Entertainment",
-        "description": "Unforgettable TV shows and movies traditionally popular through the years, mixed with an exciting variety of programming including Mixed Martial Arts."
-    },
-    {
-        "id": "distrotv-real-americas-voice",
-        "raw_id": "real-americas-voice",
-        "name": "Real America's Voice",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/real-americas-voice/RAVDistroTV.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22995/real-americas-voice/logo_20231219_221226_64.png",
-        "group": "News",
-        "description": "Delivering news programs and live-event coverage that captures the authentic voice and passion of real people all across America. Just Real News & Honest Views!"
+        "description": "India\u2019s largest Bollywood Channel and young India\u2019s newest Entertainment Channel. Zoom offers a wide variety of premium entertaining content, from original shows, Bollywood news, gossips, music, to superstar interviews, and film reviews."
     },
     {
         "id": "distrotv-powersports-world",
@@ -612,15 +369,6 @@
         "description": "True History introduces you to the moments, places, and people that have shaped modern life with the world\u2019s best and most dynamic professors as the stars of the show."
     },
     {
-        "id": "distrotv-afrolandtv",
-        "raw_id": "afrolandtv",
-        "name": "AfroLandTV",
-        "stream_url": "https://api-ott.afrolandtv.com/loggingmediaurlpassthrough/a.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23000/afrolandtv/logo_20231219_184044_45.png",
-        "group": "Entertainment",
-        "description": "Watch hundreds of free African movies, Nollywood, and TV shows from Africa and its diaspora!"
-    },
-    {
         "id": "distrotv-acl-cornhole-tv",
         "raw_id": "acl-cornhole-tv",
         "name": "ACL Cornhole TV",
@@ -646,15 +394,6 @@
         "logo": "https://a.jsrdn.com/hls/23015/tv-punjab/logo_20231219_223846_50.png",
         "group": "News",
         "description": "TV Punjab provides authentic and credible news and high-quality entertainment content featuring Punjabi language. Television Punjab content is designed to reflex the various cultural elements of Punjab."
-    },
-    {
-        "id": "distrotv-swerve-combat",
-        "raw_id": "swerve-combat",
-        "name": "Swerve Combat",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/swerve-combat/playlist.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23018/swerve-combat/logo_20231219_222813_26.png",
-        "group": "Sports",
-        "description": "Swerve Combat delivers non-stop action with boxing, MMA, wrestling, and strength competitions along with gripping stories about the world\u2019s most inspirational athletes."
     },
     {
         "id": "distrotv-abp-news",
@@ -765,24 +504,6 @@
         "description": "FITE 24/7 is here and it's running all day, every day! It's all fighting, all the time."
     },
     {
-        "id": "distrotv-tna-wrestling-channel",
-        "raw_id": "tna-wrestling-channel",
-        "name": "TNA Wrestling Channel",
-        "stream_url": "https://amg00966-amg00966c1-distrotv-us-7706.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-distrotvus/playlist.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23045/tna-wrestling-channel/logo_20241121_200825_68.png",
-        "group": "Sports",
-        "description": "TNA Wrestling puts the spotlight on 20+ years of professional wrestling action, featuring addictive storylines, awe-inspiring athleticism and larger-than-life personalities. Relive all-time classics, modern masterpieces, plus original series."
-    },
-    {
-        "id": "distrotv-fight-network",
-        "raw_id": "fight-network",
-        "name": "Fight Network",
-        "stream_url": "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23046/fight-network/logo_20231219_201512_66.png",
-        "group": "Sports",
-        "description": "The world\u2019s premier 24/7 combat sports linear network\u2019s digital stream dedicated to coverage of combat sports. Fight Network delivers a combination of Original Content, classic fights and compilations from around the word as well as weekly series from wrestling, boxing, MMA and more."
-    },
-    {
         "id": "distrotv-africanews",
         "raw_id": "africanews",
         "name": "Africanews",
@@ -790,24 +511,6 @@
         "logo": "https://a.jsrdn.com/hls/22886/africanews/logo_20231218_175639_70.png",
         "group": "News",
         "description": "Africanews is the only multilingual media outlet covering the latest news and curating compelling stories across the continent from a pan-African perspective. Impartial and independent, Africanews delivers national, regional and international news, and creates a bridge between audiences across the continent and the diaspora."
-    },
-    {
-        "id": "distrotv-bein-sports-xtra",
-        "raw_id": "bein-sports-xtra",
-        "name": "beIN SPORTS Xtra",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra/playlist.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23038/bein-sports-xtra/logo_20231219_184505_68.png",
-        "group": "Sports",
-        "description": "A free, 24/7 English language LIVE sports, news, analysis and highlights network that brings everyone closer to the game."
-    },
-    {
-        "id": "distrotv-bein-sports-xtra-en-espanol",
-        "raw_id": "bein-sports-xtra-en-espanol",
-        "name": "beIN SPORTS Xtra en Espan\u0303ol",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23038/bein-sports-xtra-en-espanol/logo_20231219_184521_68.png",
-        "group": "Sports",
-        "description": "El canal gratuito de deportes en vivo, noticias, an\u00e1lisis y destacados, 24 horas del d\u00eda, 7 d\u00edas de la semana."
     },
     {
         "id": "distrotv-pitaara-tv",
@@ -828,22 +531,13 @@
         "description": "An Epic Collection of Pop culture animation with never before seen originals for viewers of all ages, gamers and everyone!"
     },
     {
-        "id": "distrotv-fuel-tv",
-        "raw_id": "fuel-tv",
+        "id": "distrotv-fuel-tv-ww",
+        "raw_id": "fuel-tv-ww",
         "name": "FUEL TV",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/playlist.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23055/fuel-tv/logo_20231219_202037_68.png",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv-ww/playlist.m3u8",
+        "logo": "https://a.jsrdn.com/hls/23055/fuel-tv-ww/logo_20231219_202054_68.png",
         "group": "Sports",
         "description": "FUEL TV is the only channel dedicated 24/7 to the core action sports of Skateboarding, Surfing, BMX, Snow, Mountain Bike, Wakeboard and all the lifestyle that surrounds them, where Music, Art and Fashion play a decisive role."
-    },
-    {
-        "id": "distrotv-nolly-africa-hd",
-        "raw_id": "nolly-africa-hd",
-        "name": "Nolly Africa HD",
-        "stream_url": "https://amg02784-amg02784c1-distrotv-latam-5650.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvlatam/playlist.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23057/nolly-africa-hd/logo_20231219_220408_68.png",
-        "group": "Entertainment",
-        "description": "Nolly Africa HD is a 24-hour premium Nollywood channel, showing carefully curated English language Nollywood movies, series, talk shows, reality productions and all things Nollywood."
     },
     {
         "id": "distrotv-gusto-tv",
@@ -880,33 +574,6 @@
         "logo": "https://a.jsrdn.com/hls/23064/kozoom-tv/logo_20231219_214836_63.png",
         "group": "Sports",
         "description": "Billiards is one of the most played game in the world. Kozoom TV offers free 24/7 billiards programming. You can watch tournaments from around the world, as well as original programming. For amateurs, it is easy to see your favorite players from all over the world compete on the biggest billiards stage! Kozoom TV is broadcasting all kind of billiards matches such as French Billiards, Carom Billiards, or Pool Billiards. Kozoom TV is made by Billiards Professional who live this Sport. But Kozoom TV is not only the biggest competitions, it is also learning how to play billiards with Masterclass videos and great matches of Carom and Pool commented by top players. Kozoom.com is the first European channel dedicated to billiard fans and offers the most complete experience to billiard lovers. Since 1998, Kozoom has been involved in the promotion of billiards, and now Kozoom TV brings you Billiards at home."
-    },
-    {
-        "id": "distrotv-estrella-tv",
-        "raw_id": "estrella-tv",
-        "name": "EstrellaTV",
-        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-distrotv/playlist.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23065/estrella-tv/logo_20231219_201258_66.png",
-        "group": "Entertainment",
-        "description": "EstrellaTV\u00a0es un canal en espa\u00f1ol l\u00edder en noticias y entretenimiento con una gran variedad de programaci\u00f3n que abarca de noticias y juegos, a reality, competencias de talento y \u201ctalkshows\u201d. \u00a1Una experiencia que no se pueden perder! EstrellaTV\u00a0is a leading Spanish-language news and entertainment\u00a0channel\u00a0with a wide variety of programming ranging from news to game shows, reality shows, talent competitions, and late-night talk shows. A must-see experience!"
-    },
-    {
-        "id": "distrotv-estrella-news",
-        "raw_id": "estrella-news",
-        "name": "Estrella News",
-        "stream_url": "https://amg00567-estrellamedia-estrellanews-distrotv-ddste.amagi.tv/playlist/amg00567-estrellamedia-estrellanews-distrotv/playlist.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23065/estrella-news/logo_20231219_201240_62.png",
-        "group": "News",
-        "description": "Estrella News\u00a0es el \u00fanico canal de noticias digital 24/7 en espa\u00f1ol que ofrece las noticias m\u00e1s relevantes para la comunidad hispana. La cobertura incluye noticias locales, nacionales, de entretenimiento y deportes del mejor equipo period\u00edstico.\u00a0 Estrella News\u00a0is the only 24/7 Spanish-language digital news\u00a0channel, delivering the most relevant and breaking news stories and reports for Hispanics. Coverage includes local, national, entertainment and sports from the best journalists and team."
-    },
-    {
-        "id": "distrotv-estrella-games",
-        "raw_id": "estrella-games",
-        "name": "Estrella Games",
-        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-distrotv/playlist.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23065/estrella-games/logo_20231219_201220_62.png",
-        "group": "Entertainment",
-        "description": "Estrella\u00a0Games\u00a0es\u00a0el\u00a0primer\u00a0canal\u00a0de\u00a0concursos\u00a0en\u00a0espa\u00f1ol\u00a024/7, que\u00a0presenta\u00a0miles de\u00a0t\u00edtulos\u00a0populares,\u00a0originales,\u00a0y de\u00a0competencia\u00a0como\u00a0Cien\u00a0Latinos\u00a0Dijeron,\u00a0Jugando\u00a0con\u00a0Platanito\u00a0y\u00a0Retofamosos The first-ever 24/7 Spanish-language game show channel\u00a0. Estrella Games feature thousands of popular original, classic and competition titles like Jugando con Palatino,\u00a0 Cien Latinos Dijeron, La Mascara del Amor, Retofamosos and more."
     },
     {
         "id": "distrotv-balle-balle",
@@ -1089,15 +756,6 @@
         "description": "BritAsiaTV features the very best in Asian music, both UK based and overseas music. Being a diverse channel with a main focus of Bhangra, Punjabi Pop and Bollywood, BritAsiaTV also offers viewers R&B, Urban music, Hip Hop and Underground music."
     },
     {
-        "id": "distrotv-jewish-life-television-jltv",
-        "raw_id": "jewish-life-television-jltv",
-        "name": "Jewish Life Television JLTV",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/jewish-life-television-jltv/jltv.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23114/jewish-life-television-jltv/logo_20231219_214334_56.png",
-        "group": "Lifestyle",
-        "description": "Jewish Life Television is the nation's largest, most robust Jewish-themed television network. More cultural than religious, JLTV offers entertaining, high-quality programming appealing to viewers of all faiths interested in the history, lifestyle and experience of the Jewish people in the United States, in Israel and around the World."
-    },
-    {
         "id": "distrotv-news9live",
         "raw_id": "news9live",
         "name": "News9Live",
@@ -1152,6 +810,15 @@
         "description": "TV9 Marathi\u00a0is a responsible news brand which has been consistently delivering news in its purest form. TV9 Marathi became the most preferred Marathi news channel in Maharashtra in 2022. It is the No. 1 channel across both the urban and rural Maharashtra/ Goa markets. With a reach of more than 23 million viewers, it also generates more than 38 million impressions per week. TV9 Marathi is the fastest in providing news to viewers and is driven by the renewed philosophy of \u201cKalji Tumchi Hith Maharashtrache\" (Viewers\u2019 concerns and in the interest of Maharashtra). TV9 Marathi stands for fearless and bold journalism. The channel is led by experienced journalist Mr. Umesh Kumawat, known for his aggressive and fearless style."
     },
     {
+        "id": "distrotv-tv9-telugu",
+        "raw_id": "tv9-telugu",
+        "name": "TV9 Telugu",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-telugu/main.m3u8",
+        "logo": "https://a.jsrdn.com/hls/23129/tv9-telugu/logo_20231219_225400_68.png",
+        "group": "News",
+        "description": "TV9 entered the Telugu electronic media space in 2004, during its nascent stage. Since that time, TV9\u2019s slogan, \u201cTowards Better Society\u201d, has been not just a mere tagline but the guiding philosophy and driving policy of TV9 Telugu. TV9 has consistently portrayed news as news and has become synonymous with unbiased news and courageous investigative journalism. On behalf of the people, TV9 has unravelled several bribery cases through its powerful sting operations. Over the years, TV9 has stood as the voice of the voiceless and for the betterment of the citizenry. Whether it is an accident, bomb blast, natural calamity, unforeseen incident, political event or a high-profile case, whether it is in India or abroad, the TV9 Telegu team is at the scene first. With its unique news presentation and credibility, TV9 Telugu has become the No.1 news channel in the twin Telugu states of Andhra Pradesh and Telangana. Rajnikanth Vellalacheruvu leads the TV9 Telugu team."
+    },
+    {
         "id": "distrotv-floracing-247",
         "raw_id": "floracing-247",
         "name": "FloRacing 24/7",
@@ -1159,15 +826,6 @@
         "logo": "https://a.jsrdn.com/hls/22883/floracing-247/logo_20231219_225054_24.png",
         "group": "Sports",
         "description": "All racing, all the time on the FloRacing 24/7 channel! FloRacing is the authentic home of short-track racing \u2013 offering year-long live and on-demand races and content from the best series, events, and tracks, including all-access coverage, breaking news, podcasts, at-track & series-long activations."
-    },
-    {
-        "id": "distrotv-tv9-telugu-usa",
-        "raw_id": "tv9-telugu-usa",
-        "name": "TV9 Telugu USA",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-telugu-usa/main.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23129/tv9-telugu-usa/logo_20231219_225420_68.png",
-        "group": "News",
-        "description": "TV9 entered the Telugu electronic media space in 2004, during its nascent stage. Since that time, TV9\u2019s slogan, \u201cTowards Better Society\u201d, has been not just a mere tagline but the guiding philosophy and driving policy of TV9 Telugu. TV9 has consistently portrayed news as news and has become synonymous with unbiased news and courageous investigative journalism. On behalf of the people, TV9 has unravelled several bribery cases through its powerful sting operations. Over the years, TV9 has stood as the voice of the voiceless and for the betterment of the citizenry. Whether it is an accident, bomb blast, natural calamity, unforeseen incident, political event or a high-profile case, whether it is in India or abroad, the TV9 Telegu team is at the scene first. With its unique news presentation and credibility, TV9 Telugu has become the No.1 news channel in the twin Telugu states of Andhra Pradesh and Telangana. Rajnikanth Vellalacheruvu leads the TV9 Telugu team."
     },
     {
         "id": "distrotv-crematv",
@@ -1233,24 +891,6 @@
         "description": "Kalyan TV has been broadcasting most of the major events in the spiritual world from across Gujarat, which have been enthusiastically cherished by the viewers as these have been fulfilling their spiritual needs. With a Gujarati channel having a strong presence in the community."
     },
     {
-        "id": "distrotv-romance-channel",
-        "raw_id": "romance-channel",
-        "name": "Romance Channel",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23077/romance-channel/logo_20231219_221635_53.png",
-        "group": "Entertainment",
-        "description": "Romance Channel es un mundo donde cada historia de amor es \u00fanica. \u00bfBuscas romance, drama, suspenso o comedia? \u00a1En nuestras pel\u00edculas lo encontrar\u00e1s todo! Desde historias simples y conmovedoras hasta relatos complejos y cautivadores. Romance Channel \u2013 step into the world where every love story unfolds with an allure. Whether you're in the mood for romance, drama, mystery, or comedy, we've got films and TV series for everyone! From sweet tales of first love to more intricate plots."
-    },
-    {
-        "id": "distrotv-ntd-news",
-        "raw_id": "ntd-news",
-        "name": "NTD News",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ntd-news/ntd.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23136/ntd-news/logo_20240104_172901_68.png",
-        "group": "News",
-        "description": "An independent global news network delivering truthful and uncensored news from the US and beyond.\u00a0We cover the issues that affect you and shape our world, without the political noise. We\u2019re famous for our thoughtful in-depth analyses and our\u00a0speciality\u2014China coverage you won't find anywhere else."
-    },
-    {
         "id": "distrotv-al-arabiya",
         "raw_id": "al-arabiya",
         "name": "Al Arabiya",
@@ -1314,6 +954,24 @@
         "description": "Mediacorp Entertainment is the entertainment and lifestyle channel for the entire family! This is where you will find high-quality and innovative productions where stories are told through the lens of Asia. From love, action, thriller and family dramas to keep you at the edge of your seat, to food and travel programmes that bring you on a whirlwind journey of tastes and places, there\u2019s something for everyone. Here you will also find a curated collection of Asian programmes in three languages, Chinese, English and Tamil."
     },
     {
+        "id": "distrotv-shemaroo-bollywood",
+        "raw_id": "shemaroo-bollywood",
+        "name": "Shemaroo Bollywood",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/playlist.m3u8",
+        "logo": "https://a.jsrdn.com/hls/23141/shemaroo-bollywood/logo_20240206_185308_68.png",
+        "group": "Entertainment",
+        "description": "Dive into Bollywood's essence with Shemaroo Bollywood! Offering movies across genres and decades, it's a one-stop destination for seamless cinematic joy. Catering to the heart of every Bollywood connoisseur, experience an unparalleled rollercoaster ride across romance, action, family drama, comedy, and thrilling horror genres. From the groovy '70s to the iconic hits of the 2000s, relive the magic of Bollywood with stars like Amitabh Bachchan, Ranbir Kapoor, and more"
+    },
+    {
+        "id": "distrotv-shemaroo-filmigaane",
+        "raw_id": "shemaroo-filmigaane",
+        "name": "Shemaroo Filmigaane",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/playlist.m3u8",
+        "logo": "https://a.jsrdn.com/hls/23141/shemaroo-filmigaane/logo_20240206_190035_68.png",
+        "group": "Music",
+        "description": "Indulge your senses in the ultimate Bollywood music experience with Shemaroo Filmigaane! Specially curated playlists based on artists, themes, and events cater to every mood\u2014from retro tunes of the '60s to blockbuster hits from the '90s and beyond. Where music meets emotion, every tune is a timeless journey. Whether you seek romance, sentiment, or laughter, Shemaroo Filmigaane is your ultimate destination where music meets emotion."
+    },
+    {
         "id": "distrotv-bollywood-masala",
         "raw_id": "bollywood-masala",
         "name": "Bollywood Masala",
@@ -1341,13 +999,13 @@
         "description": "Saga Music is a 24/7 channel dedicated to serving Punjabi music content globally, showcasing a diverse array of genres including Folk, Pop, Sufi, Hip Hop, and Rap."
     },
     {
-        "id": "distrotv-pitufo-tv",
-        "raw_id": "pitufo-tv",
-        "name": "Pitufo TV",
+        "id": "distrotv-smurf-tv",
+        "raw_id": "smurf-tv",
+        "name": "Smurf TV",
         "stream_url": "https://api-ott-imps-imps.ottera.tv/loggingmediaurlpassthrough/a.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22882/pitufo-tv/logo_20240322_195115_70.png",
+        "logo": "https://a.jsrdn.com/hls/22882/smurf-tv/logo_20240322_194411_70.png",
         "group": "Entertainment",
-        "description": "Te damos la bienvenida a \u00abPITUFO TV\u00bb, el primer y \u00fanico canal dedicado a los Pitufos. Aqu\u00ed puedes ver o redescubrir tus episodios favoritos de tus peque\u00f1os y famosos amigos azules."
+        "description": "Welcome to SMURF TV, the first and only channel 100% dedicated to the Smurfs. Discover or rediscover your favorite episodes with your iconic little blue friends."
     },
     {
         "id": "distrotv-dronetv",
@@ -1359,20 +1017,11 @@
         "description": "Explore the world from the comfort of your living room with DroneTV. \u00a0DroneTV features high quality drone video programming from all over the world, including the most sought-after travel destinations. \u00a0The channel draws from the best videos uploaded to the AirVuz drone video sharing community."
     },
     {
-        "id": "distrotv-global-punjab-tv",
-        "raw_id": "global-punjab-tv",
-        "name": "Global Punjab TV",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/global-punjab-tv/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22994/global-punjab-tv/logo_20240604_233922_70.png",
-        "group": "News",
-        "description": "Global Punjab TV is a premium quality 24X7 HD Punjabi television channel with a programming focus on quality news ,current affairs , politics , religion , culture , entertainment , business ,  humour and education about Punjab and the Punjabi community worldwide. Global Punjab TV is unmatched in its presentation of live community events in USA, Canada and India, thus making it the fastest growing and most sought after Punjabi TV. The content is created by keeping in mind old and young viewers, men and women, modern and traditional, spiritual and trendy generations."
-    },
-    {
-        "id": "distrotv-pll-network",
-        "raw_id": "pll-network",
+        "id": "distrotv-pll-network-ww",
+        "raw_id": "pll-network-ww",
         "name": "PLL Network",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pll-network/pllne.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22964/pll-network/logo_20240626_231937_70.png",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pll-network-ww/pll.m3u8",
+        "logo": "https://a.jsrdn.com/hls/22964/pll-network-ww/logo_20240626_232614_70.png",
         "group": "Sports",
         "description": "The PLL Network is the global destination for the best lacrosse in the world. Relive unforgettable moments from the Premier Lacrosse League, immerse yourself in features & documentaries and witness legendary performances from the past. The fastest game on two feet - 24/7."
     },
@@ -1422,15 +1071,6 @@
         "description": "India\u2019s most trusted Hindi\u00a0News channel."
     },
     {
-        "id": "distrotv-willow-sports",
-        "raw_id": "willow-sports",
-        "name": "Willow Sports",
-        "stream_url": "https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23197/willow-sports/logo_20241003_234953_68.png",
-        "group": "Sports",
-        "description": "Willow Sports is the free home for cricket in North America. The best of live and on-demand action from around the world is available, from ICC World Cups to the IPL. Also, other action packed live sports that will have you on the edge of your seat."
-    },
-    {
         "id": "distrotv-punjabi-hits",
         "raw_id": "punjabi-hits",
         "name": "Punjabi Hits",
@@ -1456,6 +1096,15 @@
         "logo": "https://a.jsrdn.com/hls/23195/ghost-dimension/logo_20241023_002738_68.png",
         "group": "Documentary",
         "description": "Follow Ghost Dimension as they explore the world's most haunted locations, on a quest to seek out paranormal activity."
+    },
+    {
+        "id": "distrotv-nolly-africa-hd-gb",
+        "raw_id": "nolly-africa-hd-gb",
+        "name": "Nolly Africa HD",
+        "stream_url": "https://amg02784-amg02784c1-distrotv-us-3394.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvus/playlist.m3u8",
+        "logo": "https://a.jsrdn.com/hls/23201/nolly-africa-hd-gb/logo_20241024_173516_68.png",
+        "group": "Entertainment",
+        "description": "Nolly Africa HD is a 24-hour premium Nollywood channel, showing carefully curated English language Nollywood movies, series, talk shows, reality productions and all things Nollywood."
     },
     {
         "id": "distrotv-tabbar-hits",
@@ -1728,15 +1377,6 @@
         "description": "Box Gamers Team - \u00a1Canal comunitario de juegos que brinda entretenimiento y comparte la pasi\u00f3n por los videojuegos! Box Gamers Team - Gaming Community Channel that brings entertainment and shares the passion for video games!"
     },
     {
-        "id": "distrotv-digo-tv",
-        "raw_id": "digo-tv",
-        "name": "Digo TV",
-        "stream_url": "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/59BQXEM0GJPLUZFVD8HQ/hls3/now,-1m/m.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23195/digo-tv/logo_20250102_231934_70.png",
-        "group": "Entertainment",
-        "description": "Digo TV fortalece el v\u00ednculo de la di\u00e1spora latina en Estados Unidos con sus ra\u00edces, a trav\u00e9s de contenidos multimedia, noticias y experiencias culturales. Reconectando su cultura con su vida cotidiana y acerc\u00e1ndolos a lo mejor de ella. Digo TV strengthens the bond of the Latin diaspora in the United States with its roots, through multimedia content, news and cultural experiences. Reconnecting their culture to their daily lives and bringing them closer to the best of it."
-    },
-    {
         "id": "distrotv-hits-mexicanos",
         "raw_id": "hits-mexicanos",
         "name": "HITS MEXICANOS",
@@ -1762,33 +1402,6 @@
         "logo": "https://a.jsrdn.com/hls/23195/nigbati-tv/logo_20250109_233418_70.png",
         "group": "Entertainment",
         "description": "Nigbati TV is a twenty-four hour entertainment channel that propagates the culture, tradition and language of the Yoruba people."
-    },
-    {
-        "id": "distrotv-hi-drama",
-        "raw_id": "hi-drama",
-        "name": "hi Drama!",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hi-drama/distro-cgtn-hidrama.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23205/hi-drama/logo_20250127_184605_68.png",
-        "group": "Entertainment",
-        "description": "hi Drama! brings together popular Chinese TV dramas, including classic historical dramas, urban romances, political intrigue, and suspenseful thrillers. It aims to provide a rich and diverse viewing experience for audiences of all ages."
-    },
-    {
-        "id": "distrotv-hi-life",
-        "raw_id": "hi-life",
-        "name": "hi Life!",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hi-life/distro-cgtn-hilife.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23205/hi-life/logo_20250127_190513_68.png",
-        "group": "Documentary",
-        "description": "hi Life! features documentaries with strong Chinese characteristics and grand gala programs, showcasing China's cultural landscapes, historical heritage, stunning scenery, and delicious cuisine. It aims to help overseas audiences discover and understand\u00a0China."
-    },
-    {
-        "id": "distrotv-hi-vida",
-        "raw_id": "hi-vida",
-        "name": "hi Vida!",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hi-vida/distro-cgtn-hivida.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23205/hi-vida/logo_20250127_192050_68.png",
-        "group": "Entertainment",
-        "description": "This channel offers the ultimate experience with Spanish versions of beloved Chinese classic TV programs. Its carefully curated selection highlights rich storytelling and deep cultural themes, making it accessible and enjoyable for Spanish-speaking audiences."
     },
     {
         "id": "distrotv-living-india-news",
@@ -1845,15 +1458,6 @@
         "description": "OurVinyl films live performances with both emerging and established musicians"
     },
     {
-        "id": "distrotv-my-money",
-        "raw_id": "my-money",
-        "name": "My Money",
-        "stream_url": "https://dqaj8xog66lli.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-MyMoney/468.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23208/my-money/logo_20250211_204246_70.png",
-        "group": "Finance",
-        "description": "Engaging series all things Money. From saving, spending, managing debt, entrepreneurial ventures, wealth building & much more"
-    },
-    {
         "id": "distrotv-sports-first-tv",
         "raw_id": "sports-first-tv",
         "name": "Sports First TV",
@@ -1861,15 +1465,6 @@
         "logo": "https://a.jsrdn.com/hls/23208/sports-first-tv/logo_20250211_205731_70.png",
         "group": "Sports",
         "description": "FAST moving 24/7 Sports News Network, daily breaking news about global sports, with interviews, features and highlights of the biggest sports events from over 200 sports federations. Covers sports from US and all around the world, EPL, NBA, NFL, MLB, F1, golf, tennis, cricket, etc."
-    },
-    {
-        "id": "distrotv-cirque-du-soleil",
-        "raw_id": "cirque-du-soleil",
-        "name": "Cirque du Soleil",
-        "stream_url": "https://amg01439-amg01439c1-amgplt0081.playout.now3.amagi.tv/playlist/amg01439-amg01439c1-amgplt0081/playlist.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23207/cirque-du-soleil/logo_20260109_175622_70.png",
-        "group": "Entertainment",
-        "description": "A compilation of Cirque du Soleil programs, including dozens of eye-popping live-capture performances, documentaries, master classes, Blue Man Group specials, music videos, and much more."
     },
     {
         "id": "distrotv-aci-on-the-go",
@@ -2133,24 +1728,6 @@
         "description": "POWERtube TV features racing, high-performance builds, grassroots motorsports, and classic hit series such as PINKS, Pass Time, and PINKS All Out."
     },
     {
-        "id": "distrotv-screams-tv-by-trinian",
-        "raw_id": "screams-tv-by-trinian",
-        "name": "Screams TV by Trinian",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/screams-tv-by-trinian/manifest.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23064/screams-tv-by-trinian/logo_20250617_213711_70.png",
-        "group": "Entertainment",
-        "description": "Trinian Screams TV \u2013 where nightmares never end! Watch the scariest horror movies, from bone-chilling classics to modern-day terrors. Dare to watch?"
-    },
-    {
-        "id": "distrotv-gritos-tv-by-trinian",
-        "raw_id": "gritos-tv-by-trinian",
-        "name": "Gritos TV by Trinian",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gritos-tv-by-trinian/manifest.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23064/gritos-tv-by-trinian/logo_20250617_214111_70.png",
-        "group": "Entertainment",
-        "description": "Trinian Gritos TV - \u00a1donde las pesadillas nunca terminan! Vea las pel\u00edculas de terror m\u00e1s espeluznantes, desde los cl\u00e1sicos m\u00e1s escalofriantes hasta los terrores de hoy en d\u00eda. \u00bfTe atreves?"
-    },
-    {
         "id": "distrotv-mi-raza-canal",
         "raw_id": "mi-raza-canal",
         "name": "Mi Raza Canal",
@@ -2302,6 +1879,24 @@
         "logo": "https://a.jsrdn.com/hls/23215/abn-andhra-jyothy/logo_20250911_180032_70.png",
         "group": "News",
         "description": "ABN Andhra Jyothi is a 24x7 Telugu news channel delivering breaking news, live updates, political debates, and exclusive interviews. Launched in 2009 under Aamoda Broadcasting Network, it has become a trusted source for fearless journalism across Andhra Pradesh, Telangana, and beyond. With its tagline \u201cWe Report, You Decide,\u201d the channel offers a wide mix of programming\u2014ranging from investigative reports to entertainment and business news. Its flagship talk show Open Heart with RK is among the most watched in Telugu media. ABN also reaches millions digitally through AndhraJyothi.com, extending its legacy of bold and impactful journalism."
+    },
+    {
+        "id": "distrotv-outdoor-channel",
+        "raw_id": "outdoor-channel",
+        "name": "Outdoor Channel",
+        "stream_url": "https://d3ehdya3kqqd52.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OutdoorChannelV2/455.m3u8",
+        "logo": "https://a.jsrdn.com/hls/23208/outdoor-channel/logo_20250911_181607_70.png",
+        "group": "Lifestyle",
+        "description": "At Outdoor Channel, we connect our viewers to the great outdoors. Our best-in-class programming provides excitement, insight, expertise, and pure inspiration to our loyal viewers. We invite you to #FindYourAdventure on Outdoor Channel."
+    },
+    {
+        "id": "distrotv-wfn-world-fishing-network",
+        "raw_id": "wfn-world-fishing-network",
+        "name": "WFN: World Fishing Network",
+        "stream_url": "https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8",
+        "logo": "https://a.jsrdn.com/hls/23208/wfn-world-fishing-network/logo_20250911_182344_70.png",
+        "group": "Sports",
+        "description": "WFN: World Fishing Network is the only 24/7 TV channel devoted to fishing. Programming covers instruction, tips, tournaments, travel, outdoor lifestyle & more."
     },
     {
         "id": "distrotv-sana-tv",
@@ -2491,15 +2086,6 @@
         "logo": "https://a.jsrdn.com/hls/22979/pickleball-now/logo_20260106_185156_70.png",
         "group": "Sports",
         "description": "Your global home for Pickleball! Watch live tournaments, on-demand replays, player interviews, short-form highlights, tactics, and behind-the-scenes access from the world\u2019s fastest-growing sport. Every rally, every emotion, every story \u2014 Pickleball Now brings it all together."
-    },
-    {
-        "id": "distrotv-ptc-punjabi-canada",
-        "raw_id": "ptc-punjabi-canada",
-        "name": "PTC Punjabi Canada",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ptc-punjabi-canada/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/ptc-punjabi-canada/logo_20260113_224655_70.png",
-        "group": "Entertainment",
-        "description": "PTC Punjab, the oldest and most premium Punjabi channel, has long been a trusted window into Punjab\u2019s heart and soul. Through entertainment, news, Gurbani, music, and cultural programming, it proudly celebrates Punjabi heritage and connects audiences worldwide to their roots."
     },
     {
         "id": "distrotv-amar-ujala",
@@ -2770,14 +2356,5 @@
         "logo": "https://a.jsrdn.com/hls/23064/the-ring-tv/logo_20260324_015855_68.png",
         "group": "Sports",
         "description": "THE RING TV is a combat sports channel featuring events across wrestling, boxing and MMA. From explosive matches to behind-the-scenes content and interviews, it delivers an immersive experience for fight fans worldwide."
-    },
-    {
-        "id": "distrotv-tyc-sports-fan",
-        "raw_id": "tyc-sports-fan",
-        "name": "TyC Sports FAN",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tyc-sports-fan/manifest.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23064/tyc-sports-fan/logo_20260324_020328_68.png",
-        "group": "Sports",
-        "description": "A premium football channel dedicated to Argentine soccer, featuring matches, highlights and exclusive programming. From legendary clubs to rising stars, TyC Sports FAN delivers an authentic and high-energy football experience that connects fans worldwide to the passion of Argentine football."
     }
 ]
