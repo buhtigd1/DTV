@@ -1,9 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="DistroTV-Scraper-V5">
-  <channel id="distrotv-ftf-sports">
-    <display-name>FTF Sports</display-name>
-    <icon src="https://a.jsrdn.com/hls/22729/ftf-sports/logo_20231219_202018_46.png"/>
-  </channel>
   <channel id="distrotv-horizon-sports">
     <display-name>Horizon Sports</display-name>
     <icon src="https://a.jsrdn.com/hls/22705/horizon-sports/logo_20231219_213910_70.png"/>
