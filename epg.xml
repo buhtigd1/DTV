@@ -1,13 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="DistroTV-Scraper-V5">
-  <channel id="distrotv-horizon-sports">
-    <display-name>Horizon Sports</display-name>
-    <icon src="https://a.jsrdn.com/hls/22705/horizon-sports/logo_20231219_213910_70.png"/>
-  </channel>
-  <channel id="distrotv-the-boat-show">
-    <display-name>The Boat Show</display-name>
-    <icon src="https://a.jsrdn.com/hls/22706/the-boat-show/logo_20231219_223008_70.png"/>
-  </channel>
   <channel id="distrotv-outside-tv">
     <display-name>Outside</display-name>
     <icon src="https://a.jsrdn.com/hls/22765/outside-tv/logo_20231219_220634_59.png"/>
@@ -19,10 +11,6 @@
   <channel id="distrotv-newsmax-tv">
     <display-name>Newsmax TV</display-name>
     <icon src="https://a.jsrdn.com/hls/22819/newsmax-tv/logo_20231219_220350_38.png"/>
-  </channel>
-  <channel id="distrotv-lone-star">
-    <display-name>Lone Star</display-name>
-    <icon src="https://a.jsrdn.com/hls/22759/lone-star/logo_20231219_215208_70.png"/>
   </channel>
   <channel id="distrotv-kaloopy">
     <display-name>Kaloopy</display-name>
@@ -208,29 +196,9 @@
     <display-name>Journy</display-name>
     <icon src="https://a.jsrdn.com/hls/22944/journy/logo_20231219_214422_44.png"/>
   </channel>
-  <channel id="distrotv-motorracing">
-    <display-name>MotorRacing</display-name>
-    <icon src="https://a.jsrdn.com/hls/22705/motorracing/logo_20231219_215946_68.png"/>
-  </channel>
   <channel id="distrotv-wion-world-is-one-news">
     <display-name>WION World is One News</display-name>
     <icon src="https://a.jsrdn.com/hls/22975/wion-world-is-one-news/logo_20231219_224158_68.png"/>
-  </channel>
-  <channel id="distrotv-billiard-tv">
-    <display-name>Billiard TV</display-name>
-    <icon src="https://a.jsrdn.com/hls/22964/billiard-tv/logo_20231219_184548_37.png"/>
-  </channel>
-  <channel id="distrotv-barktv">
-    <display-name>BarkTV</display-name>
-    <icon src="https://a.jsrdn.com/hls/22964/barktv/logo_20240220_175434_70.png"/>
-  </channel>
-  <channel id="distrotv-mirror-now">
-    <display-name>Mirror Now</display-name>
-    <icon src="https://a.jsrdn.com/hls/22979/mirror-now/logo_20231219_215545_66.png"/>
-  </channel>
-  <channel id="distrotv-times-now-navbharat">
-    <display-name>Times Now Navbharat</display-name>
-    <icon src="https://a.jsrdn.com/hls/22979/times-now-navbharat/logo_20231219_223143_59.png"/>
   </channel>
   <channel id="distrotv-ace-tv">
     <display-name>ACE TV</display-name>
@@ -239,10 +207,6 @@
   <channel id="distrotv-real-americas-voice">
     <display-name>Real America's Voice</display-name>
     <icon src="https://a.jsrdn.com/hls/22995/real-americas-voice/logo_20231219_221226_64.png"/>
-  </channel>
-  <channel id="distrotv-powersports-world">
-    <display-name>Powersports World</display-name>
-    <icon src="https://a.jsrdn.com/hls/22964/powersports-world/logo_20240917_170643_68.png"/>
   </channel>
   <channel id="distrotv-garv-punjab-gurbani">
     <display-name>Garv Punjab Gurbani</display-name>
@@ -260,10 +224,6 @@
     <display-name>AfroLandTV</display-name>
     <icon src="https://a.jsrdn.com/hls/23000/afrolandtv/logo_20231219_184044_45.png"/>
   </channel>
-  <channel id="distrotv-acl-cornhole-tv">
-    <display-name>ACL Cornhole TV</display-name>
-    <icon src="https://a.jsrdn.com/hls/22964/acl-cornhole-tv/logo_20231219_183932_68.png"/>
-  </channel>
   <channel id="distrotv-hare-krsna">
     <display-name>Hare Krsna</display-name>
     <icon src="https://a.jsrdn.com/hls/22994/hare-krsna/logo_20231219_202633_68.png"/>
@@ -271,30 +231,6 @@
   <channel id="distrotv-swerve-combat">
     <display-name>Swerve Combat</display-name>
     <icon src="https://a.jsrdn.com/hls/23018/swerve-combat/logo_20231219_222813_26.png"/>
-  </channel>
-  <channel id="distrotv-abp-news">
-    <display-name>ABP News</display-name>
-    <icon src="https://a.jsrdn.com/hls/23011/abp-news/logo_20250512_175525_68.png"/>
-  </channel>
-  <channel id="distrotv-abp-asmita">
-    <display-name>ABP Asmita</display-name>
-    <icon src="https://a.jsrdn.com/hls/23011/abp-asmita/logo_20250512_175437_68.png"/>
-  </channel>
-  <channel id="distrotv-abp-majha">
-    <display-name>ABP Majha</display-name>
-    <icon src="https://a.jsrdn.com/hls/23011/abp-majha/logo_20250512_175510_68.png"/>
-  </channel>
-  <channel id="distrotv-abp-ananda">
-    <display-name>ABP Ananda</display-name>
-    <icon src="https://a.jsrdn.com/hls/23011/abp-ananda/logo_20250512_175422_68.png"/>
-  </channel>
-  <channel id="distrotv-abp-ganga">
-    <display-name>ABP Ganga</display-name>
-    <icon src="https://a.jsrdn.com/hls/23011/abp-ganga/logo_20250512_175453_68.png"/>
-  </channel>
-  <channel id="distrotv-abp-sanjha">
-    <display-name>ABP Sanjha</display-name>
-    <icon src="https://a.jsrdn.com/hls/23011/abp-sanjha/logo_20250512_175546_68.png"/>
   </channel>
   <channel id="distrotv-afriwood-blockbuster">
     <display-name>Afriwood Blockbuster</display-name>
@@ -444,53 +380,13 @@
     <display-name>CraftsyTV</display-name>
     <icon src="https://a.jsrdn.com/hls/23108/craftsytv/logo_20231219_192821_64.png"/>
   </channel>
-  <channel id="distrotv-9xm">
-    <display-name>9XM</display-name>
-    <icon src="https://a.jsrdn.com/hls/23111/9xm/logo_20240607_163326_70.png"/>
-  </channel>
-  <channel id="distrotv-9x-jalwa">
-    <display-name>9X Jalwa</display-name>
-    <icon src="https://a.jsrdn.com/hls/23111/9x-jalwa/logo_20231219_183550_55.png"/>
-  </channel>
-  <channel id="distrotv-britasiatv">
-    <display-name>BritAsiaTV</display-name>
-    <icon src="https://a.jsrdn.com/hls/22693/britasiatv/logo_20231219_185045_64.png"/>
-  </channel>
   <channel id="distrotv-jewish-life-television-jltv">
     <display-name>Jewish Life Television JLTV</display-name>
     <icon src="https://a.jsrdn.com/hls/23114/jewish-life-television-jltv/logo_20231219_214334_56.png"/>
   </channel>
-  <channel id="distrotv-news9live">
-    <display-name>News9Live</display-name>
-    <icon src="https://a.jsrdn.com/hls/23129/news9live/logo_20250813_011629_68.jpg"/>
-  </channel>
-  <channel id="distrotv-tv9-bangla">
-    <display-name>TV9 Bangla</display-name>
-    <icon src="https://a.jsrdn.com/hls/23129/tv9-bangla/logo_20231219_225218_68.png"/>
-  </channel>
-  <channel id="distrotv-tv9-bharatvarsh">
-    <display-name>TV9 Bharatvarsh</display-name>
-    <icon src="https://a.jsrdn.com/hls/23129/tv9-bharatvarsh/logo_20250813_011816_68.jpg"/>
-  </channel>
-  <channel id="distrotv-tv9-gujarati">
-    <display-name>TV9 Gujarati</display-name>
-    <icon src="https://a.jsrdn.com/hls/23129/tv9-gujarati/logo_20231219_225259_68.png"/>
-  </channel>
-  <channel id="distrotv-tv9-kannada">
-    <display-name>TV9 Kannada</display-name>
-    <icon src="https://a.jsrdn.com/hls/23129/tv9-kannada/logo_20231219_225317_68.png"/>
-  </channel>
-  <channel id="distrotv-tv9-marathi">
-    <display-name>TV9 Marathi</display-name>
-    <icon src="https://a.jsrdn.com/hls/23129/tv9-marathi/logo_20231219_225337_68.png"/>
-  </channel>
   <channel id="distrotv-floracing-247">
     <display-name>FloRacing 24/7</display-name>
     <icon src="https://a.jsrdn.com/hls/22883/floracing-247/logo_20231219_225054_24.png"/>
-  </channel>
-  <channel id="distrotv-tv9-telugu-usa">
-    <display-name>TV9 Telugu USA</display-name>
-    <icon src="https://a.jsrdn.com/hls/23129/tv9-telugu-usa/logo_20231219_225420_68.png"/>
   </channel>
   <channel id="distrotv-crematv">
     <display-name>crema.tv</display-name>
@@ -563,10 +459,6 @@
   <channel id="distrotv-global-punjab-tv">
     <display-name>Global Punjab TV</display-name>
     <icon src="https://a.jsrdn.com/hls/22994/global-punjab-tv/logo_20240604_233922_70.png"/>
-  </channel>
-  <channel id="distrotv-pll-network">
-    <display-name>PLL Network</display-name>
-    <icon src="https://a.jsrdn.com/hls/22964/pll-network/logo_20240626_231937_70.png"/>
   </channel>
   <channel id="distrotv-trace-uk">
     <display-name>TRACE UK</display-name>
@@ -1036,10 +928,6 @@
     <display-name>Daystar Español</display-name>
     <icon src="https://a.jsrdn.com/hls/23240/daystar-espanol/logo_20251209_232554_70.png"/>
   </channel>
-  <channel id="distrotv-bowling-tv">
-    <display-name>Bowling TV</display-name>
-    <icon src="https://a.jsrdn.com/hls/22964/bowling-tv/logo_20260129_214128_70.png"/>
-  </channel>
   <channel id="distrotv-ctvn-akd-plus">
     <display-name>CTVN AKD Plus</display-name>
     <icon src="https://a.jsrdn.com/hls/23215/ctvn-akd-plus/logo_20251212_223640_70.png"/>
@@ -1059,10 +947,6 @@
   <channel id="distrotv-ontv4u">
     <display-name>ONTV4U</display-name>
     <icon src="https://a.jsrdn.com/hls/23241/ontv4u/logo_20251217_202223_70.png"/>
-  </channel>
-  <channel id="distrotv-pickleball-now">
-    <display-name>Pickleball Now</display-name>
-    <icon src="https://a.jsrdn.com/hls/22979/pickleball-now/logo_20260106_185156_70.png"/>
   </channel>
   <channel id="distrotv-ptc-punjabi-canada">
     <display-name>PTC Punjabi Canada</display-name>

@@ -1,23 +1,5 @@
 [
     {
-        "id": "distrotv-horizon-sports",
-        "raw_id": "horizon-sports",
-        "name": "Horizon Sports",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22705/horizon-sports/logo_20231219_213910_70.png",
-        "group": "Sports",
-        "description": "Motivating the world to be more active in nature. The best selection of endurance sports, wellness and adventure films."
-    },
-    {
-        "id": "distrotv-the-boat-show",
-        "raw_id": "the-boat-show",
-        "name": "The Boat Show",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-boat-show/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22706/the-boat-show/logo_20231219_223008_70.png",
-        "group": "Travel",
-        "description": "The Boat Show is the most watched TV program in the world dedicated to nautical lovers and boat owners."
-    },
-    {
         "id": "distrotv-outside-tv",
         "raw_id": "outside-tv",
         "name": "Outside",
@@ -43,15 +25,6 @@
         "logo": "https://a.jsrdn.com/hls/22819/newsmax-tv/logo_20231219_220350_38.png",
         "group": "News",
         "description": "Newsmax covers the latest developments in politics, national and world news, health, faith, personal finance, and technology with a unique American perspective and topics that the major media often ignore."
-    },
-    {
-        "id": "distrotv-lone-star",
-        "raw_id": "lone-star",
-        "name": "Lone Star",
-        "stream_url": "https://cineverse.g-mana.live/media/901011e7-9149-48cb-aabc-9218760e54fe/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22759/lone-star/logo_20231219_215208_70.png",
-        "group": "Entertainment",
-        "description": "Welcome to the Wild West! Lone Star, the rootinest tootinest 24/7 channel, presents western feature films, classic television, serials, and shorts ranging from singing cowboys to six-gun shooters."
     },
     {
         "id": "distrotv-kaloopy",
@@ -468,15 +441,6 @@
         "description": "JOURNY is the only channel at the intersection of travel, art, and culture! Watch curated content focused on immersive experiences and unique storytelling."
     },
     {
-        "id": "distrotv-motorracing",
-        "raw_id": "motorracing",
-        "name": "MotorRacing",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22705/motorracing/logo_20231219_215946_68.png",
-        "group": "Sports",
-        "description": "MotorRacing has the most exciting and diverse selection of motorsports racing on the planet \u2013 everything from customized vehicles, hot cars, mega trucks, motorcycles and more, racing on and off road, with a mix of speed, danger and pure motorized entertainment!"
-    },
-    {
         "id": "distrotv-wion-world-is-one-news",
         "raw_id": "wion-world-is-one-news",
         "name": "WION World is One News",
@@ -484,42 +448,6 @@
         "logo": "https://a.jsrdn.com/hls/22975/wion-world-is-one-news/logo_20231219_224158_68.png",
         "group": "News",
         "description": "WION (World is One News) is one of the fastest growing News channels in the world. WION a multinational English news channel examines global issues with in-depth analysis. It is a 24x7 News Network with presence is 80 countries and growing. WION is headquartered in New Delhi, India."
-    },
-    {
-        "id": "distrotv-billiard-tv",
-        "raw_id": "billiard-tv",
-        "name": "Billiard TV",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/billi.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22964/billiard-tv/logo_20231219_184548_37.png",
-        "group": "Sports",
-        "description": "Billiard TV is your go-to network for everything billiards. Watch your favorite players from all over the world compete on the biggest billiards stage!"
-    },
-    {
-        "id": "distrotv-barktv",
-        "raw_id": "barktv",
-        "name": "BarkTV",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/barktv/barkt.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22964/barktv/logo_20240220_175434_70.png",
-        "group": "Entertainment",
-        "description": "BarkTV is 100% dedicated to dogs. Original programming includes episodes on specific breeds, training and behavioral issues, and rescue shows. The channel focuses on family-friendly content our best friends bring to our lives. All dogs, all day."
-    },
-    {
-        "id": "distrotv-mirror-now",
-        "raw_id": "mirror-now",
-        "name": "Mirror Now",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mirror-now/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22979/mirror-now/logo_20231219_215545_66.png",
-        "group": "News",
-        "description": "Mirror Now is an Indian 24x7 English-language news channel owned by the India's largest media conglomerate The Times Group. A powerful media voice distinguished by its sincerity and commitment towards people centricity, Mirror Now covers national, international, business, sports, crime, and entertainment news in a fast-paced, crisp and concise manner."
-    },
-    {
-        "id": "distrotv-times-now-navbharat",
-        "raw_id": "times-now-navbharat",
-        "name": "Times Now Navbharat",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/times-now-navbharat/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22979/times-now-navbharat/logo_20231219_223143_59.png",
-        "group": "News",
-        "description": "TIMES NETWORK\u2019s first venture in the Hindi News category for HD audience, Times Now Navbharat has ground-breaking innovation and creates a new genre of content. It is an expert curator of segmented and differentiated content across news and entertainment genre."
     },
     {
         "id": "distrotv-ace-tv",
@@ -538,15 +466,6 @@
         "logo": "https://a.jsrdn.com/hls/22995/real-americas-voice/logo_20231219_221226_64.png",
         "group": "News",
         "description": "Delivering news programs and live-event coverage that captures the authentic voice and passion of real people all across America. Just Real News & Honest Views!"
-    },
-    {
-        "id": "distrotv-powersports-world",
-        "raw_id": "powersports-world",
-        "name": "Powersports World",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/powersports-world/pwrsp.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22964/powersports-world/logo_20240917_170643_68.png",
-        "group": "Sports",
-        "description": "Powersports World celebrates the people who experience action adventures on their motorcycles, jet skis, snowmobiles and ATVs.\u00a0\u00a0We share the passion and stories of\u00a0 those who ride, race, and conquer the street, dirt, water and snow.\u00a0 Ride with us.\u00a0\u00a0Powersports World."
     },
     {
         "id": "distrotv-garv-punjab-gurbani",
@@ -585,15 +504,6 @@
         "description": "Watch hundreds of free African movies, Nollywood, and TV shows from Africa and its diaspora!"
     },
     {
-        "id": "distrotv-acl-cornhole-tv",
-        "raw_id": "acl-cornhole-tv",
-        "name": "ACL Cornhole TV",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/acl-cornhole-tv/aclco.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22964/acl-cornhole-tv/logo_20231219_183932_68.png",
-        "group": "Sports",
-        "description": "ACL Cornhole TV is the ultimate destination for fans of Cornhole. Tune in for coverage of American Cornhole League events and original programming with ACL Analysts and Pros."
-    },
-    {
         "id": "distrotv-hare-krsna",
         "raw_id": "hare-krsna",
         "name": "Hare Krsna",
@@ -610,60 +520,6 @@
         "logo": "https://a.jsrdn.com/hls/23018/swerve-combat/logo_20231219_222813_26.png",
         "group": "Sports",
         "description": "Swerve Combat delivers non-stop action with boxing, MMA, wrestling, and strength competitions along with gripping stories about the world\u2019s most inspirational athletes."
-    },
-    {
-        "id": "distrotv-abp-news",
-        "raw_id": "abp-news",
-        "name": "ABP News",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-news/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23011/abp-news/logo_20250512_175525_68.png",
-        "group": "News",
-        "description": "ABP News is a popular Hindi News Channel made its debut as STAR News in 2004 & was rebranded to ABP News from June 2012.The vision of the channel is 'Aapko Rakhe Aagey'- the promise of keeping each individual ahead & informed. It maintains the repute of being a people's channel."
-    },
-    {
-        "id": "distrotv-abp-asmita",
-        "raw_id": "abp-asmita",
-        "name": "ABP Asmita",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-asmita/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23011/abp-asmita/logo_20250512_175437_68.png",
-        "group": "News",
-        "description": "ABP ASMITA is a Gujarati news channel from the house of ABP Network. Its tagline represents the pride of Gujarat \"ABP Asmita, Gujarat Ni Asmita\", the channel has defined itself as a responsible with unbiased approach that combines prompt reporting with insightful analysis of news."
-    },
-    {
-        "id": "distrotv-abp-majha",
-        "raw_id": "abp-majha",
-        "name": "ABP Majha",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-majha/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23011/abp-majha/logo_20250512_175510_68.png",
-        "group": "News",
-        "description": "ABP Majha is a leading Marathi News Channel. ABP Majha deliberates on fundamentally pertinent issues that are of significance to the common man. With 14 yrs. of legacy, we are known for our flagship shows & initiatives, 24x7 news coverage, and a highly viewer-driven approach."
-    },
-    {
-        "id": "distrotv-abp-ananda",
-        "raw_id": "abp-ananda",
-        "name": "ABP Ananda",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ananda/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23011/abp-ananda/logo_20250512_175422_68.png",
-        "group": "News",
-        "description": "ABP Ananda is a Bengali news channel that launched on June 1, 2005. Right from inception, ABP Ananda has brought news from around the World to every Bengali. With fearless reporting and the urge to bring the news first to viewers, ABP Ananda today is the undisputed leader."
-    },
-    {
-        "id": "distrotv-abp-ganga",
-        "raw_id": "abp-ganga",
-        "name": "ABP Ganga",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ganga/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23011/abp-ganga/logo_20250512_175453_68.png",
-        "group": "News",
-        "description": "Launched in April 2019, ABP Ganga is the fastest growing regional Hindi news channel in Uttar Pradesh & Uttarakhand. In a short span the channel has established itself as one of the market leaders through its standout reporting, in depth coverage & industry leading aesthetics."
-    },
-    {
-        "id": "distrotv-abp-sanjha",
-        "raw_id": "abp-sanjha",
-        "name": "ABP Sanjha",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-sanjha/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23011/abp-sanjha/logo_20250512_175546_68.png",
-        "group": "News",
-        "description": "ABP Sanjha is a Punjabi language news channel reflecting the essence of Punjabiyat and focuses on delivering news & infotainment related to the Punjabis globally. The reporting & programming on the channel also strongly reflect the 3 pillars of \u2018Punjabiyat\u2019 \u2013Josh, Jazba & Junoon."
     },
     {
         "id": "distrotv-afriwood-blockbuster",
@@ -999,33 +855,6 @@
         "description": "Embracing the process, trying new things, reveling in surprises and imperfections; all contribute to the\u00a0immense satisfaction that comes from lifelong learning. CraftsyTV is your always-on portal for tapping into\u00a0your talents by learning new skills and enhancing those you have."
     },
     {
-        "id": "distrotv-9xm",
-        "raw_id": "9xm",
-        "name": "9XM",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23111/9xm/logo_20240607_163326_70.png",
-        "group": "Music",
-        "description": "India Ka Sabse Favourite Music Destination\u20269XM-Music Idhar Hai\u2026If you crave for Hit Film Music or Non-Film music, this is the place to have it all! Groove with the iconic animated characters Bade-Chote and Bheegi Billi to the latest hits, dance to peppy tracks, lo-fi sounds, or the best drive music in the country\u2026 9XM is your go-to destination! Get India\u2019s biggest chartbusters or discover the next big thing in Music\u2026sab type ka Music Idhar Hai\u2026only on 9XM!"
-    },
-    {
-        "id": "distrotv-9x-jalwa",
-        "raw_id": "9x-jalwa",
-        "name": "9X Jalwa",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23111/9x-jalwa/logo_20231219_183550_55.png",
-        "group": "Music",
-        "description": "India\u2019s largest music network brings to you 9x Jalwa-Dil Wali Vibe, where we play forever hits"
-    },
-    {
-        "id": "distrotv-britasiatv",
-        "raw_id": "britasiatv",
-        "name": "BritAsiaTV",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22693/britasiatv/logo_20231219_185045_64.png",
-        "group": "Entertainment",
-        "description": "BritAsiaTV features the very best in Asian music, both UK based and overseas music. Being a diverse channel with a main focus of Bhangra, Punjabi Pop and Bollywood, BritAsiaTV also offers viewers R&B, Urban music, Hip Hop and Underground music."
-    },
-    {
         "id": "distrotv-jewish-life-television-jltv",
         "raw_id": "jewish-life-television-jltv",
         "name": "Jewish Life Television JLTV",
@@ -1035,60 +864,6 @@
         "description": "Jewish Life Television is the nation's largest, most robust Jewish-themed television network. More cultural than religious, JLTV offers entertaining, high-quality programming appealing to viewers of all faiths interested in the history, lifestyle and experience of the Jewish people in the United States, in Israel and around the World."
     },
     {
-        "id": "distrotv-news9live",
-        "raw_id": "news9live",
-        "name": "News9Live",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news9live/main.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23129/news9live/logo_20250813_011629_68.jpg",
-        "group": "News",
-        "description": "News9Live is the digital wing of the TV9 news network and is the fastest growing digital news platform in India. We bring you thought-provoking stories from across the globe on topics ranging from Latest News, Politics, Current Affairs, Defence, Finance, Entertainment & Sports to latest trends on Social media, Wellness, Tech and the latest from the world of Science."
-    },
-    {
-        "id": "distrotv-tv9-bangla",
-        "raw_id": "tv9-bangla",
-        "name": "TV9 Bangla",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bangla/main.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23129/tv9-bangla/logo_20231219_225218_68.png",
-        "group": "News",
-        "description": "TV9 Bangla\u00a0was launched in April 2021 in the middle of the second wave of the Covid-19 pandemic. With its fair and robust brand of journalism, TV9 Bangla has created top-of-the-mind recall in a very short period. In the very first year of operations, the channel won accolades at the Indian Telly Awards 2022 in the Best Factual Entertainment Show/Documentary category. In its short journey so far, TV9 Bangla has differentiated itself from competitors in the market with creative and intellectually rich content such as Bangaliana Telethon, Bangaliana Baithak, Nakkhatra Samman and programmes such as News Series. TV9 Bangla is helmed by Amritanshu Bhattacharya."
-    },
-    {
-        "id": "distrotv-tv9-bharatvarsh",
-        "raw_id": "tv9-bharatvarsh",
-        "name": "TV9 Bharatvarsh",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bharatvarsh/main.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23129/tv9-bharatvarsh/logo_20250813_011816_68.jpg",
-        "group": "News",
-        "description": "TV9 Bharatvarsh has become the country\u2019s most watched national Hindi news channel. It has scripted history to be crowned the No.1 Hindi news channel in the country. The channel\u2019s coverage of landmark news events \u2013 such as the Russia-Ukraine war, the Covid-19 pandemic and the Uttar Pradesh election to name just three \u2013 marked by its editorial prowess, newsroom innovation, impeccable packaging and unrivaled ground reportage, saw it rise sharply up the ratings ladder. This rise has been consistent over the last two years. Its relaunch in March 2020 coincided with the Covid-19 lockdown. With people confined to their houses for months, news viewership grew exponentially. The channel\u2019s contemporary look and feel and its innovative content offering, received a ready, wide audience. Within three months, the channel rose to the top of the pile hitting the number 2 slot also on a few occasions. The upward trajectory continued until ratings were unfortunately suspended in October 2020. Undeterred, the channel continued to challenge and better itself this was reflected once ratings resumed after 17 months. TV9 Bharatvarsh trounced the legacy leader of 22 years on March 17, 2022. The remarkable turnaround has proved to be historic. Our Hindi flagship channel created several firsts: use of newsroom studios, packaging, and reimagined prime time. TV9 Bharatvarsh has become a case study itself where leadership is manifest in every second of its airtime offering."
-    },
-    {
-        "id": "distrotv-tv9-gujarati",
-        "raw_id": "tv9-gujarati",
-        "name": "TV9 Gujarati",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-gujarati/main.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23129/tv9-gujarati/logo_20231219_225259_68.png",
-        "group": "News",
-        "description": "TV9 Gujarati\u00a0is the leading news platform in Gujarat both in its broadcasting and digital avatars. The Gujarati language platform has been unstoppable since its launch, retaining its leadership position. With its tagline of Garv Chhe Gujarati Chhun (Proud to be Gujarati), TV9 Gujarati has been the chronicler of Gujarati pride. True to its tagline, the platform also celebrates the entrepreneurial spirit of Gujarat. For the discerning audience in Gujarat, TV9 Gujarati is the go-to brand that disseminates clear, precise and insightful news. TV9 Gujarati\u2019s mission has been to continue advancing and improving the quality of news dissemination in Gujarati. Today, Gujaratis all over the world turn to TV9 Gujarati for any news from the region. Be it a natural disaster or an important political development, TV9 Gujarati rises to the occasion to provide structured information to its viewers with people-centricity at the core of its reporting. With a pro-people motto, both the TV and digital platforms of TV9 Gujarati have come to rule the hearts of viewers."
-    },
-    {
-        "id": "distrotv-tv9-kannada",
-        "raw_id": "tv9-kannada",
-        "name": "TV9 Kannada",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-kannada/main.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23129/tv9-kannada/logo_20231219_225317_68.png",
-        "group": "News",
-        "description": "TV9 Kannada\u00a0is Karnataka\u2019s No. 1 news channel by far, with a market bigger than that of its No. 2 and No. 3 rivals combined. The first news channel to be launched in the state in 2006, it has maintained its position as the definitive market leader. TV9 Kannada, part of India\u2019s biggest news network, offers the most comprehensive, authoritative, and unbiased coverage of news across the state, nation, and the world. Its news-based programmes routinely feature among the top shows in BARC\u2019s weekly ratings of news shows. The channel boasts of the biggest news gathering team in the state, with its own dedicated reporters and camerapersons in all of Karnataka\u2019s 31 districts. Over the years, TV9 Kannada has served as the go-to channel for news consumers from across the social strata--be it the common man, the intelligentsia, or the elite. With its sharp focus on fact-checked news breaks and insightful analysis, TV9 Kannada offers the most comprehensive news coverage to viewers. The channel\u2019s guiding principle continues to be \u201cUttama Samajakkage\u201d - \u201cfor a better society\u201d. TV9 Kannada is at the forefront of all issues that affect Kannadigas - floods, polluting industries, disease, or corruption in public life. TV9 Kannada\u2019s digital offerings on the web, social media, and YouTube have the highest following among all the Kannada news channels."
-    },
-    {
-        "id": "distrotv-tv9-marathi",
-        "raw_id": "tv9-marathi",
-        "name": "TV9 Marathi",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-marathi/main.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23129/tv9-marathi/logo_20231219_225337_68.png",
-        "group": "News",
-        "description": "TV9 Marathi\u00a0is a responsible news brand which has been consistently delivering news in its purest form. TV9 Marathi became the most preferred Marathi news channel in Maharashtra in 2022. It is the No. 1 channel across both the urban and rural Maharashtra/ Goa markets. With a reach of more than 23 million viewers, it also generates more than 38 million impressions per week. TV9 Marathi is the fastest in providing news to viewers and is driven by the renewed philosophy of \u201cKalji Tumchi Hith Maharashtrache\" (Viewers\u2019 concerns and in the interest of Maharashtra). TV9 Marathi stands for fearless and bold journalism. The channel is led by experienced journalist Mr. Umesh Kumawat, known for his aggressive and fearless style."
-    },
-    {
         "id": "distrotv-floracing-247",
         "raw_id": "floracing-247",
         "name": "FloRacing 24/7",
@@ -1096,15 +871,6 @@
         "logo": "https://a.jsrdn.com/hls/22883/floracing-247/logo_20231219_225054_24.png",
         "group": "Sports",
         "description": "All racing, all the time on the FloRacing 24/7 channel! FloRacing is the authentic home of short-track racing \u2013 offering year-long live and on-demand races and content from the best series, events, and tracks, including all-access coverage, breaking news, podcasts, at-track & series-long activations."
-    },
-    {
-        "id": "distrotv-tv9-telugu-usa",
-        "raw_id": "tv9-telugu-usa",
-        "name": "TV9 Telugu USA",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-telugu-usa/main.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23129/tv9-telugu-usa/logo_20231219_225420_68.png",
-        "group": "News",
-        "description": "TV9 entered the Telugu electronic media space in 2004, during its nascent stage. Since that time, TV9\u2019s slogan, \u201cTowards Better Society\u201d, has been not just a mere tagline but the guiding philosophy and driving policy of TV9 Telugu. TV9 has consistently portrayed news as news and has become synonymous with unbiased news and courageous investigative journalism. On behalf of the people, TV9 has unravelled several bribery cases through its powerful sting operations. Over the years, TV9 has stood as the voice of the voiceless and for the betterment of the citizenry. Whether it is an accident, bomb blast, natural calamity, unforeseen incident, political event or a high-profile case, whether it is in India or abroad, the TV9 Telegu team is at the scene first. With its unique news presentation and credibility, TV9 Telugu has become the No.1 news channel in the twin Telugu states of Andhra Pradesh and Telangana. Rajnikanth Vellalacheruvu leads the TV9 Telugu team."
     },
     {
         "id": "distrotv-crematv",
@@ -1267,15 +1033,6 @@
         "logo": "https://a.jsrdn.com/hls/22994/global-punjab-tv/logo_20240604_233922_70.png",
         "group": "News",
         "description": "Global Punjab TV is a premium quality 24X7 HD Punjabi television channel with a programming focus on quality news ,current affairs , politics , religion , culture , entertainment , business ,  humour and education about Punjab and the Punjabi community worldwide. Global Punjab TV is unmatched in its presentation of live community events in USA, Canada and India, thus making it the fastest growing and most sought after Punjabi TV. The content is created by keeping in mind old and young viewers, men and women, modern and traditional, spiritual and trendy generations."
-    },
-    {
-        "id": "distrotv-pll-network",
-        "raw_id": "pll-network",
-        "name": "PLL Network",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pll-network/pllne.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22964/pll-network/logo_20240626_231937_70.png",
-        "group": "Sports",
-        "description": "The PLL Network is the global destination for the best lacrosse in the world. Relive unforgettable moments from the Premier Lacrosse League, immerse yourself in features & documentaries and witness legendary performances from the past. The fastest game on two feet - 24/7."
     },
     {
         "id": "distrotv-trace-uk",
@@ -2331,15 +2088,6 @@
         "description": "Daystar Espa\u00f1ol transmite contenido cristiano en espa\u00f1ol, 24 horas al d\u00eda, los 7 d\u00edas de la semana. Nuestro objetivo es difundir el Evangelio de Jesucristo, ofrecer programas de fe, adoraci\u00f3n, ense\u00f1anza b\u00edblica, testimonios, m\u00fasica cristiana y contenido para familias hispanohablantes. Llegamos a millones de hogares en Estados Unidos: cubrimos m\u00e1s del 90 % de los hogares hispanos con televisi\u00f3n en EE.UU. Tambi\u00e9n transmitimos a toda Latinoam\u00e9rica, e incluso tenemos cobertura internacional en otras regiones del mundo. Daystar Espa\u00f1ol es considera una de las redes cristianas en espa\u00f1ol de mayor crecimiento mundial."
     },
     {
-        "id": "distrotv-bowling-tv",
-        "raw_id": "bowling-tv",
-        "name": "Bowling TV",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bowling-tv/bowl.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22964/bowling-tv/logo_20260129_214128_70.png",
-        "group": "Sports",
-        "description": "Bowling TV is your destination for live tournaments, thrilling match play, classic showdowns, and nonstop bowling excitement."
-    },
-    {
         "id": "distrotv-ctvn-akd-plus",
         "raw_id": "ctvn-akd-plus",
         "name": "CTVN AKD Plus",
@@ -2383,15 +2131,6 @@
         "logo": "https://a.jsrdn.com/hls/23241/ontv4u/logo_20251217_202223_70.png",
         "group": "Lifestyle",
         "description": "ONTV4U is committed to providing our users with the latest As Seen On TV infomercial products available in the market today."
-    },
-    {
-        "id": "distrotv-pickleball-now",
-        "raw_id": "pickleball-now",
-        "name": "Pickleball Now",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pickleball-now/playlist.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22979/pickleball-now/logo_20260106_185156_70.png",
-        "group": "Sports",
-        "description": "Your global home for Pickleball! Watch live tournaments, on-demand replays, player interviews, short-form highlights, tactics, and behind-the-scenes access from the world\u2019s fastest-growing sport. Every rally, every emotion, every story \u2014 Pickleball Now brings it all together."
     },
     {
         "id": "distrotv-ptc-punjabi-canada",
