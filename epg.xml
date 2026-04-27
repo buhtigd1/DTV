@@ -168,17 +168,9 @@
     <display-name>Euronews Español</display-name>
     <icon src="https://a.jsrdn.com/hls/22886/euronews-spa/logo_20231218_175505_70.png"/>
   </channel>
-  <channel id="distrotv-bloomberg-television">
-    <display-name>Bloomberg Television</display-name>
-    <icon src="https://a.jsrdn.com/hls/22938/bloomberg-television/logo_20231219_184756_59.png"/>
-  </channel>
   <channel id="distrotv-cinelife">
     <display-name>CineLife</display-name>
     <icon src="https://a.jsrdn.com/hls/22933/cinelife/logo_20231219_192316_68.png"/>
-  </channel>
-  <channel id="distrotv-bloomberg-originals">
-    <display-name>Bloomberg Originals</display-name>
-    <icon src="https://a.jsrdn.com/hls/22938/bloomberg-originals/logo_20231219_184737_67.png"/>
   </channel>
   <channel id="distrotv-xfc-tv">
     <display-name>XFC TV</display-name>
@@ -675,10 +667,6 @@
   <channel id="distrotv-sports-first-tv">
     <display-name>Sports First TV</display-name>
     <icon src="https://a.jsrdn.com/hls/23208/sports-first-tv/logo_20250211_205731_70.png"/>
-  </channel>
-  <channel id="distrotv-cirque-du-soleil">
-    <display-name>Cirque du Soleil</display-name>
-    <icon src="https://a.jsrdn.com/hls/23207/cirque-du-soleil/logo_20260109_175622_70.png"/>
   </channel>
   <channel id="distrotv-aci-on-the-go">
     <display-name>ACI On The Go</display-name>

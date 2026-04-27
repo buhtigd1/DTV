@@ -378,15 +378,6 @@
         "description": "El \u00fanico canal de noticias internacional con una perspectiva europea. Su misi\u00f3n es permitir que cada uno se forme su propia opini\u00f3n. Euronews se define por su imparcialidad e independencia."
     },
     {
-        "id": "distrotv-bloomberg-television",
-        "raw_id": "bloomberg-television",
-        "name": "Bloomberg Television",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bloomberg-television/bloombergtv.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22938/bloomberg-television/logo_20231219_184756_59.png",
-        "group": "Finance",
-        "description": "Bloomberg Television delivers business and markets news, data, analysis, and video to the world, featuring stories from Businessweek and Bloomberg News."
-    },
-    {
         "id": "distrotv-cinelife",
         "raw_id": "cinelife",
         "name": "CineLife",
@@ -394,15 +385,6 @@
         "logo": "https://a.jsrdn.com/hls/22933/cinelife/logo_20231219_192316_68.png",
         "group": "Entertainment",
         "description": "CineLife, the destination for top-rated independent films and award-winning documentaries."
-    },
-    {
-        "id": "distrotv-bloomberg-originals",
-        "raw_id": "bloomberg-originals",
-        "name": "Bloomberg Originals",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bloomberg-quicktake/bloombergqt.m3u8",
-        "logo": "https://a.jsrdn.com/hls/22938/bloomberg-originals/logo_20231219_184737_67.png",
-        "group": "Entertainment",
-        "description": "Bloomberg Originals is streaming news for a global view and an informed take. Watch live news on the stories changing your business and your world, powered by 2700 journalists in 120 countries."
     },
     {
         "id": "distrotv-xfc-tv",
@@ -1519,15 +1501,6 @@
         "logo": "https://a.jsrdn.com/hls/23208/sports-first-tv/logo_20250211_205731_70.png",
         "group": "Sports",
         "description": "FAST moving 24/7 Sports News Network, daily breaking news about global sports, with interviews, features and highlights of the biggest sports events from over 200 sports federations. Covers sports from US and all around the world, EPL, NBA, NFL, MLB, F1, golf, tennis, cricket, etc."
-    },
-    {
-        "id": "distrotv-cirque-du-soleil",
-        "raw_id": "cirque-du-soleil",
-        "name": "Cirque du Soleil",
-        "stream_url": "https://amg01439-amg01439c1-amgplt0081.playout.now3.amagi.tv/playlist/amg01439-amg01439c1-amgplt0081/playlist.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23207/cirque-du-soleil/logo_20260109_175622_70.png",
-        "group": "Entertainment",
-        "description": "A compilation of Cirque du Soleil programs, including dozens of eye-popping live-capture performances, documentaries, master classes, Blue Man Group specials, music videos, and much more."
     },
     {
         "id": "distrotv-aci-on-the-go",
