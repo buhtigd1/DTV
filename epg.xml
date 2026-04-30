@@ -680,22 +680,6 @@
     <display-name>Cigar TV</display-name>
     <icon src="https://a.jsrdn.com/hls/23212/cigar-tv/logo_20250318_223344_70.png"/>
   </channel>
-  <channel id="distrotv-aaj-ki-khabar">
-    <display-name>Aaj Ki Khabar</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/aaj-ki-khabar/logo_20250401_175431_70.png"/>
-  </channel>
-  <channel id="distrotv-atmadarshan-tv">
-    <display-name>Atmadarshan Tv</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/atmadarshan-tv/logo_20250401_181523_70.png"/>
-  </channel>
-  <channel id="distrotv-tara-tv">
-    <display-name>Tara Tv</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/tara-tv/logo_20250401_184429_70.png"/>
-  </channel>
-  <channel id="distrotv-the-unmute">
-    <display-name>The Unmute</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/the-unmute/logo_20250401_185248_70.png"/>
-  </channel>
   <channel id="distrotv-wild-nature">
     <display-name>Wild Nature</display-name>
     <icon src="https://a.jsrdn.com/hls/23208/wild-nature/logo_20250401_214215_70.png"/>
@@ -703,30 +687,6 @@
   <channel id="distrotv-wild-tv">
     <display-name>Wild TV</display-name>
     <icon src="https://a.jsrdn.com/hls/23208/wild-tv/logo_20250401_215043_70.png"/>
-  </channel>
-  <channel id="distrotv-vande-bharat-news">
-    <display-name>Vande Bharat News</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/vande-bharat-news/logo_20250429_224300_68.png"/>
-  </channel>
-  <channel id="distrotv-ktv-bangla">
-    <display-name>KTV Bangla</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/ktv-bangla/logo_20251030_205317_70.png"/>
-  </channel>
-  <channel id="distrotv-ann-channel">
-    <display-name>Ann Channel</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/ann-channel/logo_20250429_232010_70.png"/>
-  </channel>
-  <channel id="distrotv-indian-news">
-    <display-name>Indian News</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/indian-news/logo_20251112_192835_70.png"/>
-  </channel>
-  <channel id="distrotv-mahua-play">
-    <display-name>Mahua Play</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/mahua-play/logo_20250429_233701_70.png"/>
-  </channel>
-  <channel id="distrotv-mahua-khabar">
-    <display-name>Mahua Khabar</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/mahua-khabar/logo_20250429_234028_70.png"/>
   </channel>
   <channel id="distrotv-chicas-guapas-tv">
     <display-name>Chicas Guapas TV</display-name>
@@ -739,42 +699,6 @@
   <channel id="distrotv-in-touch-plus">
     <display-name>In Touch+</display-name>
     <icon src="https://a.jsrdn.com/hls/23223/in-touch-plus/logo_20250610_210529_70.png"/>
-  </channel>
-  <channel id="distrotv-anand-tv">
-    <display-name>Anand Tv</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/anand-tv/logo_20250611_202131_70.png"/>
-  </channel>
-  <channel id="distrotv-bharat-24">
-    <display-name>Bharat 24</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/bharat-24/logo_20250611_203139_70.png"/>
-  </channel>
-  <channel id="distrotv-mahaa-max">
-    <display-name>Mahaa Max</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/mahaa-max/logo_20250611_203843_68.png"/>
-  </channel>
-  <channel id="distrotv-mahaa-news">
-    <display-name>Mahaa News</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/mahaa-news/logo_20250611_204304_68.png"/>
-  </channel>
-  <channel id="distrotv-munsif-tv">
-    <display-name>Munsif Tv</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/munsif-tv/logo_20250611_205016_68.png"/>
-  </channel>
-  <channel id="distrotv-news-marathi-24x7">
-    <display-name>News Marathi 24X7</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/news-marathi-24x7/logo_20250611_210319_70.png"/>
-  </channel>
-  <channel id="distrotv-rongeen-tv">
-    <display-name>Rongeen Tv</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/rongeen-tv/logo_20250611_210748_68.png"/>
-  </channel>
-  <channel id="distrotv-rozana-spokesman">
-    <display-name>Rozana Spokesman</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/rozana-spokesman/logo_20250611_211157_70.png"/>
-  </channel>
-  <channel id="distrotv-prameya-news7">
-    <display-name>Prameya News7</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/prameya-news7/logo_20250614_211231_70.png"/>
   </channel>
   <channel id="distrotv-unchainedtv">
     <display-name>UnchainedTV</display-name>
@@ -812,26 +736,6 @@
     <display-name>Elevation Church Network</display-name>
     <icon src="https://a.jsrdn.com/hls/23224/elevation-church-network/logo_20250623_165558_70.png"/>
   </channel>
-  <channel id="distrotv-news-tamil-24x7">
-    <display-name>News Tamil 24x7</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/news-tamil-24x7/logo_20250710_175602_68.png"/>
-  </channel>
-  <channel id="distrotv-news-malayalam-24x7">
-    <display-name>News Malayalam 24x7</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/news-malayalam-24x7/logo_20250710_180603_68.png"/>
-  </channel>
-  <channel id="distrotv-world-punjabi-tv">
-    <display-name>World Punjabi Tv</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/world-punjabi-tv/logo_20250813_195456_68.png"/>
-  </channel>
-  <channel id="distrotv-top-news-marathi">
-    <display-name>Top News Marathi</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/top-news-marathi/logo_20250813_200205_70.png"/>
-  </channel>
-  <channel id="distrotv-pratham-khabar-24x7">
-    <display-name>Pratham Khabar 24x7</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/pratham-khabar-24x7/logo_20250813_201110_68.png"/>
-  </channel>
   <channel id="distrotv-cinema-yoruba">
     <display-name>Cinema Yoruba</display-name>
     <icon src="https://a.jsrdn.com/hls/23181/cinema-yoruba/logo_20250818_193407_70.png"/>
@@ -843,42 +747,6 @@
   <channel id="distrotv-novo-comedy">
     <display-name>Novo Comedy</display-name>
     <icon src="https://a.jsrdn.com/hls/23181/novo-comedy/logo_20250818_195239_70.png"/>
-  </channel>
-  <channel id="distrotv-kolkata-tv">
-    <display-name>Kolkata Tv</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/kolkata-tv/logo_20250819_185012_70.png"/>
-  </channel>
-  <channel id="distrotv-p18-news">
-    <display-name>P18 News</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/p18-news/logo_20250819_191658_70.png"/>
-  </channel>
-  <channel id="distrotv-big-tv">
-    <display-name>Big Tv</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/big-tv/logo_20250911_175211_70.png"/>
-  </channel>
-  <channel id="distrotv-abn-andhra-jyothy">
-    <display-name>ABN Andhra Jyothy</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/abn-andhra-jyothy/logo_20250911_180032_70.png"/>
-  </channel>
-  <channel id="distrotv-sana-tv">
-    <display-name>Sana Tv</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/sana-tv/logo_20251009_220955_68.png"/>
-  </channel>
-  <channel id="distrotv-janataa-tv-kannada">
-    <display-name>Janataa TV Kannada</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/janataa-tv-kannada/logo_20251009_221851_68.png"/>
-  </channel>
-  <channel id="distrotv-da-news-plus">
-    <display-name>DA News Plus</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/da-news-plus/logo_20251009_222532_70.png"/>
-  </channel>
-  <channel id="distrotv-gujarat-first">
-    <display-name>Gujarat First</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/gujarat-first/logo_20251028_215133_68.png"/>
-  </channel>
-  <channel id="distrotv-35mm">
-    <display-name>35MM</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/35mm/logo_20251028_215600_70.png"/>
   </channel>
   <channel id="distrotv-unleashed-by-dogtv">
     <display-name>Unleashed by DOGTV</display-name>
@@ -896,10 +764,6 @@
     <display-name>Discovering China</display-name>
     <icon src="https://a.jsrdn.com/hls/23232/discovering-china/logo_20251105_005016_68.png"/>
   </channel>
-  <channel id="distrotv-prime-asia-tv">
-    <display-name>Prime Asia Tv</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/prime-asia-tv/logo_20251125_201232_70.png"/>
-  </channel>
   <channel id="distrotv-daystar-tv">
     <display-name>Daystar TV</display-name>
     <icon src="https://a.jsrdn.com/hls/23240/daystar-tv/logo_20251209_232020_69.png"/>
@@ -907,14 +771,6 @@
   <channel id="distrotv-daystar-espanol">
     <display-name>Daystar Español</display-name>
     <icon src="https://a.jsrdn.com/hls/23240/daystar-espanol/logo_20251209_232554_70.png"/>
-  </channel>
-  <channel id="distrotv-ctvn-akd-plus">
-    <display-name>CTVN AKD Plus</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/ctvn-akd-plus/logo_20251212_223640_70.png"/>
-  </channel>
-  <channel id="distrotv-cn-news">
-    <display-name>CN News</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/cn-news/logo_20251212_224056_70.png"/>
   </channel>
   <channel id="distrotv-rvtv">
     <display-name>RVTV</display-name>
@@ -928,21 +784,9 @@
     <display-name>ONTV4U</display-name>
     <icon src="https://a.jsrdn.com/hls/23241/ontv4u/logo_20251217_202223_70.png"/>
   </channel>
-  <channel id="distrotv-ptc-punjabi-canada">
-    <display-name>PTC Punjabi Canada</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/ptc-punjabi-canada/logo_20260113_224655_70.png"/>
-  </channel>
   <channel id="distrotv-dj-central-tv">
     <display-name>DJ Central TV</display-name>
     <icon src="https://a.jsrdn.com/hls/23195/dj-central-tv/logo_20260120_204441_68.png"/>
-  </channel>
-  <channel id="distrotv-gtc-punjabi">
-    <display-name>GTC Punjabi</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/gtc-punjabi/logo_20260122_221155_70.png"/>
-  </channel>
-  <channel id="distrotv-punjabi-shorts">
-    <display-name>Punjabi Shorts</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/punjabi-shorts/logo_20260122_222121_70.png"/>
   </channel>
   <channel id="distrotv-rock-solid-wrestling-tv">
     <display-name>Rock Solid Wrestling TV</display-name>
@@ -967,14 +811,6 @@
   <channel id="distrotv-foosball-tv">
     <display-name>Foosball TV</display-name>
     <icon src="https://a.jsrdn.com/hls/23064/foosball-tv/logo_20260203_224826_68.png"/>
-  </channel>
-  <channel id="distrotv-bharat-express">
-    <display-name>Bharat Express</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/bharat-express/logo_20260203_230506_70.png"/>
-  </channel>
-  <channel id="distrotv-argus-news">
-    <display-name>Argus News</display-name>
-    <icon src="https://a.jsrdn.com/hls/23215/argus-news/logo_20260203_231211_70.png"/>
   </channel>
   <channel id="distrotv-cuisine-culture">
     <display-name>CUISINE CULTURE</display-name>

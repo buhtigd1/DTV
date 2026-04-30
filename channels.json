@@ -1530,42 +1530,6 @@
         "description": "Cigar TV holds the unique distinction of being the world's first 24/7 global streaming channel, broadcasted from our Ybor / Cigar City USA Studio available to millions of smart devices, featuring in-depth content about the cigar lifestyle, celebrity interviews, industry related news, product launches, events coverage, documentaries, and profiles of influential cigar aficionados worldwide."
     },
     {
-        "id": "distrotv-aaj-ki-khabar",
-        "raw_id": "aaj-ki-khabar",
-        "name": "Aaj Ki Khabar",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/aaj-ki-khabar/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/aaj-ki-khabar/logo_20250401_175431_70.png",
-        "group": "News",
-        "description": "Aaj Ki Khabar brings you fast, accurate, and unbiased news from India and around the world. Stay updated with breaking stories, in-depth analysis, and live coverage on politics, economy, culture, and more. Reliable reporting, anytime, anywhere\u2014because staying informed matters."
-    },
-    {
-        "id": "distrotv-atmadarshan-tv",
-        "raw_id": "atmadarshan-tv",
-        "name": "Atmadarshan Tv",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/atmadarshan-tv/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/atmadarshan-tv/logo_20250401_181523_70.png",
-        "group": "Lifestyle",
-        "description": "Atmadarshan Tv is your spiritual companion, bringing the Gospel to all. Experience Daily Mass, Adoration, Gospel music, and uplifting teachings on faith, theology, and the Holy Spirit. Join us for inspiration, healing, and deeper devotion. Subscribe and grow in faith with us!"
-    },
-    {
-        "id": "distrotv-tara-tv",
-        "raw_id": "tara-tv",
-        "name": "Tara Tv",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tara-tv/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/tara-tv/logo_20250401_184429_70.png",
-        "group": "Entertainment",
-        "description": "Tara Tv brings you the best of Kolkata\u2019s entertainment\u2014live music, exclusive interviews, TV shows, and cultural events. Celebrate the city\u2019s rich artistic legacy and vibrant talent with in-depth coverage and behind-the-scenes stories. Subscribe and stay connected to Kolkata\u2019s creative heartbeat!"
-    },
-    {
-        "id": "distrotv-the-unmute",
-        "raw_id": "the-unmute",
-        "name": "The Unmute",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-unmute/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/the-unmute/logo_20250401_185248_70.png",
-        "group": "News",
-        "description": "The Unmute is a digital platform amplifying unfiltered voices on politics, culture, tech, and social issues. Through articles, podcasts, and videos, we challenge mainstream narratives and spark meaningful conversations. Stay informed, think critically, and join the dialogue\u2014because every voice matters."
-    },
-    {
         "id": "distrotv-wild-nature",
         "raw_id": "wild-nature",
         "name": "Wild Nature",
@@ -1582,60 +1546,6 @@
         "logo": "https://a.jsrdn.com/hls/23208/wild-tv/logo_20250401_215043_70.png",
         "group": "Lifestyle",
         "description": "Step into the wild with Wild TV\u2019s FAST channel\u2014your free 24/7 destination for classic outdoor adventures and fan-favorite episodes."
-    },
-    {
-        "id": "distrotv-vande-bharat-news",
-        "raw_id": "vande-bharat-news",
-        "name": "Vande Bharat News",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vande-bharat-news/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/vande-bharat-news/logo_20250429_224300_68.png",
-        "group": "News",
-        "description": "Vande Bharat News brings you 24x7 news in crisp, clear Hindi\u2014from politics and entertainment to cricket and business. With honest reporting, powerful debates, and exclusive interviews, it keeps you connected to what\u2019s happening across India, every day."
-    },
-    {
-        "id": "distrotv-ktv-bangla",
-        "raw_id": "ktv-bangla",
-        "name": "KTV Bangla",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tribe-tv/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/ktv-bangla/logo_20251030_205317_70.png",
-        "group": "Entertainment",
-        "description": "KTV Bangla celebrates the heart of Bengal\u2014its traditions, festivals, and daily life. Watch cultural shows, regional documentaries, and stories that highlight Bengal\u2019s beauty and pride. From Raiganj to Kolkata, it\u2019s Bengal\u2019s own voice on screen."
-    },
-    {
-        "id": "distrotv-ann-channel",
-        "raw_id": "ann-channel",
-        "name": "Ann Channel",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ann-channel/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/ann-channel/logo_20250429_232010_70.png",
-        "group": "Entertainment",
-        "description": "Ann Channel brings you the stories and spirit of Kashmir\u2014its culture, people, and passions. With local programs, music, and the Kashmir Cricket League, it\u2019s a unique window into the Valley, broadcasting in Urdu and Hindi for every Kashmiri viewer."
-    },
-    {
-        "id": "distrotv-indian-news",
-        "raw_id": "indian-news",
-        "name": "Indian News",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-flash/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/indian-news/logo_20251112_192835_70.png",
-        "group": "News",
-        "description": "Indian News is Rajasthan\u2019s own news channel, covering local stories from over 300 panchayats and tehsils. Whether it\u2019s village issues, politics, or culture, our reporters bring you fast, fair, and fearless updates from the heart of Rajasthan."
-    },
-    {
-        "id": "distrotv-mahua-play",
-        "raw_id": "mahua-play",
-        "name": "Mahua Play",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahua-play/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/mahua-play/logo_20250429_233701_70.png",
-        "group": "Entertainment",
-        "description": "Mahua Play is the go-to channel for Bhojpuri lovers. Enjoy full-on entertainment\u2014blockbuster films, folk music, serials, and shows that feel like home. From family drama to festive fun, it\u2019s all here in your own language and style."
-    },
-    {
-        "id": "distrotv-mahua-khabar",
-        "raw_id": "mahua-khabar",
-        "name": "Mahua Khabar",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahua-khabar/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/mahua-khabar/logo_20250429_234028_70.png",
-        "group": "News",
-        "description": "Mahua Khabar brings sharp, local news from Bihar, Jharkhand, and nearby states. Whether it\u2019s politics, village issues, or ground reports, the channel tells the real stories of real people\u2014in the language and tone that feels truly yours."
     },
     {
         "id": "distrotv-chicas-guapas-tv",
@@ -1663,87 +1573,6 @@
         "logo": "https://a.jsrdn.com/hls/23223/in-touch-plus/logo_20250610_210529_70.png",
         "group": "Lifestyle",
         "description": "In Touch+ is a 24/7  television network founded by In Touch Ministries dedicated to spreading the gospel through the teachings of Dr. Charles Stanley. Viewers will be able to watch over 40 years of preaching from Dr. Stanley as well as other, carefully selected like-minded pastors."
-    },
-    {
-        "id": "distrotv-anand-tv",
-        "raw_id": "anand-tv",
-        "name": "Anand Tv",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/anand-tv/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/anand-tv/logo_20250611_202131_70.png",
-        "group": "Lifestyle",
-        "description": "The country's emerging spiritual channel Anand Tv (Na Bhooto Na Bhavishyati) \"The path of religion, devotion and peace\" guides towards the purification of the soul and devotion towards God. A unique confluence of 'Sanatan culture' only with Anand Tv"
-    },
-    {
-        "id": "distrotv-bharat-24",
-        "raw_id": "bharat-24",
-        "name": "Bharat 24",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bharat-24/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/bharat-24/logo_20250611_203139_70.png",
-        "group": "News",
-        "description": "Bharat 24- Vision Of New India, India's largest news network, touches the lives of over million Indians through a clutch of national and regional news channels. Bharat 24 - Where India Comes First: India's largest news network with national and regional channels, reaching over a million Indians. Our flagship channel, Bharat 24, embodies the 'Vision Of New India,' delivering hardcore news and earning national awards. We cater to diverse interests with verticals like Bharat 24 Punjab Haryana Himachal, Bharat 24 MPCG, Bharat 24 Shorts, Bharat 24 Digital, Bharat 24 Sports, and Digital Bharat. Comprehensive coverage spans Politics, Entertainment, Business, Astro, Crime, Technology, Lifestyle, Health, and Sports. Join us to uncover India's vision, one headline at a time. India Comes First at Bharat 24!"
-    },
-    {
-        "id": "distrotv-mahaa-max",
-        "raw_id": "mahaa-max",
-        "name": "Mahaa Max",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahaa-max/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/mahaa-max/logo_20250611_203843_68.png",
-        "group": "Entertainment",
-        "description": "Mahaa Max is a satellite-based Telugu entertainment channel, officially launched on October 24, 2023 by actor-politician Pawan Kalyan, at an event in Hyderabad. The channel features a mix of blockbuster Telugu and Bollywood movies, entertainment shows, celebrity interviews, and Tollywood/Bollywood event coverage."
-    },
-    {
-        "id": "distrotv-mahaa-news",
-        "raw_id": "mahaa-news",
-        "name": "Mahaa News",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahaa-news/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/mahaa-news/logo_20250611_204304_68.png",
-        "group": "News",
-        "description": "Mahaa News Live is a 24-hour Telugu News Channel Covering Mainly News & Events In Andhra Pradesh & Telangana. Tune In For Current Political, Sports, Health, Crime, Business, Entertainment & Weather Reports. Watch Live Debates, Exclusive Live Interviews With People Who Matter. Stay Updated With Mahaa News Live on YouTube For All The Latest News From India and Across The World."
-    },
-    {
-        "id": "distrotv-munsif-tv",
-        "raw_id": "munsif-tv",
-        "name": "Munsif Tv",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/munsif-tv/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/munsif-tv/logo_20250611_205016_68.png",
-        "group": "News",
-        "description": "Munsif Tv is one of India\u2019s oldest Urdu satellite news channels, launched in Hyderabad in 2009 by the Munsif Daily media group (est. 1963) munsiftv.com. Broadcasting 24\u00d77 news, debates, and talk shows, it serves over 40 million households, with a focus on ethical, unbiased reporting across urban Urdu-speaking audiences."
-    },
-    {
-        "id": "distrotv-news-marathi-24x7",
-        "raw_id": "news-marathi-24x7",
-        "name": "News Marathi 24X7",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-marathi-24x7/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/news-marathi-24x7/logo_20250611_210319_70.png",
-        "group": "News",
-        "description": "NEWS MARATHI 24X7, your go-to source for the latest and most accurate news in Marathi. We are a dedicated local news channel committed to bringing you the news that matters most to you, in your language. Whether it\u2019s breaking news, in-depth reports, or community stories, we ensure you stay informed around the clock. At NEWS MARATHI 24X7, we cover a wide range of topics, including politics, sports, entertainment, and local events, all from a Marathi perspective."
-    },
-    {
-        "id": "distrotv-rongeen-tv",
-        "raw_id": "rongeen-tv",
-        "name": "Rongeen Tv",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rongeen-tv/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/rongeen-tv/logo_20250611_210748_68.png",
-        "group": "Entertainment",
-        "description": "Rongeen Tv is a vibrant and only Bengali-language cartoon and kids entertainment channel, offering a mix of animated shows, educational programs, and fun-filled adventures. Launched to entertain young Bengali audiences, it combines global favorites and local content, creating a colorful world of imagination and learning for children across West Bengal and beyond."
-    },
-    {
-        "id": "distrotv-rozana-spokesman",
-        "raw_id": "rozana-spokesman",
-        "name": "Rozana Spokesman",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rozana-spokesman/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/rozana-spokesman/logo_20250611_211157_70.png",
-        "group": "News",
-        "description": "Rozana Spokesman is one of the best Punjabi-language daily newspaper and online news portal from Punjab. Founded to fill a void for independent regional journalism, it delivers fearless reporting, breaking news, editorials, and multimedia content. Backed by a rich legacy and strong digital presence, it\u2019s recognized as one of Punjab\u2019s most influential media outlets."
-    },
-    {
-        "id": "distrotv-prameya-news7",
-        "raw_id": "prameya-news7",
-        "name": "Prameya News7",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/prameya-news7/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/prameya-news7/logo_20250614_211231_70.png",
-        "group": "News",
-        "description": "Prameya News7, is a leading Odia News Channel of Odisha, India. The platform is proudly promoted by Summa Real Media Private Limited, an esteemed media company with a strong presence in the region."
     },
     {
         "id": "distrotv-unchainedtv",
@@ -1827,51 +1656,6 @@
         "description": "Elevation Church\u2019s FAST channel streams powerful sermons from Pastor Steven Furtick and dynamic worship from Elevation Worship 24/7. No subscriptions\u2014just life-changing messages and passionate praise, anytime, anywhere. Grow in faith, find hope, and encounter God\u2019s presence through preaching and worship."
     },
     {
-        "id": "distrotv-news-tamil-24x7",
-        "raw_id": "news-tamil-24x7",
-        "name": "News Tamil 24x7",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/news-tamil-24x7/logo_20250710_175602_68.png",
-        "group": "News",
-        "description": "News Tamil 24x7 is Chennai's leading news source. We deliver high-quality, factual news, 24/7. Guided by our motto, \"Meiporul Kanbathu Arivu\" (Knowledge is seeing reality), we bring you the truth, quickly and truthfully. Join us for news that matters."
-    },
-    {
-        "id": "distrotv-news-malayalam-24x7",
-        "raw_id": "news-malayalam-24x7",
-        "name": "News Malayalam 24x7",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-malayalam-24x7/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/news-malayalam-24x7/logo_20250710_180603_68.png",
-        "group": "News",
-        "description": "News Malayalam 24x7: Your trusted source for round-the-clock news. We deliver live reports, in-depth analysis, and unbiased coverage on politics, business, and entertainment across Kerala and beyond. Stay informed with us."
-    },
-    {
-        "id": "distrotv-world-punjabi-tv",
-        "raw_id": "world-punjabi-tv",
-        "name": "World Punjabi Tv",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/world-punjabi-tv/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/world-punjabi-tv/logo_20250813_195456_68.png",
-        "group": "News",
-        "description": "News for Punjabis, by Punjabis. World Punjabi TV is your 24/7 channel for news, interviews, and live events, including daily broadcasts from Gurudwara Nadha Sahib. Your connection to home, wherever you are."
-    },
-    {
-        "id": "distrotv-top-news-marathi",
-        "raw_id": "top-news-marathi",
-        "name": "Top News Marathi",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/top-news-marathi/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/top-news-marathi/logo_20250813_200205_70.png",
-        "group": "News",
-        "description": "Top News Marathi: Your trusted digital source for news in simple Marathi. We deliver breaking news, politics, entertainment, sports, and more. For credible, fast, and balanced journalism across Maharashtra and beyond, follow us."
-    },
-    {
-        "id": "distrotv-pratham-khabar-24x7",
-        "raw_id": "pratham-khabar-24x7",
-        "name": "Pratham Khabar 24x7",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pratham-khabar-24x7/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/pratham-khabar-24x7/logo_20250813_201110_68.png",
-        "group": "News",
-        "description": "Stay informed with Pratham Khabar 24x7. We deliver live Assamese news, feature interviews, and immersive storytelling right to your screen. From Guwahati to the globe, get credible news on politics, health, and more, 24/7."
-    },
-    {
         "id": "distrotv-cinema-yoruba",
         "raw_id": "cinema-yoruba",
         "name": "Cinema Yoruba",
@@ -1897,87 +1681,6 @@
         "logo": "https://a.jsrdn.com/hls/23181/novo-comedy/logo_20250818_195239_70.png",
         "group": "Entertainment",
         "description": "Novo comedy is a channel focusing primarily on comedy programming to lighten viewers day."
-    },
-    {
-        "id": "distrotv-kolkata-tv",
-        "raw_id": "kolkata-tv",
-        "name": "Kolkata Tv",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/kolkata-tv/logo_20250819_185012_70.png",
-        "group": "News",
-        "description": "An eminent 24-hour Bengali News Channel with a legacy of being the 2 Oldest Channel renowned for its credibility and integrity in content. The channel offers prompt news and real-time topics through a variety of shows targeting diverse viewership demographically and geographically. The content is a mix of general news entertainment, documentaries, special events coverage, etc."
-    },
-    {
-        "id": "distrotv-p18-news",
-        "raw_id": "p18-news",
-        "name": "P18 News",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/p18-news/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/p18-news/logo_20250819_191658_70.png",
-        "group": "News",
-        "description": "P18 News Channel is a trusted and dynamic news platform that delivers accurate and timely news in  Punjabi language. Committed to truth and responsibility, P18 covers national, regional, and local stories with a sharp focus on the issues that matter most to the people of Punjab and beyond. By presenting news in Punjabi, P18 connects deeply with regional audiences, while its Hindi broadcasts expand its reach to viewers across India. The channel\u2019s motto \u2013 \u201cFast and Factual\u201d \u2013 reflects its commitment to delivering news that is both quick and credible. P18 avoids sensationalism and fake news, focusing instead on honest journalism and public interest reporting. Available on TV, digital platforms, and social media, P18 ensures that audiences of all age groups stay connected to what\u2019s happening around them."
-    },
-    {
-        "id": "distrotv-big-tv",
-        "raw_id": "big-tv",
-        "name": "Big Tv",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/big-tv/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/big-tv/logo_20250911_175211_70.png",
-        "group": "News",
-        "description": "BigTv Telugu is a 24\u00d77, tech-driven Telugu news channel offering swift breaking news, live debates, political analysis, entertainment, sports, devotional segments, and OTT streaming for Andhra Pradesh and Telangana."
-    },
-    {
-        "id": "distrotv-abn-andhra-jyothy",
-        "raw_id": "abn-andhra-jyothy",
-        "name": "ABN Andhra Jyothy",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abn-andhra-jyothy/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/abn-andhra-jyothy/logo_20250911_180032_70.png",
-        "group": "News",
-        "description": "ABN Andhra Jyothi is a 24x7 Telugu news channel delivering breaking news, live updates, political debates, and exclusive interviews. Launched in 2009 under Aamoda Broadcasting Network, it has become a trusted source for fearless journalism across Andhra Pradesh, Telangana, and beyond. With its tagline \u201cWe Report, You Decide,\u201d the channel offers a wide mix of programming\u2014ranging from investigative reports to entertainment and business news. Its flagship talk show Open Heart with RK is among the most watched in Telugu media. ABN also reaches millions digitally through AndhraJyothi.com, extending its legacy of bold and impactful journalism."
-    },
-    {
-        "id": "distrotv-sana-tv",
-        "raw_id": "sana-tv",
-        "name": "Sana Tv",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sana-tv/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/sana-tv/logo_20251009_220955_68.png",
-        "group": "Entertainment",
-        "description": "Sana Tv is a vibrant Tamil-language entertainment channel, offering a Tamil infotainment shows, Movies, and fun-filled adventures. Launched to entertain young Tamil audiences, it combines favorites and local content, creating a colorful world of imagination and Entertainment for Tamil audience across World."
-    },
-    {
-        "id": "distrotv-janataa-tv-kannada",
-        "raw_id": "janataa-tv-kannada",
-        "name": "Janataa TV Kannada",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/janataa-tv-kannada/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/janataa-tv-kannada/logo_20251009_221851_68.png",
-        "group": "News",
-        "description": "Janataa TV Kannada your go-to platform for clear, courageous, and community-centered journalism. Our mission is simple: to bring you real stories from the people, not just about them. We believe that every citizen deserves access to accurate, timely news that reflects the voices, challenges, and achievements of every corner of society."
-    },
-    {
-        "id": "distrotv-da-news-plus",
-        "raw_id": "da-news-plus",
-        "name": "DA News Plus",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/da-news-plus/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/da-news-plus/logo_20251009_222532_70.png",
-        "group": "News",
-        "description": "DA News Plus dynamic digital news and media platform committed to delivering fast, reliable, and comprehensive updates from across India and the world. The portal covers a wide range of categories including national and international affairs, politics, business, sports, lifestyle, Bollywood, spirituality, and regional updates, making it a one-stop destination for readers with diverse interests."
-    },
-    {
-        "id": "distrotv-gujarat-first",
-        "raw_id": "gujarat-first",
-        "name": "Gujarat First",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gujarat-first/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/gujarat-first/logo_20251028_215133_68.png",
-        "group": "News",
-        "description": "\u201cAbhigam Thi Avval\u201d \u2014 Gujarat First stands for excellence in news. With bold stories, cutting-edge visuals, and fearless journalism, it keeps viewers ahead with the truth that matters."
-    },
-    {
-        "id": "distrotv-35mm",
-        "raw_id": "35mm",
-        "name": "35MM",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/35mm/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/35mm/logo_20251028_215600_70.png",
-        "group": "Lifestyle",
-        "description": "Exclusive Live from Khatu Shyam Mandir \u2014 Experience divine devotion with 35MM, the Hindi spiritual channel bringing live darshan, soulful bhajans, kathas, and inspiring programs that fill every home with faith and peace."
     },
     {
         "id": "distrotv-unleashed-by-dogtv",
@@ -2016,15 +1719,6 @@
         "description": "Discovering China features high-quality programs under themes like \u201cVibrant China,\u201d \u201cBeautiful China,\u201d and \u201cHistorical China.\u201d It showcases modern life, innovation, history, and nature while highlighting China\u2019s global interactions. A world of wonders awaits!"
     },
     {
-        "id": "distrotv-prime-asia-tv",
-        "raw_id": "prime-asia-tv",
-        "name": "Prime Asia Tv",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/prime-asia-tv/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/prime-asia-tv/logo_20251125_201232_70.png",
-        "group": "News",
-        "description": "A 24/7 Punjabi HD channel created for the global Punjabi diaspora \u2014 connecting communities with news, culture, talk shows, and entertainment in a voice that feels like home."
-    },
-    {
         "id": "distrotv-daystar-tv",
         "raw_id": "daystar-tv",
         "name": "Daystar TV",
@@ -2041,24 +1735,6 @@
         "logo": "https://a.jsrdn.com/hls/23240/daystar-espanol/logo_20251209_232554_70.png",
         "group": "Lifestyle",
         "description": "Daystar Espa\u00f1ol transmite contenido cristiano en espa\u00f1ol, 24 horas al d\u00eda, los 7 d\u00edas de la semana. Nuestro objetivo es difundir el Evangelio de Jesucristo, ofrecer programas de fe, adoraci\u00f3n, ense\u00f1anza b\u00edblica, testimonios, m\u00fasica cristiana y contenido para familias hispanohablantes. Llegamos a millones de hogares en Estados Unidos: cubrimos m\u00e1s del 90 % de los hogares hispanos con televisi\u00f3n en EE.UU. Tambi\u00e9n transmitimos a toda Latinoam\u00e9rica, e incluso tenemos cobertura internacional en otras regiones del mundo. Daystar Espa\u00f1ol es considera una de las redes cristianas en espa\u00f1ol de mayor crecimiento mundial."
-    },
-    {
-        "id": "distrotv-ctvn-akd-plus",
-        "raw_id": "ctvn-akd-plus",
-        "name": "CTVN AKD Plus",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ctvn-akd-plus/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/ctvn-akd-plus/logo_20251212_223640_70.png",
-        "group": "Entertainment",
-        "description": "CTVN AKD PLUS is your one-stop destination for rich, relevant, and diverse Bengali content that blends tradition with modernity, connecting Bengalis worldwide. The satellite channel aims to deliver high-quality programming that informs, entertains, and inspires audiences globally."
-    },
-    {
-        "id": "distrotv-cn-news",
-        "raw_id": "cn-news",
-        "name": "CN News",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cn-news/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/cn-news/logo_20251212_224056_70.png",
-        "group": "News",
-        "description": "Launched on 14th February 2016 by Calcutta Television Network Pvt. Ltd., CN News is a 24/7 Bengali news channel dedicated to serving the people of West Bengal and Bengali-speaking communities around the globe."
     },
     {
         "id": "distrotv-rvtv",
@@ -2088,15 +1764,6 @@
         "description": "ONTV4U is committed to providing our users with the latest As Seen On TV infomercial products available in the market today."
     },
     {
-        "id": "distrotv-ptc-punjabi-canada",
-        "raw_id": "ptc-punjabi-canada",
-        "name": "PTC Punjabi Canada",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ptc-punjabi-canada/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/ptc-punjabi-canada/logo_20260113_224655_70.png",
-        "group": "Entertainment",
-        "description": "PTC Punjab, the oldest and most premium Punjabi channel, has long been a trusted window into Punjab\u2019s heart and soul. Through entertainment, news, Gurbani, music, and cultural programming, it proudly celebrates Punjabi heritage and connects audiences worldwide to their roots."
-    },
-    {
         "id": "distrotv-dj-central-tv",
         "raw_id": "dj-central-tv",
         "name": "DJ Central TV",
@@ -2104,24 +1771,6 @@
         "logo": "https://a.jsrdn.com/hls/23195/dj-central-tv/logo_20260120_204441_68.png",
         "group": "Music",
         "description": "High-energy EDM channel featuring music videos, DJ sets, club culture, and global nightlife\u2014214+ hours of curated dance hits."
-    },
-    {
-        "id": "distrotv-gtc-punjabi",
-        "raw_id": "gtc-punjabi",
-        "name": "GTC Punjabi",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gtc-punjabi/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/gtc-punjabi/logo_20260122_221155_70.png",
-        "group": "Entertainment",
-        "description": "GTC Punjabi is a leading channel delivering diverse regional content including news, music, movies, and entertainment. With a strong focus on Punjabi and Indian audiences worldwide, GTC connects viewers through quality programming and innovative broadcasting."
-    },
-    {
-        "id": "distrotv-punjabi-shorts",
-        "raw_id": "punjabi-shorts",
-        "name": "Punjabi Shorts",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-shorts/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/punjabi-shorts/logo_20260122_222121_70.png",
-        "group": "Entertainment",
-        "description": "Punjabi Shorts is the world\u2019s first 24\u00d77 Punjabi short films channel, dedicated exclusively to powerful storytelling in a compact cinematic format. It is a destination created for viewers who value meaningful stories, strong performances, and fresh creative voices."
     },
     {
         "id": "distrotv-rock-solid-wrestling-tv",
@@ -2176,24 +1825,6 @@
         "logo": "https://a.jsrdn.com/hls/23064/foosball-tv/logo_20260203_224826_68.png",
         "group": "Sports",
         "description": "Foosball TV is the dedicated channel for table soccer lovers, featuring international competitions, top players and spectacular matches. A fast-paced and skill-driven sport, now showcased for fans worldwide in a dynamic and entertaining format."
-    },
-    {
-        "id": "distrotv-bharat-express",
-        "raw_id": "bharat-express",
-        "name": "Bharat Express",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bharat-express/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/bharat-express/logo_20260203_230506_70.png",
-        "group": "News",
-        "description": "Bharat Express is a national Hindi news channel from Noida, India, offering 24/7 comprehensive coverage of politics, national events, business, sports and more with credible and timely reporting. It aims to deliver fearless, fact-based journalism to audiences across India."
-    },
-    {
-        "id": "distrotv-argus-news",
-        "raw_id": "argus-news",
-        "name": "Argus News",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/argus-news/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23215/argus-news/logo_20260203_231211_70.png",
-        "group": "News",
-        "description": "Argus News is a leading Odia news channel delivering regional and national coverage. With a focus on truth and people\u2019s issues, it provides updates on politics, local events, sports, business and more, aiming to be Odisha\u2019s trusted voice in journalism."
     },
     {
         "id": "distrotv-cuisine-culture",
