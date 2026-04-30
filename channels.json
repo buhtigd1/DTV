@@ -1962,15 +1962,6 @@
         "description": "DA News Plus dynamic digital news and media platform committed to delivering fast, reliable, and comprehensive updates from across India and the world. The portal covers a wide range of categories including national and international affairs, politics, business, sports, lifestyle, Bollywood, spirituality, and regional updates, making it a one-stop destination for readers with diverse interests."
     },
     {
-        "id": "distrotv-sandesh-news",
-        "raw_id": "sandesh-news",
-        "name": "Sandesh News",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sandesh-news/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23233/sandesh-news/logo_20251028_214640_70.png",
-        "group": "News",
-        "description": "\u201cSachu Samachar, Sachu Sandesh\u201d \u2014 One of Gujarat\u2019s oldest and most trusted news channels, Sandesh News delivers fearless, factual reporting that connects viewers with truth, culture, and heritage."
-    },
-    {
         "id": "distrotv-gujarat-first",
         "raw_id": "gujarat-first",
         "name": "Gujarat First",
@@ -1987,15 +1978,6 @@
         "logo": "https://a.jsrdn.com/hls/23215/35mm/logo_20251028_215600_70.png",
         "group": "Lifestyle",
         "description": "Exclusive Live from Khatu Shyam Mandir \u2014 Experience divine devotion with 35MM, the Hindi spiritual channel bringing live darshan, soulful bhajans, kathas, and inspiring programs that fill every home with faith and peace."
-    },
-    {
-        "id": "distrotv-sakshi-tv",
-        "raw_id": "sakshi-tv",
-        "name": "Sakshi Tv",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sakshi-tv/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23234/sakshi-tv/logo_20251029_121718_70.png",
-        "group": "News",
-        "description": "Sakshi Tv, a leading 24x7 Telugu news channel by Sakshi Media Group, delivers credible, HD-quality news across politics, business, and current affairs with a people-first, truth-driven journalism approach."
     },
     {
         "id": "distrotv-unleashed-by-dogtv",
@@ -2113,15 +2095,6 @@
         "logo": "https://a.jsrdn.com/hls/23215/ptc-punjabi-canada/logo_20260113_224655_70.png",
         "group": "Entertainment",
         "description": "PTC Punjab, the oldest and most premium Punjabi channel, has long been a trusted window into Punjab\u2019s heart and soul. Through entertainment, news, Gurbani, music, and cultural programming, it proudly celebrates Punjabi heritage and connects audiences worldwide to their roots."
-    },
-    {
-        "id": "distrotv-amar-ujala",
-        "raw_id": "amar-ujala",
-        "name": "Amar Ujala",
-        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/amar-ujala/index.m3u8",
-        "logo": "https://a.jsrdn.com/hls/23249/amar-ujala/logo_20260115_224430_70.png",
-        "group": "News",
-        "description": "The strength of Amar Ujala lies in its consistent and superior editorial coverage, with a clear focus on a wide range of local issues across our 179 districts of operation, along with important state, national, and international matters."
     },
     {
         "id": "distrotv-dj-central-tv",

@@ -872,10 +872,6 @@
     <display-name>DA News Plus</display-name>
     <icon src="https://a.jsrdn.com/hls/23215/da-news-plus/logo_20251009_222532_70.png"/>
   </channel>
-  <channel id="distrotv-sandesh-news">
-    <display-name>Sandesh News</display-name>
-    <icon src="https://a.jsrdn.com/hls/23233/sandesh-news/logo_20251028_214640_70.png"/>
-  </channel>
   <channel id="distrotv-gujarat-first">
     <display-name>Gujarat First</display-name>
     <icon src="https://a.jsrdn.com/hls/23215/gujarat-first/logo_20251028_215133_68.png"/>
@@ -883,10 +879,6 @@
   <channel id="distrotv-35mm">
     <display-name>35MM</display-name>
     <icon src="https://a.jsrdn.com/hls/23215/35mm/logo_20251028_215600_70.png"/>
-  </channel>
-  <channel id="distrotv-sakshi-tv">
-    <display-name>Sakshi Tv</display-name>
-    <icon src="https://a.jsrdn.com/hls/23234/sakshi-tv/logo_20251029_121718_70.png"/>
   </channel>
   <channel id="distrotv-unleashed-by-dogtv">
     <display-name>Unleashed by DOGTV</display-name>
@@ -939,10 +931,6 @@
   <channel id="distrotv-ptc-punjabi-canada">
     <display-name>PTC Punjabi Canada</display-name>
     <icon src="https://a.jsrdn.com/hls/23215/ptc-punjabi-canada/logo_20260113_224655_70.png"/>
-  </channel>
-  <channel id="distrotv-amar-ujala">
-    <display-name>Amar Ujala</display-name>
-    <icon src="https://a.jsrdn.com/hls/23249/amar-ujala/logo_20260115_224430_70.png"/>
   </channel>
   <channel id="distrotv-dj-central-tv">
     <display-name>DJ Central TV</display-name>
